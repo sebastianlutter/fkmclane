@@ -14,8 +14,6 @@ dev-lang/kaitai-struct-compiler 0.6: Compiler for the Kaitai Struct project
 dev-python/boto 2.45.0: Amazon Web Services API
 dev-python/brotlipy 0.6.0-r1: Python binding to the Brotli library
 dev-python/construct 2.8.10: Construct is a powerful declarative parser (and builder) for binary data
-dev-python/editorconfig 0.12.1: EditorConfig File Locator and Interpreter for Python
-dev-python/h2 2.6.1: Hyper: HTTP/2 Client for Python
 dev-python/jsbeautifier 1.6.11: Beautify, unpack or deobfuscate JavaScript
 dev-python/kaitaistruct 0.6: Kaitai Struct runtime for Python
 dev-python/pastebin 1.1.2: Python Pastebin.com API
@@ -28,7 +26,7 @@ dev-python/pyusb 1.0.0_beta1: USB support for Python
 dev-python/ruamel-ordereddict 0.4.9: An ordered dictionary with KIO/KVIO
 dev-python/ruamel-yaml 0.13.14: YAML parser/emitter that supports roundtrip comment preservation
 dev-python/slixmpp 1.2.4: Python library for XMPP - asyncio fork
-dev-python/twilio 6.0.0_rc13: Helper library for the Twilio API
+dev-python/twilio 6.0.0: Helper library for the Twilio API
 dev-ruby/celluloid-io 0.16.2-r1: Evented IO for Celluloid actors
 dev-ruby/em-proxy 0.1.9: EventMachine Proxy DSL
 dev-ruby/google-protobuf 3.2.0: Google Protocol Buffers
@@ -119,6 +117,7 @@ x11-misc/awf 1.3.1: A Widget Factory
 x11-misc/barline 0.2.6: a simple data collector and formatter for lemonbar and bspwm
 x11-misc/clipster 0_p20170227: simple clipboard manager
 x11-misc/lemonbar 1.2_p20161116: a featherweight, lemon-scented, bar based on xcb
+x11-misc/rofi-pass 1.4.4: Rofi frontend for pass
 x11-misc/slop 5.3.37: An application that queries the user for a selection for printing
 x11-themes/arc-icon-theme 20161122: Vertex icon theme
 x11-themes/arc-openbox-theme 0_p20170104: Openbox theme created to fit in nicely with the Arc GTK theme
