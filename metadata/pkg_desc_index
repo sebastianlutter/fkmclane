@@ -1,4 +1,4 @@
-app-admin/linode-cli 1.4.7_p20170209: Command-line interface to the Linode platform
+app-admin/linode-cli 1.4.7_p20170411: Command-line interface to the Linode platform
 app-crypt/johntheripper 1.8.0_p20170317: fast password cracker
 app-misc/blinkstick 1.1.8: Python interface to control BlinkStick devices connected to the computer
 app-misc/cronic 3: a cure for cron's chronic email problem
@@ -17,7 +17,7 @@ dev-python/construct 2.8.10: Construct is a powerful declarative parser (and bui
 dev-python/jsbeautifier 1.6.11: Beautify, unpack or deobfuscate JavaScript
 dev-python/kaitaistruct 0.6: Kaitai Struct runtime for Python
 dev-python/pastebin 1.1.2: Python Pastebin.com API
-dev-python/progressbar2 3.12.0: text progress bar library for Python
+dev-python/progressbar2 3.18.0: text progress bar library for Python
 dev-python/pycryptodomex 3.4.5: A self-contained cryptographic library for Python - independent library version
 dev-python/pyperclip 1.5.27: Cross-platform clipboard module
 dev-python/python-ntlm 1.1.0: Python library for NTLM support
