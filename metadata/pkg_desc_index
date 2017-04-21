@@ -30,6 +30,14 @@ dev-python/twilio 6.0.0: Helper library for the Twilio API
 dev-ruby/bindata 2.4.0: A declarative way to read and write binary file formats
 dev-ruby/bit-struct 0.15.0_p20170118: Library for packed binary data stored in ruby Strings
 dev-ruby/celluloid-io 0.16.2-r1: Evented IO for Celluloid actors
+dev-ruby/cms_scanner 0.0.37.8: Framework to provide an easy way to implement CMS Scanners
+dev-ruby/data_objects 0.10.17: A standard and simplified API for communicating with RDBMS
+dev-ruby/dm-constraints 1.2.0: DataMapper plugin constraining relationships
+dev-ruby/dm-core 1.2.1: DataMapper core library
+dev-ruby/dm-do-adapter 1.2.0: DataObjects Adapter for DataMapper
+dev-ruby/dm-migrations 1.2.0: DataMapper plugin for writing and speccing migrations
+dev-ruby/dm-sqlite-adapter 1.2.0: SQLite3 adapter for DataMapper
+dev-ruby/do_sqlite3 0.10.17: DataObjects API for SQLite3
 dev-ruby/em-proxy 0.1.9: EventMachine Proxy DSL
 dev-ruby/google-protobuf 3.2.0: Google Protocol Buffers
 dev-ruby/googleauth 0.5.1: Simple authorization for Google APIs
@@ -48,6 +56,7 @@ dev-ruby/net-dns 0.8.0: Ruby DNS library, with a clean OO interface and an exten
 dev-ruby/nexpose 5.3.0: Nexpose API client library
 dev-ruby/octokit 4.7.0: Ruby toolkit for the Github API
 dev-ruby/openvas-omp 0.0.4: OpenVAS communication library through OMP
+dev-ruby/opt_parse_validator 0.0.13.5: Implementation of validators for the Ruby OptionParser library
 dev-ruby/os 1.0.0: Useful OS detection functions
 dev-ruby/packetfu 1.1.11-r2 1.1.13_pre: A mid-level packet manipulation library
 dev-ruby/patch_finder 1.0.2: Generic Patch Finder
@@ -112,6 +121,7 @@ media-video/v4l2loopback 0.10.0: v4l2 loopback device which output is it's own i
 net-analyzer/bettercap 1.6.0: A complete, modular, portable and easily extensible MITM framework
 net-analyzer/metasploit 4.14.12: Advanced framework for developing, testing, and using vulnerability exploit code
 net-analyzer/nikto 2.1.6_p20170328: web server vulnerability scanner
+net-analyzer/wpscan 3.0.3: WordPress vulnerability scanner
 net-im/discord 0.0.1: All-in-one voice and text chat for gamers
 net-mail/syncmaildir 1.2.6.2: Sync Mail Dir (smd) is a set of tools to synchronize a pair of mailboxes
 net-misc/chrome-remote-desktop 56.0.2924.51: access remote computers via Chrome!
