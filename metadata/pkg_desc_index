@@ -24,7 +24,7 @@ dev-python/python-ntlm 1.1.0: Python library for NTLM support
 dev-python/python-utils 2.0.1: a collection of functions and classes which shortens common patterns
 dev-python/pyusb 1.0.0_beta1: USB support for Python
 dev-python/ruamel-ordereddict 0.4.9: An ordered dictionary with KIO/KVIO
-dev-python/ruamel-yaml 0.14.11: YAML parser/emitter that supports roundtrip comment preservation
+dev-python/ruamel-yaml 0.13.14 0.14.11: YAML parser/emitter that supports roundtrip comment preservation
 dev-python/slixmpp 1.2.4: Python library for XMPP - asyncio fork
 dev-python/twilio 6.1.0: Helper library for the Twilio API
 dev-ruby/bindata 2.4.0: A declarative way to read and write binary file formats
@@ -138,7 +138,7 @@ net-im/discord 0.0.1: All-in-one voice and text chat for gamers
 net-mail/syncmaildir 1.2.6.2: Sync Mail Dir (smd) is a set of tools to synchronize a pair of mailboxes
 net-misc/chrome-remote-desktop 56.0.2924.51: access remote computers via Chrome!
 net-p2p/zget 0.11.1: zeroconf based peer to peer file transfer
-net-proxy/mitmproxy 2.0.1: An interactive, SSL-capable, man-in-the-middle HTTP proxy
+net-proxy/mitmproxy 2.0.2: An interactive, SSL-capable, man-in-the-middle HTTP proxy
 net-wireless/create_ap 0.4.6: A script to create a NATed or bridged WiFi access point
 net-wireless/unifi 5.4.11: Management Controller for Ubiquiti Networks UniFi APs
 sci-electronics/freeroute 1.2.43_p20150316: popular PCB routing and autorouting program
