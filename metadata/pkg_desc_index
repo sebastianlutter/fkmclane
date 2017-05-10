@@ -18,6 +18,7 @@ dev-python/eyeD3 0.7.5: Module for manipulating ID3 (v1 + v2) tags in Python
 dev-python/jsbeautifier 1.6.11: Beautify, unpack or deobfuscate JavaScript
 dev-python/kaitaistruct 0.6: Kaitai Struct runtime for Python
 dev-python/pastebin 1.1.2: Python Pastebin.com API
+dev-python/pluginbase 0.5: A support library for building plugins sytems in Python
 dev-python/progressbar2 3.20.0: text progress bar library for Python
 dev-python/pycryptodomex 3.4.5: A self-contained cryptographic library for Python - independent library version
 dev-python/pyperclip 1.5.27: Cross-platform clipboard module
@@ -100,6 +101,7 @@ dev-ruby/signet 0.7.3: An OAuth 1.0/2.0 implementation
 dev-ruby/therubyracer 0.12.3: Embed the V8 JavaScript interpreter into Ruby
 dev-ruby/windows_error 0.1.1: Reference for Windows API error codes
 dev-ruby/xmlrpc 0.3.0: XMLRPC is a lightweight protocol that enables remote procedure calls over HTTP
+dev-util/conan 0.22.3: Distributed C/C++ package manager
 dev-util/unity-editor 5.5.2_rc1 5.6.0_beta10: Editor for the Unity game engine
 games-action/armagetronad 0.2.8.3.4 0.4-r1: A fast-paced 3D lightcycle game based on Tron
 games-action/armagetronad-dedicated 0.2.8.3.4 0.4-r1: A fast-paced 3D lightcycle game based on Tron - dedicated server
