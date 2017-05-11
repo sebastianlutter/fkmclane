@@ -102,7 +102,7 @@ dev-ruby/therubyracer 0.12.3: Embed the V8 JavaScript interpreter into Ruby
 dev-ruby/windows_error 0.1.1: Reference for Windows API error codes
 dev-ruby/xmlrpc 0.3.0: XMLRPC is a lightweight protocol that enables remote procedure calls over HTTP
 dev-util/conan 0.22.3: Distributed C/C++ package manager
-dev-util/unity-editor 5.5.2_rc1 5.6.0_beta10: Editor for the Unity game engine
+dev-util/unity-editor 5.5.3_rc1 2017.1.0_beta3: Editor for the Unity game engine
 games-action/armagetronad 0.2.8.3.4 0.4-r1: A fast-paced 3D lightcycle game based on Tron
 games-action/armagetronad-dedicated 0.2.8.3.4 0.4-r1: A fast-paced 3D lightcycle game based on Tron - dedicated server
 games-arcade/nsnake 3.0.1-r1: A clone of the classic snake game on the terminal
