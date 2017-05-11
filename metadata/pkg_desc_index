@@ -138,6 +138,7 @@ net-analyzer/metasploit 4.14.12: Advanced framework for developing, testing, and
 net-analyzer/nikto 2.1.6_p20170328: web server vulnerability scanner
 net-analyzer/wpscan 3.0.3: WordPress vulnerability scanner
 net-im/discord 0.0.1: All-in-one voice and text chat for gamers
+net-im/hangups 9999: Third Party IM Client for Google Hangouts
 net-mail/syncmaildir 1.2.6.2: Sync Mail Dir (smd) is a set of tools to synchronize a pair of mailboxes
 net-misc/chrome-remote-desktop 56.0.2924.51: access remote computers via Chrome!
 net-p2p/zget 0.11.1: zeroconf based peer to peer file transfer
