@@ -1,5 +1,5 @@
 app-admin/linode-cli 1.4.7_p20170411: Command-line interface to the Linode platform
-app-crypt/johntheripper 1.8.0_p20170503: fast password cracker
+app-crypt/johntheripper 1.8.0_p20170511: fast password cracker
 app-misc/blinkstick 1.1.8: Python interface to control BlinkStick devices connected to the computer
 app-misc/cronic 3: a cure for cron's chronic email problem
 app-misc/gotty-bin 0.0.13: Share your terminal as a web application
@@ -14,10 +14,10 @@ dev-lang/kaitai-struct-compiler 0.6: Compiler for the Kaitai Struct project
 dev-python/boto 2.45.0: Amazon Web Services API
 dev-python/brotlipy 0.6.0-r1: Python binding to the Brotli library
 dev-python/construct 2.8.12: Construct is a powerful declarative parser (and builder) for binary data
-dev-python/eyeD3 0.7.5: Module for manipulating ID3 (v1 + v2) tags in Python
 dev-python/jsbeautifier 1.6.11: Beautify, unpack or deobfuscate JavaScript
 dev-python/kaitaistruct 0.6: Kaitai Struct runtime for Python
 dev-python/pastebin 1.1.2: Python Pastebin.com API
+dev-python/paver 1.2.4: Python-based software project scripting tool along the lines of Make
 dev-python/pluginbase 0.5: A support library for building plugins sytems in Python
 dev-python/progressbar2 3.20.0: text progress bar library for Python
 dev-python/pycryptodomex 3.4.5: A self-contained cryptographic library for Python - independent library version
