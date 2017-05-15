@@ -6,7 +6,7 @@ app-misc/gotty-bin 0.0.13: Share your terminal as a web application
 app-misc/tty-clock 2.3: analog clock in ncurses
 app-misc/wemux 3.2.0_p20150822: multi-user tmux made easy
 dev-db/sqlmap 1.1.5 9999: Automatic SQL injection and database takeover tool
-dev-embedded/arduino-bin 1.8.1: electronics prototyping platform based on easy-to-use hardware and software
+dev-embedded/arduino-bin 1.8.2: electronics prototyping platform based on easy-to-use hardware and software
 dev-embedded/energia-bin 1.6.10_p18: electronics prototyping platform for TI MSP430 LaunchPad based on Arduino
 dev-embedded/teensyduino-bin 1.35: USB-based electronics prototyping platform compatible with Arduino
 dev-games/mcedit 2.0.0_beta7: Minecraft save game editor
@@ -151,7 +151,7 @@ sys-apps/petty 0.1: petty, short for practically enhanced tty, is a tty session 
 sys-firmware/edk2-ovmf 2017_pre20170505 9999: EDK II Open Source UEFI Firmware
 sys-fs/exfat-nofuse 0_p20170508: Non-fuse kernel driver for exFat and VFat file systems
 sys-fs/udiskie 1.7.0: An automatic disk mounting service using udisks
-sys-kernel/pf-sources 4.11_p1: Linux kernel fork with new features (-ck patchset (BFS), BFQ, TuxOnIce and UKSM)
+sys-kernel/pf-sources 4.11_p2: Linux kernel fork with new features (-ck patchset (BFS), BFQ, TuxOnIce and UKSM)
 www-apps/beef 0.4.7.0_p20170422: The Browser Exploitation Framework
 x11-misc/awf 1.3.1: A Widget Factory
 x11-misc/barline 0.2.6: a simple data collector and formatter for lemonbar and bspwm
