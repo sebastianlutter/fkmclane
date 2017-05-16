@@ -8,7 +8,7 @@ app-misc/wemux 3.2.0_p20150822: multi-user tmux made easy
 dev-db/sqlmap 1.1.5 9999: Automatic SQL injection and database takeover tool
 dev-embedded/arduino-bin 1.8.2: electronics prototyping platform based on easy-to-use hardware and software
 dev-embedded/energia-bin 1.6.10_p18: electronics prototyping platform for TI MSP430 LaunchPad based on Arduino
-dev-embedded/teensyduino-bin 1.35: USB-based electronics prototyping platform compatible with Arduino
+dev-embedded/teensyduino-bin 1.36: USB-based electronics prototyping platform compatible with Arduino
 dev-games/mcedit 2.0.0_beta7: Minecraft save game editor
 dev-lang/kaitai-struct-compiler 0.6: Compiler for the Kaitai Struct project
 dev-python/boto 2.45.0: Amazon Web Services API
