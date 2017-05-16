@@ -1,6 +1,6 @@
 app-admin/linode-cli 1.4.7_p20170411: Command-line interface to the Linode platform
 app-crypt/johntheripper 1.8.0_p20170511: fast password cracker
-app-misc/blinkstick 1.1.8: Python interface to control BlinkStick devices connected to the computer
+app-misc/blinkstick 1.1.8_p20161004: Python interface to control BlinkStick devices connected to the computer
 app-misc/cronic 3: a cure for cron's chronic email problem
 app-misc/gotty-bin 0.0.13: Share your terminal as a web application
 app-misc/tty-clock 2.3: analog clock in ncurses
@@ -24,7 +24,6 @@ dev-python/pycryptodomex 3.4.5: A self-contained cryptographic library for Pytho
 dev-python/pyperclip 1.5.27: Cross-platform clipboard module
 dev-python/python-ntlm 1.1.0: Python library for NTLM support
 dev-python/python-utils 2.0.1: a collection of functions and classes which shortens common patterns
-dev-python/pyusb 1.0.0_beta1: USB support for Python
 dev-python/ruamel-ordereddict 0.4.9: An ordered dictionary with KIO/KVIO
 dev-python/ruamel-yaml 0.13.14 0.14.11: YAML parser/emitter that supports roundtrip comment preservation
 dev-python/slixmpp 1.2.4: Python library for XMPP - asyncio fork
@@ -159,6 +158,5 @@ x11-misc/clipster 0_p20170227: simple clipboard manager
 x11-misc/lemonbar 1.2_p20161116: a featherweight, lemon-scented, bar based on xcb
 x11-misc/rofi-pass 1.4.4: Rofi frontend for pass
 x11-misc/slop 5.3.37: An application that queries the user for a selection for printing
-x11-themes/arc-icon-theme 20161122: Vertex icon theme
 x11-themes/arc-openbox-theme 0_p20170104: Openbox theme created to fit in nicely with the Arc GTK theme
 x11-wm/bspwm 0.9.2_p20170227: Tiling window manager based on binary space partitioning
