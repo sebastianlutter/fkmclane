@@ -10,5 +10,5 @@ RESTRICT=binchecks preserve-libs strip
 SLOT=0
 SRC_URI=amd64? ( https://file.fooster.io/overlay/teensyduino-1.36-linux64.tar.xz ) x86? ( https://file.fooster.io/overlay/teensyduino-1.36-linux32.tar.xz ) http://pjrc.com/teensy/49-teensy.rules
 _eclass_exported_funcs=pkg_postinst:- src_unpack:- src_install:-
-_eclasses_=epatch	8233751dc5105a6ae8fcd86ce2bb0247	estack	43ddf5aaffa7a8d0482df54d25a66a1f	eutils	9c113d6a64826c40154cad7be15d95ea	ltprune	2770eed66a9b8ef944714cd0e968182e	multilib	0236be304ee52e7f179ed2f337075515	toolchain-funcs	6eb35f81556258a4bc9182ad3dfd58ee	udev	d91cac2c73b94629cad2daea66e0d182	versionator	c80ccf29e90adea7c5cae94b42eb76d0
+_eclasses_=epatch	8233751dc5105a6ae8fcd86ce2bb0247	estack	43ddf5aaffa7a8d0482df54d25a66a1f	eutils	9c113d6a64826c40154cad7be15d95ea	ltprune	2770eed66a9b8ef944714cd0e968182e	multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	6eb35f81556258a4bc9182ad3dfd58ee	udev	d91cac2c73b94629cad2daea66e0d182	versionator	c80ccf29e90adea7c5cae94b42eb76d0
 _md5_=f69a345078819c27175ff98c4fee0a78
