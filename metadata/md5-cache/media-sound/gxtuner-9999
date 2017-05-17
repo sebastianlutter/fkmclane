@@ -8,4 +8,4 @@ RDEPEND=x11-libs/cairo sci-libs/fftw:3.0/3 dev-libs/glib x11-libs/gtk+:3 media-l
 SLOT=0
 _eclass_exported_funcs=src_unpack:git-r3
 _eclasses_=git-r3	cbafa3261c37c7e3af44bb16a34ea390
-_md5_=161da316e57521106942633ddc0e6bf8
+_md5_=2f35c02b38184155d2d96bb875a44c06

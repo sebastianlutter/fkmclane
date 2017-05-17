@@ -21,7 +21,6 @@ games-action/armagetronad-dedicated:fortress - Enable support for fortress game 
 games-board/cockatrice:client - Compile client (cockatrice and oracle) support
 games-board/cockatrice:server - Compile server (servatrice) support
 media-libs/zita-resampler:tools - Install zresample and zretune
-media-plugins/calf:experimental - Add support for experimental plugins
 media-plugins/calf:lv2 - Add support for Ladspa V2
 media-plugins/kodi-inputstream-adaptive:agile - Use Kodi Agile branch
 media-sound/pms:regex - enable regular expression searching
