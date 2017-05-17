@@ -98,6 +98,4 @@ net-analyzer/metasploit:pcap - Enable libpcap for packet sniffing
 net-mail/syncmaildir:gnome - Enable GNOME applet
 net-wireless/create_ap:haveged - Enable support for haveged
 sci-physics/chipmunk:demos - Build and install Chipmunk demos
-sys-firmware/edk2-ovmf:qemu - Add QEMU EFI BIOS support
-sys-firmware/edk2-ovmf:secure-boot - Add EFI Secure Boot support
 x11-misc/lemonbar:sm - Enable support for monitor selection.

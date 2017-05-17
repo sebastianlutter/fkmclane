@@ -145,7 +145,6 @@ net-wireless/unifi 5.4.15: Management Controller for Ubiquiti Networks UniFi APs
 sci-electronics/freeroute 1.2.43_p20150316: popular PCB routing and autorouting program
 sci-physics/chipmunk 7.0.1: Chipmunk2D is a lightweight, fast, and portable 2D rigid body physics library
 sys-apps/petty 0.1: petty, short for practically enhanced tty, is a tty session starter
-sys-firmware/edk2-ovmf 2017_pre20170505 9999: EDK II Open Source UEFI Firmware
 sys-fs/exfat-nofuse 0_p20170508: Non-fuse kernel driver for exFat and VFat file systems
 sys-fs/udiskie 1.7.0: An automatic disk mounting service using udisks
 sys-kernel/pf-sources 4.11_p2: Linux kernel fork with new features (-ck patchset (BFS), BFQ, TuxOnIce and UKSM)
