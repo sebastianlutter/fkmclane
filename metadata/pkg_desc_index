@@ -52,9 +52,9 @@ dev-ruby/metasploit-aggregator 0.1.3: Proxy for Meterpreter sessions
 dev-ruby/metasploit-concern 2.0.3: Metasploit concern allows you to define concerns in app/concerns.
 dev-ruby/metasploit-credential 2.0.8: Code for modeling and managing credentials in Metasploit
 dev-ruby/metasploit-model 2.0.3: Common code, such as validators and mixins
-dev-ruby/metasploit-payloads 1.2.24: Compiled binaries for Metasploit's Meterpreter
+dev-ruby/metasploit-payloads 1.2.29: Compiled binaries for Metasploit's Meterpreter
 dev-ruby/metasploit_data_models 2.0.14: The database layer for Metasploit
-dev-ruby/metasploit_payloads-mettle 0.1.8: Compiled binaries for Metasploit's next-gen Meterpreter
+dev-ruby/metasploit_payloads-mettle 0.1.9: Compiled binaries for Metasploit's next-gen Meterpreter
 dev-ruby/method_source 0.8.2_p20170202: Retrieve the source code for a method
 dev-ruby/mojo_magick 0.5.6: Ruby stateless module interface to ImageMagick
 dev-ruby/msfrpc-client 1.1.0: Ruby client API for Metasploit RPC
@@ -131,7 +131,7 @@ media-tv/plexpy 1.4.17: A python based web application for monitoring your Plex 
 media-video/plex-ffmpeg 2016.12: Plex Transcoder, a ffmpeg fork from Plex Inc.
 media-video/v4l2loopback 0.10.0: v4l2 loopback device which output is it's own input
 net-analyzer/bettercap 1.6.0: A complete, modular, portable and easily extensible MITM framework
-net-analyzer/metasploit 4.14.12: Advanced framework for developing, testing, and using vulnerability exploit code
+net-analyzer/metasploit 4.14.18: Advanced framework for developing, testing, and using vulnerability exploit code
 net-analyzer/nikto 2.1.6_p20170429: web server vulnerability scanner
 net-analyzer/wpscan 3.0.3: WordPress vulnerability scanner
 net-im/discord 0.0.1: All-in-one voice and text chat for gamers
