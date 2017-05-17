@@ -23,7 +23,6 @@ games-board/cockatrice:server - Compile server (servatrice) support
 media-libs/zita-resampler:tools - Install zresample and zretune
 media-plugins/calf:lv2 - Add support for Ladspa V2
 media-plugins/kodi-inputstream-adaptive:agile - Use Kodi Agile branch
-media-sound/pms:regex - enable regular expression searching
 media-sound/ympd:hostchange - allow users of the web frontend to change the MPD host
 media-tv/kodi:agile - Use Kodi Agile branch
 media-tv/kodi:airplay - enable AirPlay support
