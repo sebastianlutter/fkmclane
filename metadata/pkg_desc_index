@@ -99,7 +99,7 @@ dev-ruby/signet 0.7.3: An OAuth 1.0/2.0 implementation
 dev-ruby/therubyracer 0.12.2: Embed the V8 JavaScript interpreter into Ruby
 dev-ruby/windows_error 0.1.1: Reference for Windows API error codes
 dev-ruby/xmlrpc 0.3.0: XMLRPC is a lightweight protocol that enables remote procedure calls over HTTP
-dev-util/conan 0.22.3-r1: Distributed C/C++ package manager
+dev-util/conan 0.22.3-r2: Distributed C/C++ package manager
 dev-util/unity-editor 5.5.3_rc1 2017.1.0_beta3: Editor for the Unity game engine
 games-action/armagetronad 0.2.8.3.4 0.4-r1: A fast-paced 3D lightcycle game based on Tron
 games-action/armagetronad-dedicated 0.2.8.3.4 0.4-r1: A fast-paced 3D lightcycle game based on Tron - dedicated server
