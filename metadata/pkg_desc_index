@@ -92,12 +92,11 @@ dev-ruby/rex-struct2 0.1.1: Ruby Exploitation(Rex) library for generating/manipu
 dev-ruby/rex-text 0.2.14: Rex library for text generation and manipulation
 dev-ruby/rex-zip 0.1.2: Ruby Exploitation(Rex) library for working with zip and related files
 dev-ruby/robots 0.10.1-r2: A simple Ruby library to parse robots.txt
-dev-ruby/ruby_smb 0.0.14: A pure Ruby implementation of the SMB Protocol Family
+dev-ruby/ruby_smb 0.0.14: pure Ruby implementation of the SMB Protocol Family
 dev-ruby/rubydns 1.0.3: A tool to intercept and modify DNS requests
 dev-ruby/rubyntlm 0.6.1_p20170407: Ruby/NTLM provides message creator and parser for the NTLM authentication.
 dev-ruby/signet 0.7.3: An OAuth 1.0/2.0 implementation
 dev-ruby/therubyracer 0.12.2: Embed the V8 JavaScript interpreter into Ruby
-dev-ruby/windows_error 0.1.1: Reference for Windows API error codes
 dev-ruby/xmlrpc 0.3.0: XMLRPC is a lightweight protocol that enables remote procedure calls over HTTP
 dev-util/conan 0.22.3-r2: Distributed C/C++ package manager
 dev-util/unity-editor 5.5.3_rc1 2017.1.0_beta3: Editor for the Unity game engine
