@@ -150,7 +150,7 @@ sys-fs/exfat-nofuse 0_p20170508: Non-fuse kernel driver for exFat and VFat file 
 sys-fs/udiskie 1.7.0: An automatic disk mounting service using udisks
 sys-kernel/pf-sources 4.11_p4: Linux kernel fork with new features (-ck patchset (BFS), BFQ, TuxOnIce and UKSM)
 www-apps/beef 0.4.7.0_p20170520: The Browser Exploitation Framework
-x11-misc/awf 1.3.1: A Widget Factory
+x11-misc/awf 1.4.0: A Widget Factory
 x11-misc/barline 0.2.6: a simple data collector and formatter for lemonbar and bspwm
 x11-misc/clipster 0_p20170227: simple clipboard manager
 x11-misc/lemonbar 1.2_p20161116: a featherweight, lemon-scented, bar based on xcb
