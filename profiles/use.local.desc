@@ -93,6 +93,8 @@ media-video/plex-ffmpeg:x265 - Enables HEVC encoding with media-libs/x265.
 media-video/plex-ffmpeg:zimg - Enables media-libs/zimg based scale filter.
 media-video/plex-ffmpeg:zvbi - Enables media-libs/zvbi based teletext decoder.
 net-analyzer/metasploit:development - Install dependencies needed for metasploit and exploit development
+net-analyzer/metasploit:nexpose - Enable the plugin to integrate with nexpose
+net-analyzer/metasploit:openvas - Enable the plugin to integrate net-analyzer/openvas
 net-analyzer/metasploit:oracle - Enable restricted oracle modules which have additional deps
 net-analyzer/metasploit:pcap - Enable libpcap for packet sniffing
 net-mail/syncmaildir:gnome - Enable GNOME applet
