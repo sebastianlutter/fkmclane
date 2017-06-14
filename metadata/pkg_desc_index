@@ -44,7 +44,7 @@ dev-ruby/espeak-ruby 1.0.4: Ruby API for creating text-to-speech files
 dev-ruby/fastercsv 1.5.5: Faster replacement for the CSV standard library
 dev-ruby/geoip 1.6.3-r1: API for searching a GeoIP database
 dev-ruby/google-protobuf 3.3.0: Google Protocol Buffers
-dev-ruby/googleauth 0.5.1: Simple authorization for Google APIs
+dev-ruby/googleauth 0.5.1-r1: Simple authorization for Google APIs
 dev-ruby/grpc 1.3.4: Send RPCs using GRPC
 dev-ruby/libv8 3.16.14.19: V8 JavaScript engine distribution
 dev-ruby/metasm 1.0.3: cross-architecture assembler, disassembler, linker, and debugger
@@ -52,7 +52,7 @@ dev-ruby/metasploit-aggregator 0.2.1: Proxy for Meterpreter sessions
 dev-ruby/metasploit-concern 2.0.4: Metasploit concern allows you to define concerns in app/concerns.
 dev-ruby/metasploit-credential 2.0.10: Code for modeling and managing credentials in Metasploit
 dev-ruby/metasploit-model 2.0.4: Common code, such as validators and mixins
-dev-ruby/metasploit-payloads 1.2.29 1.2.32: Compiled binaries for Metasploit's Meterpreter
+dev-ruby/metasploit-payloads 1.2.32: Compiled binaries for Metasploit's Meterpreter
 dev-ruby/metasploit_data_models 2.0.14: The database layer for Metasploit
 dev-ruby/method_source 0.8.2_p20170202: Retrieve the source code for a method
 dev-ruby/mojo_magick 0.5.6: Ruby stateless module interface to ImageMagick
@@ -67,11 +67,18 @@ dev-ruby/qr4r 0.4.1: QR PNG generator for Ruby
 dev-ruby/recog 2.1.8: Pattern recognition for hosts, services, and content
 dev-ruby/rex 2.0.10: Ruby classes useful for security testing and exploit development
 dev-ruby/rex-arch 0.1.8: architecture specific information for Rex
+dev-ruby/rex-bin_tools 0.1.2: suite of tools for analyzing executables to find specific chunks of code
+dev-ruby/rex-encoder 0.1.4: provides the basis for all of the polymorphic encoders that Metasploit uses
+dev-ruby/rex-exploitation 0.1.12: various helper mechanisms for creating exploits
 dev-ruby/rex-java 0.1.4: Ruby Exploitation(Rex) library for parsing Java serialized streams
+dev-ruby/rex-mime 0.1.4: library is for creating and/or parsing MIME messages
+dev-ruby/rex-nop 0.1.0: Rex library for dynamic generation of x86 multi-byte NOPs
 dev-ruby/rex-ole 0.1.5: Ruby Exploitation(Rex) library gem for reading/writing OLE files and streams
 dev-ruby/rex-powershell 0.1.70: Ruby Exploitation(Rex) library for generating/manipulating Powershell scripts
 dev-ruby/rex-random_identifier 0.1.2: Ruby Exploitation(Rex) library for generating Random identifier strings
 dev-ruby/rex-registry 0.1.2: Rex library for parsing offline registry files from a Windows machine
+dev-ruby/rex-rop_builder 0.1.2: Ruby Exploitation(Rex) Library for building ROP chains
+dev-ruby/rex-sslscan 0.1.3: ruby implmenetation of the SSLScan tool
 dev-ruby/rex-text 0.2.14: Rex library for text generation and manipulation
 dev-ruby/rex-zip 0.1.2: Ruby Exploitation(Rex) library for working with zip and related files
 dev-ruby/ruby_smb 0.0.18: pure Ruby implementation of the SMB Protocol Family
