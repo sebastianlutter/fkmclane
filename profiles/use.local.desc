@@ -97,6 +97,13 @@ net-analyzer/metasploit:nexpose - Enable the plugin to integrate with nexpose
 net-analyzer/metasploit:openvas - Enable the plugin to integrate net-analyzer/openvas
 net-analyzer/metasploit:oracle - Enable restricted oracle modules which have additional deps
 net-analyzer/metasploit:pcap - Enable libpcap for packet sniffing
+net-analyzer/nmap:ncat - Install the ncat utility
+net-analyzer/nmap:ndiff - Install the ndiff utility
+net-analyzer/nmap:nmap-update - Install nmap-update, which uses dev-vcs/subversion to update nmap scripts in your home directory
+net-analyzer/nmap:nping - Install the nping utility
+net-analyzer/nmap:nse - Include support for the Nmap Scripting Engine (NSE)
+net-analyzer/nmap:system-lua - Use dev-lang/lua instead of the bundled liblua
+net-analyzer/nmap:zenmap - Install the GTK+ based nmap GUI, zenmap
 net-mail/syncmaildir:gnome - Enable GNOME applet
 net-wireless/create_ap:haveged - Enable support for haveged
 sci-physics/chipmunk:demos - Build and install Chipmunk demos

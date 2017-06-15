@@ -121,6 +121,7 @@ media-video/v4l2loopback 0.10.0: v4l2 loopback device which output is it's own i
 net-analyzer/bettercap 1.6.0: A complete, modular, portable and easily extensible MITM framework
 net-analyzer/metasploit 4.14.26: Advanced framework for developing, testing, and using vulnerability exploit code
 net-analyzer/nikto 2.1.6_p20170518: web server vulnerability scanner
+net-analyzer/nmap 7.50: A utility for network discovery and security auditing
 net-analyzer/wpscan 3.0.3: WordPress vulnerability scanner
 net-im/discord 0.0.1: All-in-one voice and text chat for gamers
 net-im/hangups 9999: Third Party IM Client for Google Hangouts
