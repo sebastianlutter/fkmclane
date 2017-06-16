@@ -9,5 +9,5 @@ RDEPEND=>=media-tv/kodi-16.0
 SLOT=0
 SRC_URI=https://github.com/plexinc/plex-for-kodi/archive/64938ebcecbb32facfa73e8cc5fb5c3b4c373b8c.zip -> plex-for-kodi-0.0.98-64938ebcecbb32facfa73e8cc5fb5c3b4c373b8c.zip
 _eclass_exported_funcs=src_install:-
-_eclasses_=epatch	8233751dc5105a6ae8fcd86ce2bb0247	estack	43ddf5aaffa7a8d0482df54d25a66a1f	eutils	9c113d6a64826c40154cad7be15d95ea	ltprune	2770eed66a9b8ef944714cd0e968182e	multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	6eb35f81556258a4bc9182ad3dfd58ee
+_eclasses_=epatch	8233751dc5105a6ae8fcd86ce2bb0247	estack	43ddf5aaffa7a8d0482df54d25a66a1f	eutils	9c113d6a64826c40154cad7be15d95ea	ltprune	2770eed66a9b8ef944714cd0e968182e	multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	772b26a6baefb4c8c5e0c1fc724508b7
 _md5_=dc9052cde23d6e2ad8cd917af02df449
