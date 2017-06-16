@@ -62,6 +62,7 @@ dev-ruby/net-dns 0.8.0: Ruby DNS library, with a clean OO interface and an exten
 dev-ruby/opt_parse_validator 0.0.13.5: Implementation of validators for the Ruby OptionParser library
 dev-ruby/os 1.0.0: Useful OS detection functions
 dev-ruby/parseconfig 1.0.8: Simple configuration file parser
+dev-ruby/pg 0.20.0: Ruby extension library providing an API to PostgreSQL
 dev-ruby/pry 0.10.4_p20161207: Pry is a powerful alternative to the standard IRB shell for Ruby
 dev-ruby/qr4r 0.4.1: QR PNG generator for Ruby
 dev-ruby/recog 2.1.9: Pattern recognition for hosts, services, and content
@@ -119,7 +120,7 @@ media-tv/plexpy 1.4.19: A python based web application for monitoring your Plex 
 media-video/plex-ffmpeg 2016.12: Plex Transcoder, a ffmpeg fork from Plex Inc.
 media-video/v4l2loopback 0.10.0: v4l2 loopback device which output is it's own input
 net-analyzer/bettercap 1.6.0: A complete, modular, portable and easily extensible MITM framework
-net-analyzer/metasploit 4.14.26-r1: Advanced framework for developing, testing, and using vulnerability exploit code
+net-analyzer/metasploit 4.14.27: Advanced framework for developing, testing, and using vulnerability exploit code
 net-analyzer/nikto 2.1.6_p20170614: web server vulnerability scanner
 net-analyzer/nmap 7.50: A utility for network discovery and security auditing
 net-analyzer/wpscan 3.0.3: WordPress vulnerability scanner
@@ -143,6 +144,6 @@ x11-misc/barline 0.2.6: a simple data collector and formatter for lemonbar and b
 x11-misc/clipster 0_p20170615: simple clipboard manager
 x11-misc/lemonbar 1.2_p20161116: a featherweight, lemon-scented, bar based on xcb
 x11-misc/rofi-pass 1.5.0: Rofi frontend for pass
-x11-misc/slop 6.3.45: An application that queries the user for a selection for printing
+x11-misc/slop 6.3.46: An application that queries the user for a selection for printing
 x11-themes/arc-openbox-theme 0_p20170104: Openbox theme created to fit in nicely with the Arc GTK theme
 x11-wm/bspwm 0.9.2_p20170611: Tiling window manager based on binary space partitioning
