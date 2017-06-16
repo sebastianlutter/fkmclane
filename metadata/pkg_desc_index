@@ -24,9 +24,9 @@ dev-python/pyperclip 1.5.27: Cross-platform clipboard module
 dev-python/python-ntlm 1.1.0: Python library for NTLM support
 dev-python/python-utils 2.1.0: a collection of functions and classes which shortens common patterns
 dev-python/ruamel-ordereddict 0.4.9: An ordered dictionary with KIO/KVIO
-dev-python/ruamel-yaml 0.13.14 0.15.7: YAML parser/emitter that supports roundtrip comment preservation
+dev-python/ruamel-yaml 0.13.14 0.15.9: YAML parser/emitter that supports roundtrip comment preservation
 dev-python/slixmpp 1.2.4: Python library for XMPP - asyncio fork
-dev-python/twilio 6.3.0: Helper library for the Twilio API
+dev-python/twilio 6.4.0: Helper library for the Twilio API
 dev-python/vex 0.0.18: Run commands in a virtualenv
 dev-ruby/celluloid-io 0.16.2-r1: Evented IO for Celluloid actors
 dev-ruby/cms_scanner 0.0.37.9: Framework to provide an easy way to implement CMS Scanners
@@ -65,9 +65,9 @@ dev-ruby/parseconfig 1.0.8: Simple configuration file parser
 dev-ruby/pry 0.10.4_p20161207: Pry is a powerful alternative to the standard IRB shell for Ruby
 dev-ruby/qr4r 0.4.1: QR PNG generator for Ruby
 dev-ruby/recog 2.1.9: Pattern recognition for hosts, services, and content
-dev-ruby/rex 2.0.10: Ruby classes useful for security testing and exploit development
-dev-ruby/rex-arch 0.1.8: architecture specific information for Rex
-dev-ruby/rex-bin_tools 0.1.2: suite of tools for analyzing executables to find specific chunks of code
+dev-ruby/rex 2.0.11: Ruby classes useful for security testing and exploit development
+dev-ruby/rex-arch 0.1.9: architecture specific information for Rex
+dev-ruby/rex-bin_tools 0.1.4: suite of tools for analyzing executables to find specific chunks of code
 dev-ruby/rex-encoder 0.1.4: provides the basis for all of the polymorphic encoders that Metasploit uses
 dev-ruby/rex-exploitation 0.1.12: various helper mechanisms for creating exploits
 dev-ruby/rex-java 0.1.4: Ruby Exploitation(Rex) library for parsing Java serialized streams
@@ -119,7 +119,7 @@ media-tv/plexpy 1.4.19: A python based web application for monitoring your Plex 
 media-video/plex-ffmpeg 2016.12: Plex Transcoder, a ffmpeg fork from Plex Inc.
 media-video/v4l2loopback 0.10.0: v4l2 loopback device which output is it's own input
 net-analyzer/bettercap 1.6.0: A complete, modular, portable and easily extensible MITM framework
-net-analyzer/metasploit 4.14.26: Advanced framework for developing, testing, and using vulnerability exploit code
+net-analyzer/metasploit 4.14.26-r1: Advanced framework for developing, testing, and using vulnerability exploit code
 net-analyzer/nikto 2.1.6_p20170614: web server vulnerability scanner
 net-analyzer/nmap 7.50: A utility for network discovery and security auditing
 net-analyzer/wpscan 3.0.3: WordPress vulnerability scanner
