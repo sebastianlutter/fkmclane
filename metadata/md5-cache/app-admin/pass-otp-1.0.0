@@ -1,0 +1,11 @@
+DEFINED_PHASES=compile
+DESCRIPTION=A pass extension for managing one-time-password (OTP) tokens
+EAPI=6
+HOMEPAGE=https://github.com/tadfisher/pass-otp
+KEYWORDS=~amd64 ~x86
+LICENSE=MIT
+RDEPEND=app-admin/pass sys-auth/oath-toolkit media-gfx/qrencode
+SLOT=0
+SRC_URI=https://github.com/tadfisher/pass-otp/archive/v1.0.0.tar.gz -> pass-otp-1.0.0.tar.gz
+_eclass_exported_funcs=src_compile:-
+_md5_=446b0113faa68f8af2f49c59cb9de9b0
