@@ -1,6 +1,6 @@
 app-admin/linode-cli 1.4.7_p20170411: Command-line interface to the Linode platform
 app-admin/pass-otp 1.0.0: A pass extension for managing one-time-password (OTP) tokens
-app-crypt/johntheripper 1.8.0_p20170616: fast password cracker
+app-crypt/johntheripper 1.8.0_p20170618: fast password cracker
 app-misc/blinkstick 1.1.8_p20161004: Python interface to control BlinkStick devices connected to the computer
 app-misc/cronic 3: a cure for cron's chronic email problem
 app-misc/gotty-bin 0.0.13: Share your terminal as a web application
@@ -141,7 +141,7 @@ sys-firmware/edk2-ovmf 2017_pre20170505: UEFI firmware for 64-bit x86 virtual ma
 sys-fs/exfat-nofuse 0_p20170610: Non-fuse kernel driver for exFat and VFat file systems
 sys-fs/udiskie 1.7.0: An automatic disk mounting service using udisks
 sys-kernel/pf-sources 4.11_p5: Linux kernel fork with new features (-ck patchset (BFS), BFQ, TuxOnIce and UKSM)
-www-apps/beef 0.4.7.0_p20170601: The Browser Exploitation Framework
+www-apps/beef 0.4.7.0_p20170618: The Browser Exploitation Framework
 x11-misc/awf 1.4.0: A Widget Factory
 x11-misc/barline 0.2.6: a simple data collector and formatter for lemonbar and bspwm
 x11-misc/clipster 0_p20170615: simple clipboard manager
