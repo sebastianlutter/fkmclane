@@ -1,6 +1,6 @@
 app-admin/linode-cli 1.4.7_p20170411: Command-line interface to the Linode platform
 app-admin/pass-otp 1.0.0: A pass extension for managing one-time-password (OTP) tokens
-app-crypt/johntheripper 1.8.0_p20170618: fast password cracker
+app-crypt/johntheripper 1.8.0_p20170619: fast password cracker
 app-misc/blinkstick 1.1.8_p20161004: Python interface to control BlinkStick devices connected to the computer
 app-misc/cronic 3: a cure for cron's chronic email problem
 app-misc/gotty-bin 0.0.13: Share your terminal as a web application
@@ -122,7 +122,7 @@ media-video/plex-ffmpeg 2016.12: Plex Transcoder, a ffmpeg fork from Plex Inc.
 media-video/v4l2loopback 0.10.0: v4l2 loopback device which output is it's own input
 net-analyzer/bettercap 1.6.0: A complete, modular, portable and easily extensible MITM framework
 net-analyzer/metasploit 4.14.27-r1 9999: Advanced framework for developing, testing, and using vulnerability exploit code
-net-analyzer/nikto 2.1.6_p20170616: web server vulnerability scanner
+net-analyzer/nikto 2.1.6_p20170619: web server vulnerability scanner
 net-analyzer/nmap 7.50: A utility for network discovery and security auditing
 net-analyzer/wpscan 3.0.3: WordPress vulnerability scanner
 net-im/discord 0.0.1: All-in-one voice and text chat for gamers
@@ -143,10 +143,10 @@ sys-fs/udiskie 1.7.0: An automatic disk mounting service using udisks
 sys-kernel/pf-sources 4.11_p5: Linux kernel fork with new features (-ck patchset (BFS), BFQ, TuxOnIce and UKSM)
 www-apps/beef 0.4.7.0_p20170618: The Browser Exploitation Framework
 x11-misc/awf 1.4.0: A Widget Factory
-x11-misc/barline 0.2.6: a simple data collector and formatter for lemonbar and bspwm
+x11-misc/barline 0.2.7: a simple data collector and formatter for lemonbar and bspwm
 x11-misc/clipster 0_p20170615: simple clipboard manager
 x11-misc/lemonbar 1.2_p20161116: a featherweight, lemon-scented, bar based on xcb
 x11-misc/rofi-pass 1.5.0: Rofi frontend for pass
 x11-misc/slop 6.3.46: An application that queries the user for a selection for printing
 x11-themes/arc-openbox-theme 0_p20170104: Openbox theme created to fit in nicely with the Arc GTK theme
-x11-wm/bspwm 0.9.2_p20170611: Tiling window manager based on binary space partitioning
+x11-wm/bspwm 0.9.2_p20170619: Tiling window manager based on binary space partitioning
