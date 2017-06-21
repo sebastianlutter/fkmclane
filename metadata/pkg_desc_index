@@ -1,6 +1,6 @@
 app-admin/linode-cli 1.4.7_p20170411: Command-line interface to the Linode platform
 app-admin/pass-otp 1.0.0: A pass extension for managing one-time-password (OTP) tokens
-app-crypt/johntheripper 1.8.0_p20170619: fast password cracker
+app-crypt/johntheripper 1.8.0_p20170620: fast password cracker
 app-misc/blinkstick 1.1.8_p20161004: Python interface to control BlinkStick devices connected to the computer
 app-misc/cronic 3: a cure for cron's chronic email problem
 app-misc/gotty-bin 0.0.13: Share your terminal as a web application
@@ -53,7 +53,7 @@ dev-ruby/metasploit-aggregator 0.2.1: Proxy for Meterpreter sessions
 dev-ruby/metasploit-concern 2.0.4: Metasploit concern allows you to define concerns in app/concerns.
 dev-ruby/metasploit-credential 2.0.10: Code for modeling and managing credentials in Metasploit
 dev-ruby/metasploit-model 2.0.4: Common code, such as validators and mixins
-dev-ruby/metasploit-payloads 1.2.32: Compiled binaries for Metasploit's Meterpreter
+dev-ruby/metasploit-payloads 1.2.32 1.2.34: Compiled binaries for Metasploit's Meterpreter
 dev-ruby/metasploit_data_models 2.0.14: The database layer for Metasploit
 dev-ruby/method_source 0.8.2_p20170202: Retrieve the source code for a method
 dev-ruby/mojo_magick 0.5.6: Ruby stateless module interface to ImageMagick
@@ -138,7 +138,7 @@ sci-electronics/fritzing-bin 0.9.3b: Fritzing is an open-source hardware initiat
 sci-physics/chipmunk 7.0.1: Chipmunk2D is a lightweight, fast, and portable 2D rigid body physics library
 sys-apps/petty 0.1: petty, short for practically enhanced tty, is a tty session starter
 sys-firmware/edk2-ovmf 2017_pre20170505: UEFI firmware for 64-bit x86 virtual machines
-sys-fs/exfat-nofuse 0_p20170610: Non-fuse kernel driver for exFat and VFat file systems
+sys-fs/exfat-nofuse 0_p20170619: Non-fuse kernel driver for exFat and VFat file systems
 sys-fs/udiskie 1.7.0: An automatic disk mounting service using udisks
 sys-kernel/pf-sources 4.11_p5: Linux kernel fork with new features (-ck patchset (BFS), BFQ, TuxOnIce and UKSM)
 www-apps/beef 0.4.7.0_p20170618: The Browser Exploitation Framework
