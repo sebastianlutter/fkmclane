@@ -1,0 +1,10 @@
+DEFINED_PHASES=install
+DESCRIPTION=Save your code in an emergency
+EAPI=6
+HOMEPAGE=https://github.com/qw3rtman/git-fire
+KEYWORDS=~amd64 ~x86
+LICENSE=MIT
+SLOT=0
+SRC_URI=https://github.com/qw3rtman/git-fire/archive/f485fffedbc4f719c55547be22ccd0080e592c9a.tar.gz -> git-fire-0_p20160813.tar.gz
+_eclass_exported_funcs=src_install:-
+_md5_=3bbf358d7139df7fdcdb47c17b0678ec
