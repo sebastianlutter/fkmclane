@@ -9,7 +9,7 @@ LICENSE=GPL-2
 RDEPEND=openssl? ( >=dev-libs/openssl-1.0.1:0 ) mpi? ( virtual/mpi ) opencl? ( virtual/opencl ) kerberos? ( virtual/krb5 ) pcap? ( net-libs/libpcap ) dev-libs/gmp:* sys-libs/zlib app-arch/bzip2
 REQUIRED_USE=!minimal ^^ ( openssl commoncrypto ) !commoncrypto !rexgen
 SLOT=0
-SRC_URI=https://github.com/magnumripper/JohnTheRipper/archive/882777955e9ffd7c1eec9fc34a7d89ea48b4a544.tar.gz -> johntheripper-1.8.0_p20170621.tar.gz
+SRC_URI=https://github.com/magnumripper/JohnTheRipper/archive/736c0160e83b942f5bbe7d841118fc0b49435a9e.tar.gz -> johntheripper-1.8.0_p20170623.tar.gz
 _eclass_exported_funcs=pkg_setup:- src_configure:- src_compile:- src_test:- src_install:-
 _eclasses_=epatch	8233751dc5105a6ae8fcd86ce2bb0247	estack	43ddf5aaffa7a8d0482df54d25a66a1f	eutils	9c113d6a64826c40154cad7be15d95ea	flag-o-matic	61cad4fb5d800b29d484b27cb033f59b	ltprune	2770eed66a9b8ef944714cd0e968182e	multilib	97f470f374f2e94ccab04a2fb21d811e	pax-utils	4f95120230a315c8caaabeb2307b7eee	toolchain-funcs	772b26a6baefb4c8c5e0c1fc724508b7
-_md5_=94e07ece2997600cef641eeeb28bf1a4
+_md5_=9fdc71ef2973118ef31d43eccdc0f301
