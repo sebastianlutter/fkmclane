@@ -28,7 +28,7 @@ dev-python/python-utils 2.1.0: a collection of functions and classes which short
 dev-python/ruamel-ordereddict 0.4.9: An ordered dictionary with KIO/KVIO
 dev-python/ruamel-yaml 0.13.14 0.15.15: YAML parser/emitter that supports roundtrip comment preservation
 dev-python/slixmpp 1.2.4: Python library for XMPP - asyncio fork
-dev-python/twilio 6.4.1: Helper library for the Twilio API
+dev-python/twilio 6.4.2: Helper library for the Twilio API
 dev-python/vex 0.0.18: Run commands in a virtualenv
 dev-ruby/celluloid-io 0.16.2-r1: Evented IO for Celluloid actors
 dev-ruby/cms_scanner 0.0.37.9: Framework to provide an easy way to implement CMS Scanners
@@ -144,7 +144,7 @@ sys-apps/petty 0.1: petty, short for practically enhanced tty, is a tty session 
 sys-firmware/edk2-ovmf 2017_pre20170505: UEFI firmware for 64-bit x86 virtual machines
 sys-fs/exfat-nofuse 0_p20170619: Non-fuse kernel driver for exFat and VFat file systems
 sys-fs/udiskie 1.7.0: An automatic disk mounting service using udisks
-sys-kernel/pf-sources 4.11_p5: Linux kernel fork with new features (-ck patchset (BFS), BFQ, TuxOnIce and UKSM)
+sys-kernel/pf-sources 4.11_p6: Linux kernel fork with new features (-ck patchset (BFS), BFQ, TuxOnIce and UKSM)
 www-apps/beef 0.4.7.0_p20170618: The Browser Exploitation Framework
 www-misc/weevely 3.4: Weaponized web shell
 www-servers/pagekite 0.5.9.0: PageKite makes local websites or SSH servers publicly accessible in mere seconds
