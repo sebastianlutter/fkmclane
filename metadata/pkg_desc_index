@@ -81,7 +81,7 @@ dev-ruby/rex-powershell 0.1.70: Ruby Exploitation(Rex) library for generating/ma
 dev-ruby/rex-random_identifier 0.1.2: Ruby Exploitation(Rex) library for generating Random identifier strings
 dev-ruby/rex-registry 0.1.2: Rex library for parsing offline registry files from a Windows machine
 dev-ruby/rex-rop_builder 0.1.2: Ruby Exploitation(Rex) Library for building ROP chains
-dev-ruby/rex-socket 0.1.7: Ruby Exploitation (Rex) Socket Abstraction Library
+dev-ruby/rex-socket 0.1.8: Ruby Exploitation (Rex) Socket Abstraction Library
 dev-ruby/rex-sslscan 0.1.3: ruby implmenetation of the SSLScan tool
 dev-ruby/rex-text 0.2.14: Rex library for text generation and manipulation
 dev-ruby/rex-zip 0.1.2: Ruby Exploitation(Rex) library for working with zip and related files
@@ -145,7 +145,7 @@ sys-firmware/edk2-ovmf 2017_pre20170505: UEFI firmware for 64-bit x86 virtual ma
 sys-fs/exfat-nofuse 0_p20170619: Non-fuse kernel driver for exFat and VFat file systems
 sys-fs/udiskie 1.7.0: An automatic disk mounting service using udisks
 sys-kernel/pf-sources 4.11_p6: Linux kernel fork with new features (-ck patchset (BFS), BFQ, TuxOnIce and UKSM)
-www-apps/beef 0.4.7.0_p20170630: The Browser Exploitation Framework
+www-apps/beef 0.4.7.0_p20170630-r1: The Browser Exploitation Framework
 www-misc/weevely 3.4: Weaponized web shell
 www-servers/pagekite 0.5.9.0: PageKite makes local websites or SSH servers publicly accessible in mere seconds
 x11-misc/awf 1.4.0: A Widget Factory
