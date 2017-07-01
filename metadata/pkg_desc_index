@@ -1,6 +1,6 @@
 app-admin/linode-cli 1.4.7_p20170411: Command-line interface to the Linode platform
 app-admin/pass-otp 1.0.0: A pass extension for managing one-time-password (OTP) tokens
-app-crypt/johntheripper 1.8.0_p20170629: fast password cracker
+app-crypt/johntheripper 1.8.0_p20170630: fast password cracker
 app-editors/komodo-edit-bin 10.2.2: Freeware advanced editor for dynamic and Web languages
 app-misc/blinkstick 1.1.8_p20161004: Python interface to control BlinkStick devices connected to the computer
 app-misc/cronic 3: a cure for cron's chronic email problem
@@ -11,7 +11,7 @@ dev-db/sqlmap 1.1.6-r1 9999: Automatic SQL injection and database takeover tool
 dev-embedded/arduino-bin 1.8.3: electronics prototyping platform based on easy-to-use hardware and software
 dev-embedded/energia-bin 1.6.10_p18: electronics prototyping platform for TI MSP430 LaunchPad based on Arduino
 dev-embedded/teensyduino-bin 1.36: USB-based electronics prototyping platform compatible with Arduino
-dev-games/mcedit 2.0.0_beta7: Minecraft save game editor
+dev-games/mcedit 2.0.0_beta8: Minecraft save game editor
 dev-lang/kaitai-struct-compiler 0.7: Compiler for the Kaitai Struct project
 dev-python/boto 2.47.0: Amazon Web Services API
 dev-python/brotlipy 0.6.0-r1 0.7.0: Python binding to the Brotli library
@@ -126,7 +126,7 @@ media-video/plex-ffmpeg 2016.12: Plex Transcoder, a ffmpeg fork from Plex Inc.
 media-video/v4l2loopback 0.10.0: v4l2 loopback device which output is it's own input
 net-analyzer/bettercap 1.6.1: A complete, modular, portable and easily extensible MITM framework
 net-analyzer/metasploit 4.14.28 9999: Advanced framework for developing, testing, and using vulnerability exploit code
-net-analyzer/nikto 2.1.6_p20170629: web server vulnerability scanner
+net-analyzer/nikto 2.1.6_p20170630: web server vulnerability scanner
 net-analyzer/nmap 7.50: A utility for network discovery and security auditing
 net-analyzer/wpscan 3.0.3: WordPress vulnerability scanner
 net-im/discord 0.0.1: All-in-one voice and text chat for gamers
