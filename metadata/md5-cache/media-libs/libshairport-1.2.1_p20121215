@@ -9,5 +9,5 @@ RDEPEND=dev-libs/openssl:* media-libs/libao
 SLOT=0
 SRC_URI=https://github.com/amejia1/libshairport/archive/16395d85ea2801cec612b935ba2972bd1a42a6a5.tar.gz -> libshairport-1.2.1_p20121215.tar.gz
 _eclass_exported_funcs=src_prepare:-
-_eclasses_=autotools	7027963e8e8cc12c91117bdb9225dc26	libtool	e32ea84bf82cf8987965b574672dba93	multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	772b26a6baefb4c8c5e0c1fc724508b7
+_eclasses_=autotools	7027963e8e8cc12c91117bdb9225dc26	libtool	e32ea84bf82cf8987965b574672dba93	multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	8fec6b1eb195836560e70b66d98fb163
 _md5_=7f2868ea42b3301053e1a4aaf8adb8fd
