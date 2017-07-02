@@ -68,7 +68,7 @@ dev-ruby/pg 0.20.0: Ruby extension library providing an API to PostgreSQL
 dev-ruby/pry 0.10.4_p20161207: Pry is a powerful alternative to the standard IRB shell for Ruby
 dev-ruby/qr4r 0.4.1: QR PNG generator for Ruby
 dev-ruby/recog 2.1.10: Pattern recognition for hosts, services, and content
-dev-ruby/rex 2.0.11-r1: Ruby classes useful for security testing and exploit development
+dev-ruby/rex 2.0.11-r2: Ruby classes useful for security testing and exploit development
 dev-ruby/rex-arch 0.1.9: architecture specific information for Rex
 dev-ruby/rex-bin_tools 0.1.4: suite of tools for analyzing executables to find specific chunks of code
 dev-ruby/rex-encoder 0.1.4: provides the basis for all of the polymorphic encoders that Metasploit uses
