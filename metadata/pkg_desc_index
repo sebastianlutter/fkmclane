@@ -18,6 +18,7 @@ dev-python/brotlipy 0.6.0-r1 0.7.0: Python binding to the Brotli library
 dev-python/hyper-h2 2.6.2: HTTP/2 State-Machine based protocol implementation
 dev-python/jsbeautifier 1.6.14: Beautify, unpack or deobfuscate JavaScript
 dev-python/kaitaistruct 0.6 0.7: Kaitai Struct runtime for Python
+dev-python/pandocfilters 1.4.0: A Python module for writing Pandoc filters
 dev-python/pastebin 1.1.2: Python Pastebin.com API
 dev-python/pluginbase 0.5: A support library for building plugins sytems in Python
 dev-python/progressbar2 3.30.0-r1: text progress bar library for Python
@@ -144,7 +145,7 @@ sys-apps/petty 0.1: petty, short for practically enhanced tty, is a tty session 
 sys-firmware/edk2-ovmf 2017_pre20170505: UEFI firmware for 64-bit x86 virtual machines
 sys-fs/exfat-nofuse 0_p20170619: Non-fuse kernel driver for exFat and VFat file systems
 sys-fs/udiskie 1.7.0: An automatic disk mounting service using udisks
-sys-kernel/pf-sources 4.11_p7: Linux kernel fork with new features (-ck patchset (BFS), BFQ, TuxOnIce and UKSM)
+sys-kernel/pf-sources 4.12_p1: Linux kernel fork with new features (-ck patchset (BFS), BFQ, TuxOnIce and UKSM)
 www-apps/beef 0.4.7.0_p20170630-r1: The Browser Exploitation Framework
 www-misc/Brosec 1.4.0: An interactive reference tool to help security professionals
 www-misc/weevely 3.4: Weaponized web shell
