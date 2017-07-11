@@ -7,6 +7,7 @@ app-misc/cronic 3: a cure for cron's chronic email problem
 app-misc/gotty-bin 0.0.13: Share your terminal as a web application
 app-misc/tty-clock 2.3: analog clock in ncurses
 app-misc/wemux 3.2.0_p20150822: multi-user tmux made easy
+app-shells/elvish 0.9: A novel Unix shell
 dev-db/sqlmap 1.1.7 9999: Automatic SQL injection and database takeover tool
 dev-embedded/arduino-bin 1.8.3: electronics prototyping platform based on easy-to-use hardware and software
 dev-embedded/energia-bin 1.6.10_p18: electronics prototyping platform for TI MSP430 LaunchPad based on Arduino
@@ -57,6 +58,7 @@ dev-ruby/metasploit-credential 2.0.10: Code for modeling and managing credential
 dev-ruby/metasploit-model 2.0.4: Common code, such as validators and mixins
 dev-ruby/metasploit-payloads 1.2.32 1.2.38: Compiled binaries for Metasploit's Meterpreter
 dev-ruby/metasploit_data_models 2.0.15: The database layer for Metasploit
+dev-ruby/metasploit_payloads-mettle 0.1.11: Compiled binaries for Metasploit's next-gen Meterpreter
 dev-ruby/method_source 0.8.2_p20170202: Retrieve the source code for a method
 dev-ruby/mojo_magick 0.5.6: Ruby stateless module interface to ImageMagick
 dev-ruby/msfrpc-client 1.1.0: Ruby client API for Metasploit RPC
