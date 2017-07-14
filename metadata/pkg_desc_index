@@ -30,7 +30,7 @@ dev-python/pyperclip 1.5.27: Cross-platform clipboard module
 dev-python/python-ntlm 1.1.0: Python library for NTLM support
 dev-python/python-utils 2.1.0-r1: a collection of functions and classes which shortens common patterns
 dev-python/ruamel-ordereddict 0.4.9: An ordered dictionary with KIO/KVIO
-dev-python/ruamel-yaml 0.13.14 0.15.18: YAML parser/emitter that supports roundtrip comment preservation
+dev-python/ruamel-yaml 0.13.14 0.15.19: YAML parser/emitter that supports roundtrip comment preservation
 dev-python/slixmpp 1.2.4: Python library for XMPP - asyncio fork
 dev-python/terminaltables 3.1.0: Generate simple tables in terminals from a nested list of strings
 dev-python/twilio 6.4.3: Helper library for the Twilio API
@@ -108,7 +108,7 @@ games-action/armagetronad-dedicated 0.2.8.3.4 0.4-r1: A fast-paced 3D lightcycle
 games-arcade/nsnake 3.0.1-r1: A clone of the classic snake game on the terminal
 games-board/cockatrice 20170505: A cross-platform virtual tabletop for multiplayer card games
 games-misc/git-fire 0_p20160813: Save your code in an emergency
-games-misc/lolcat 42.24.1: Rainbows and unicorns!
+games-misc/lolcat 90.8.8: Rainbows and unicorns!
 games-misc/nyancat 1.5.1-r1: nyancat rendered in your terminal
 games-misc/pipes 1.2.0: animated pipes terminal screensaver
 media-gfx/maim 5.4.63: Command line tool to take screenshots of the desktop
