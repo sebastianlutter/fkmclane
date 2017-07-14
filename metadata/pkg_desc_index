@@ -35,6 +35,7 @@ dev-python/slixmpp 1.2.4: Python library for XMPP - asyncio fork
 dev-python/terminaltables 3.1.0: Generate simple tables in terminals from a nested list of strings
 dev-python/twilio 6.4.3: Helper library for the Twilio API
 dev-python/vex 0.0.18: Run commands in a virtualenv
+dev-ruby/ascii85 1.0.2-r3: Methods for encoding/decoding Adobe's binary-to-text encoding of the same name
 dev-ruby/celluloid-io 0.16.2-r1: Evented IO for Celluloid actors
 dev-ruby/cms_scanner 0.0.37.9: Framework to provide an easy way to implement CMS Scanners
 dev-ruby/data_objects 0.10.17: A standard and simplified API for communicating with RDBMS
@@ -70,6 +71,7 @@ dev-ruby/net-dns 0.8.0: Ruby DNS library, with a clean OO interface and an exten
 dev-ruby/opt_parse_validator 0.0.13.5: Implementation of validators for the Ruby OptionParser library
 dev-ruby/os 1.0.0: Useful OS detection functions
 dev-ruby/parseconfig 1.0.8: Simple configuration file parser
+dev-ruby/pdf-reader 2.0.0-r1: PDF parser conforming as much as possible to the PDF specification from Adobe
 dev-ruby/pg 0.20.0: Ruby extension library providing an API to PostgreSQL
 dev-ruby/pry 0.10.4_p20161207: Pry is a powerful alternative to the standard IRB shell for Ruby
 dev-ruby/qr4r 0.4.1: QR PNG generator for Ruby
@@ -133,7 +135,7 @@ media-tv/plexpy 1.4.21: A python based web application for monitoring your Plex 
 media-video/plex-ffmpeg 2016.12: Plex Transcoder, a ffmpeg fork from Plex Inc.
 media-video/v4l2loopback 0.10.0: v4l2 loopback device which output is it's own input
 net-analyzer/bettercap 1.6.1: A complete, modular, portable and easily extensible MITM framework
-net-analyzer/metasploit 4.15.0 9999: Advanced framework for developing, testing, and using vulnerability exploit code
+net-analyzer/metasploit 4.15.0-r1 9999: Advanced framework for developing, testing, and using vulnerability exploit code
 net-analyzer/nikto 2.1.6_p20170711: web server vulnerability scanner
 net-analyzer/nmap 7.50: A utility for network discovery and security auditing
 net-analyzer/wpscan 3.0.3: WordPress vulnerability scanner
