@@ -62,7 +62,7 @@ dev-ruby/metasploit-credential 2.0.10: Code for modeling and managing credential
 dev-ruby/metasploit-model 2.0.4: Common code, such as validators and mixins
 dev-ruby/metasploit-payloads 1.2.37 1.2.40: Compiled binaries for Metasploit's Meterpreter
 dev-ruby/metasploit_data_models 2.0.15: The database layer for Metasploit
-dev-ruby/metasploit_payloads-mettle 0.1.10 0.1.11: Compiled binaries for Metasploit's next-gen Meterpreter
+dev-ruby/metasploit_payloads-mettle 0.1.10 0.1.14: Compiled binaries for Metasploit's next-gen Meterpreter
 dev-ruby/method_source 0.8.2_p20170202: Retrieve the source code for a method
 dev-ruby/mojo_magick 0.5.6: Ruby stateless module interface to ImageMagick
 dev-ruby/msfrpc-client 1.1.0: Ruby client API for Metasploit RPC
@@ -86,7 +86,7 @@ dev-ruby/rex-java 0.1.4: Ruby Exploitation(Rex) library for parsing Java seriali
 dev-ruby/rex-mime 0.1.4: library is for creating and/or parsing MIME messages
 dev-ruby/rex-nop 0.1.0: Rex library for dynamic generation of x86 multi-byte NOPs
 dev-ruby/rex-ole 0.1.5: Ruby Exploitation(Rex) library gem for reading/writing OLE files and streams
-dev-ruby/rex-powershell 0.1.70: Ruby Exploitation(Rex) library for generating/manipulating Powershell scripts
+dev-ruby/rex-powershell 0.1.73: Ruby Exploitation(Rex) library for generating/manipulating Powershell scripts
 dev-ruby/rex-random_identifier 0.1.2: Ruby Exploitation(Rex) library for generating Random identifier strings
 dev-ruby/rex-registry 0.1.2: Rex library for parsing offline registry files from a Windows machine
 dev-ruby/rex-rop_builder 0.1.2: Ruby Exploitation(Rex) Library for building ROP chains
@@ -143,7 +143,7 @@ net-im/discord 0.0.1: All-in-one voice and text chat for gamers
 net-im/hangups 9999: Third Party IM Client for Google Hangouts
 net-mail/syncmaildir 1.2.6.2: Sync Mail Dir (smd) is a set of tools to synchronize a pair of mailboxes
 net-p2p/zget 0.11.1: zeroconf based peer to peer file transfer
-net-proxy/mitmproxy 2.0.2: An interactive, SSL-capable, man-in-the-middle HTTP proxy
+net-proxy/mitmproxy 2.0.2-r1: An interactive, SSL-capable, man-in-the-middle HTTP proxy
 net-wireless/create_ap 0.4.6: A script to create a NATed or bridged WiFi access point
 net-wireless/unifi 5.5.19-r2: Management Controller for Ubiquiti Networks UniFi APs
 sci-electronics/eagle 8.2.2: EAGLE schematic and printed circuit board (PCB) layout editor
