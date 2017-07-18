@@ -1,6 +1,6 @@
 app-admin/linode-cli 1.0.4_beta1 1.4.7_p20170411: Command-line interface to the Linode platform
 app-admin/pass-otp 1.0.0: A pass extension for managing one-time-password (OTP) tokens
-app-crypt/johntheripper 1.8.0_p20170713: fast password cracker
+app-crypt/johntheripper 1.8.0_p20170714: fast password cracker
 app-editors/komodo-edit-bin 10.2.2: Freeware advanced editor for dynamic and Web languages
 app-misc/blinkstick 1.1.8_p20161004: Python interface to control BlinkStick devices connected to the computer
 app-misc/cronic 3: a cure for cron's chronic email problem
@@ -86,7 +86,7 @@ dev-ruby/rex-java 0.1.4: Ruby Exploitation(Rex) library for parsing Java seriali
 dev-ruby/rex-mime 0.1.4: library is for creating and/or parsing MIME messages
 dev-ruby/rex-nop 0.1.0: Rex library for dynamic generation of x86 multi-byte NOPs
 dev-ruby/rex-ole 0.1.5: Ruby Exploitation(Rex) library gem for reading/writing OLE files and streams
-dev-ruby/rex-powershell 0.1.73: Ruby Exploitation(Rex) library for generating/manipulating Powershell scripts
+dev-ruby/rex-powershell 0.1.72 0.1.73: Ruby Exploitation(Rex) library for generating/manipulating Powershell scripts
 dev-ruby/rex-random_identifier 0.1.2: Ruby Exploitation(Rex) library for generating Random identifier strings
 dev-ruby/rex-registry 0.1.2: Rex library for parsing offline registry files from a Windows machine
 dev-ruby/rex-rop_builder 0.1.2: Ruby Exploitation(Rex) Library for building ROP chains
@@ -135,7 +135,7 @@ media-tv/plexpy 1.4.21: A python based web application for monitoring your Plex 
 media-video/plex-ffmpeg 2016.12: Plex Transcoder, a ffmpeg fork from Plex Inc.
 media-video/v4l2loopback 0.10.0: v4l2 loopback device which output is it's own input
 net-analyzer/bettercap 1.6.1: A complete, modular, portable and easily extensible MITM framework
-net-analyzer/metasploit 4.15.0-r1 9999: Advanced framework for developing, testing, and using vulnerability exploit code
+net-analyzer/metasploit 4.15.2 9999: Advanced framework for developing, testing, and using vulnerability exploit code
 net-analyzer/nikto 2.1.6_p20170711: web server vulnerability scanner
 net-analyzer/nmap 7.50: A utility for network discovery and security auditing
 net-analyzer/wpscan 3.0.3: WordPress vulnerability scanner
