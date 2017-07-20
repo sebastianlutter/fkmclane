@@ -52,7 +52,7 @@ dev-ruby/espeak-ruby 1.0.4: Ruby API for creating text-to-speech files
 dev-ruby/fastercsv 1.5.5: Faster replacement for the CSV standard library
 dev-ruby/geoip 1.6.3-r1: API for searching a GeoIP database
 dev-ruby/google-protobuf 3.3.0: Google Protocol Buffers
-dev-ruby/googleauth 0.5.1-r1: Simple authorization for Google APIs
+dev-ruby/googleauth 0.5.2: Simple authorization for Google APIs
 dev-ruby/grpc 1.4.1: Send RPCs using GRPC
 dev-ruby/libv8 3.16.14.19: V8 JavaScript engine distribution
 dev-ruby/metasm 1.0.3: cross-architecture assembler, disassembler, linker, and debugger
@@ -79,7 +79,7 @@ dev-ruby/recog 2.1.11: Pattern recognition for hosts, services, and content
 dev-ruby/rex 2.0.11-r2: Ruby classes useful for security testing and exploit development
 dev-ruby/rex-arch 0.1.9: architecture specific information for Rex
 dev-ruby/rex-bin_tools 0.1.4: suite of tools for analyzing executables to find specific chunks of code
-dev-ruby/rex-core 0.1.11: Core libraries required for the Ruby Exploitation(Rex) Suite
+dev-ruby/rex-core 0.1.12: Core libraries required for the Ruby Exploitation(Rex) Suite
 dev-ruby/rex-encoder 0.1.4: provides the basis for all of the polymorphic encoders that Metasploit uses
 dev-ruby/rex-exploitation 0.1.12: various helper mechanisms for creating exploits
 dev-ruby/rex-java 0.1.4: Ruby Exploitation(Rex) library for parsing Java serialized streams
@@ -111,7 +111,7 @@ games-misc/git-fire 0_p20160813: Save your code in an emergency
 games-misc/lolcat 90.8.8: Rainbows and unicorns!
 games-misc/nyancat 1.5.1-r1: nyancat rendered in your terminal
 games-misc/pipes 1.2.0: animated pipes terminal screensaver
-media-gfx/maim 5.4.63: Command line tool to take screenshots of the desktop
+media-gfx/maim 5.4.64: Command line tool to take screenshots of the desktop
 media-gfx/sk1 2.0_rc2: an open-source illustration program
 media-libs/libshairport 1.2.1_p20121215: A library for emulating an AirPort Express
 media-libs/openvr 1.0.9: API and runtime for accessing VR hardware from multiple vendors
@@ -164,6 +164,6 @@ x11-misc/barline 0.2.7: a simple data collector and formatter for lemonbar and b
 x11-misc/clipster 1.0.3: simple clipboard manager
 x11-misc/lemonbar 1.2_p20161116: a featherweight, lemon-scented, bar based on xcb
 x11-misc/rofi-pass 1.5.0: Rofi frontend for pass
-x11-misc/slop 6.3.46: An application that queries the user for a selection for printing
+x11-misc/slop 6.3.47: An application that queries the user for a selection for printing
 x11-themes/arc-openbox-theme 0_p20170104: Openbox theme created to fit in nicely with the Arc GTK theme
 x11-wm/bspwm 0.9.3: Tiling window manager based on binary space partitioning
