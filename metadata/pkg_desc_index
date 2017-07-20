@@ -60,7 +60,7 @@ dev-ruby/metasploit-aggregator 0.2.1: Proxy for Meterpreter sessions
 dev-ruby/metasploit-concern 2.0.5: Metasploit concern allows you to define concerns in app/concerns.
 dev-ruby/metasploit-credential 2.0.10: Code for modeling and managing credentials in Metasploit
 dev-ruby/metasploit-model 2.0.4: Common code, such as validators and mixins
-dev-ruby/metasploit-payloads 1.2.37 1.2.40: Compiled binaries for Metasploit's Meterpreter
+dev-ruby/metasploit-payloads 1.2.37 1.2.41: Compiled binaries for Metasploit's Meterpreter
 dev-ruby/metasploit_data_models 2.0.15: The database layer for Metasploit
 dev-ruby/metasploit_payloads-mettle 0.1.10 0.1.14: Compiled binaries for Metasploit's next-gen Meterpreter
 dev-ruby/method_source 0.8.2_p20170202: Retrieve the source code for a method
@@ -114,7 +114,7 @@ games-misc/pipes 1.2.0: animated pipes terminal screensaver
 media-gfx/maim 5.4.63: Command line tool to take screenshots of the desktop
 media-gfx/sk1 2.0_rc2: an open-source illustration program
 media-libs/libshairport 1.2.1_p20121215: A library for emulating an AirPort Express
-media-libs/openvr 1.0.8: API and runtime for accessing VR hardware from multiple vendors
+media-libs/openvr 1.0.9: API and runtime for accessing VR hardware from multiple vendors
 media-libs/zita-resampler 1.6.0: A C++ library for resampling audio signals
 media-plugins/calf 0.0.60-r1 9999: A set of open source instruments and effects for digital audio workstations
 media-plugins/gxplugins-lv2 0.3 9999: A set of LV2 plugins from the Guitarix project
