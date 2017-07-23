@@ -29,7 +29,7 @@ dev-python/pycryptodomex 3.4.6: A self-contained cryptographic library for Pytho
 dev-python/pyperclip 1.5.27: Cross-platform clipboard module
 dev-python/python-ntlm 1.1.0: Python library for NTLM support
 dev-python/python-utils 2.1.0-r1: a collection of functions and classes which shortens common patterns
-dev-python/ruamel-ordereddict 0.4.9: An ordered dictionary with KIO/KVIO
+dev-python/ruamel-ordereddict 0.4.13: An ordered dictionary with KIO/KVIO
 dev-python/ruamel-yaml 0.13.14 0.15.19: YAML parser/emitter that supports roundtrip comment preservation
 dev-python/slixmpp 1.2.4: Python library for XMPP - asyncio fork
 dev-python/terminaltables 3.1.0: Generate simple tables in terminals from a nested list of strings
@@ -52,7 +52,7 @@ dev-ruby/espeak-ruby 1.0.4: Ruby API for creating text-to-speech files
 dev-ruby/fastercsv 1.5.5: Faster replacement for the CSV standard library
 dev-ruby/geoip 1.6.3-r1: API for searching a GeoIP database
 dev-ruby/google-protobuf 3.3.0: Google Protocol Buffers
-dev-ruby/googleauth 0.5.2: Simple authorization for Google APIs
+dev-ruby/googleauth 0.5.3: Simple authorization for Google APIs
 dev-ruby/grpc 1.4.1: Send RPCs using GRPC
 dev-ruby/libv8 3.16.14.19: V8 JavaScript engine distribution
 dev-ruby/metasm 1.0.3: cross-architecture assembler, disassembler, linker, and debugger
@@ -60,9 +60,9 @@ dev-ruby/metasploit-aggregator 0.2.1: Proxy for Meterpreter sessions
 dev-ruby/metasploit-concern 2.0.5: Metasploit concern allows you to define concerns in app/concerns.
 dev-ruby/metasploit-credential 2.0.10: Code for modeling and managing credentials in Metasploit
 dev-ruby/metasploit-model 2.0.4: Common code, such as validators and mixins
-dev-ruby/metasploit-payloads 1.2.37 1.2.41: Compiled binaries for Metasploit's Meterpreter
+dev-ruby/metasploit-payloads 1.2.37 1.2.44: Compiled binaries for Metasploit's Meterpreter
 dev-ruby/metasploit_data_models 2.0.15: The database layer for Metasploit
-dev-ruby/metasploit_payloads-mettle 0.1.10 0.1.14: Compiled binaries for Metasploit's next-gen Meterpreter
+dev-ruby/metasploit_payloads-mettle 0.1.14: Compiled binaries for Metasploit's next-gen Meterpreter
 dev-ruby/method_source 0.8.2_p20170202: Retrieve the source code for a method
 dev-ruby/mojo_magick 0.5.6: Ruby stateless module interface to ImageMagick
 dev-ruby/msfrpc-client 1.1.0: Ruby client API for Metasploit RPC
@@ -135,7 +135,7 @@ media-tv/plexpy 1.4.21: A python based web application for monitoring your Plex 
 media-video/plex-ffmpeg 2016.12: Plex Transcoder, a ffmpeg fork from Plex Inc.
 media-video/v4l2loopback 0.10.0: v4l2 loopback device which output is it's own input
 net-analyzer/bettercap 1.6.1: A complete, modular, portable and easily extensible MITM framework
-net-analyzer/metasploit 4.15.2 9999: Advanced framework for developing, testing, and using vulnerability exploit code
+net-analyzer/metasploit 4.15.3 9999: Advanced framework for developing, testing, and using vulnerability exploit code
 net-analyzer/nikto 2.1.6_p20170711: web server vulnerability scanner
 net-analyzer/nmap 7.50: A utility for network discovery and security auditing
 net-analyzer/wpscan 3.0.3: WordPress vulnerability scanner
