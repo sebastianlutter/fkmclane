@@ -154,7 +154,7 @@ sys-apps/petty 0.1: petty, short for practically enhanced tty, is a tty session 
 sys-firmware/edk2-ovmf 2017_pre20170505: UEFI firmware for 64-bit x86 virtual machines
 sys-fs/exfat-nofuse 0_p20170619: Non-fuse kernel driver for exFat and VFat file systems
 sys-fs/udiskie 1.7.0: An automatic disk mounting service using udisks
-sys-kernel/pf-sources 4.12_p2: Linux kernel fork with new features (-ck patchset (BFS), BFQ, TuxOnIce and UKSM)
+sys-kernel/pf-sources 4.12_p3: Linux kernel fork with new features (-ck patchset (BFS), BFQ, TuxOnIce and UKSM)
 www-apps/beef 0.4.7.0_p20170630-r1: The Browser Exploitation Framework
 www-misc/Brosec 1.4.0: An interactive reference tool to help security professionals
 www-misc/weevely 3.4: Weaponized web shell
