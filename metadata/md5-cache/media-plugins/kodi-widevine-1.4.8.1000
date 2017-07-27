@@ -7,7 +7,7 @@ LICENSE=google-chrome
 RDEPEND=>=media-tv/kodi-9999[agile]
 RESTRICT=bindist mirror strip
 SLOT=0
-SRC_URI=https://dl.google.com/linux/chrome/deb/pool/main/g/google-chrome-stable/google-chrome-stable_59.0.3071.86-1_amd64.deb
+SRC_URI=https://dl.google.com/linux/chrome/deb/pool/main/g/google-chrome-stable/google-chrome-stable_60.0.3112.78-1_amd64.deb
 _eclass_exported_funcs=src_unpack:unpacker src_install:-
 _eclasses_=multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	8fec6b1eb195836560e70b66d98fb163	unpacker	f40f7b4bd5aa88c2a4ba7b0d1e0ded70
-_md5_=a89446c55454de274b416a6a2e801933
+_md5_=f8de5cfa17e7cca0825693c90a6b7c26
