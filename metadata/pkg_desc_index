@@ -112,7 +112,7 @@ games-misc/git-fire 0_p20160813: Save your code in an emergency
 games-misc/lolcat 90.8.8: Rainbows and unicorns!
 games-misc/nyancat 1.5.1-r1: nyancat rendered in your terminal
 games-misc/pipes 1.2.0: animated pipes terminal screensaver
-media-gfx/maim 5.4.65: Command line tool to take screenshots of the desktop
+media-gfx/maim 5.4.66: Command line tool to take screenshots of the desktop
 media-gfx/sk1 2.0_rc2: an open-source illustration program
 media-libs/libshairport 1.2.1_p20121215: A library for emulating an AirPort Express
 media-libs/openvr 1.0.9: API and runtime for accessing VR hardware from multiple vendors
@@ -165,6 +165,6 @@ x11-misc/barline 0.2.7: a simple data collector and formatter for lemonbar and b
 x11-misc/clipster 1.2.2: simple clipboard manager
 x11-misc/lemonbar 1.2_p20161116: a featherweight, lemon-scented, bar based on xcb
 x11-misc/rofi-pass 1.5.0: Rofi frontend for pass
-x11-misc/slop 6.3.48: An application that queries the user for a selection for printing
+x11-misc/slop 7.3.48: An application that queries the user for a selection for printing
 x11-themes/arc-openbox-theme 0_p20170104: Openbox theme created to fit in nicely with the Arc GTK theme
 x11-wm/bspwm 0.9.3: Tiling window manager based on binary space partitioning
