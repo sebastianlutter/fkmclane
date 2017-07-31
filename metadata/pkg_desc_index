@@ -164,7 +164,7 @@ x11-misc/awf 1.4.0: A Widget Factory
 x11-misc/barline 0.2.7: a simple data collector and formatter for lemonbar and bspwm
 x11-misc/clipster 1.2.2: simple clipboard manager
 x11-misc/lemonbar 1.2_p20161116: a featherweight, lemon-scented, bar based on xcb
-x11-misc/rofi-pass 1.5.0: Rofi frontend for pass
+x11-misc/rofi-pass 1.5.1: Rofi frontend for pass
 x11-misc/slop 7.3.48: An application that queries the user for a selection for printing
 x11-themes/arc-openbox-theme 0_p20170104: Openbox theme created to fit in nicely with the Arc GTK theme
 x11-wm/bspwm 0.9.3: Tiling window manager based on binary space partitioning
