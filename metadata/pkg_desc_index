@@ -1,6 +1,6 @@
 app-admin/linode-cli 1.0.4_beta1 1.4.7_p20170411: Command-line interface to the Linode platform
 app-admin/pass-otp 1.0.0: A pass extension for managing one-time-password (OTP) tokens
-app-crypt/johntheripper 1.8.0_p20170714: fast password cracker
+app-crypt/johntheripper 1.8.0_p20170724: fast password cracker
 app-editors/komodo-edit-bin 10.2.2-r2: Freeware advanced editor for dynamic and Web languages
 app-misc/blinkstick 1.1.8_p20161004: Python interface to control BlinkStick devices connected to the computer
 app-misc/cronic 3: a cure for cron's chronic email problem
@@ -8,6 +8,7 @@ app-misc/gotty-bin 0.0.13: Share your terminal as a web application
 app-misc/tty-clock 2.3: analog clock in ncurses
 app-misc/wemux 3.2.0_p20150822: multi-user tmux made easy
 app-shells/elvish 0.9: A novel Unix shell
+app-vim/neovim-remote 1.7.4: Neovim support for --remote and friends
 dev-db/sqlmap 1.1.7 9999: Automatic SQL injection and database takeover tool
 dev-embedded/arduino-bin 1.8.3: electronics prototyping platform based on easy-to-use hardware and software
 dev-embedded/energia-bin 1.6.10_p18: electronics prototyping platform for TI MSP430 LaunchPad based on Arduino
@@ -146,7 +147,7 @@ net-mail/syncmaildir 1.2.6.2: Sync Mail Dir (smd) is a set of tools to synchroni
 net-p2p/zget 0.11.1-r1: zeroconf based peer to peer file transfer
 net-proxy/mitmproxy 2.0.2-r1: An interactive, SSL-capable, man-in-the-middle HTTP proxy
 net-wireless/create_ap 0.4.6: A script to create a NATed or bridged WiFi access point
-net-wireless/unifi 5.5.19-r2: Management Controller for Ubiquiti Networks UniFi APs
+net-wireless/unifi 5.5.20: Management Controller for Ubiquiti Networks UniFi APs
 sci-electronics/eagle 8.2.2: EAGLE schematic and printed circuit board (PCB) layout editor
 sci-electronics/freeroute 1.2.43_p20150316: popular PCB routing and autorouting program
 sci-electronics/fritzing-bin 0.9.3b: Fritzing makes electronics accessible as a creative material for anyone
