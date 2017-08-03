@@ -59,7 +59,7 @@ dev-ruby/libv8 3.16.14.19: V8 JavaScript engine distribution
 dev-ruby/metasm 1.0.3: cross-architecture assembler, disassembler, linker, and debugger
 dev-ruby/metasploit-aggregator 0.2.1: Proxy for Meterpreter sessions
 dev-ruby/metasploit-concern 2.0.5: Metasploit concern allows you to define concerns in app/concerns.
-dev-ruby/metasploit-credential 2.0.10: Code for modeling and managing credentials in Metasploit
+dev-ruby/metasploit-credential 2.0.11: Code for modeling and managing credentials in Metasploit
 dev-ruby/metasploit-model 2.0.4: Common code, such as validators and mixins
 dev-ruby/metasploit-payloads 1.2.46: Compiled binaries for Metasploit's Meterpreter
 dev-ruby/metasploit_data_models 2.0.15: The database layer for Metasploit
