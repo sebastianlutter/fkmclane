@@ -8,6 +8,8 @@ app-crypt/johntheripper:openssl - Use OpenSSL
 app-crypt/johntheripper:pcap - Build helpers depending on pcap
 app-crypt/johntheripper:rexgen - Enable librexgen support
 dev-db/sqlmap:ntlm - Add NTLM support
+dev-libs/beignet:ocl-icd - Enable compatibility with the dev-libs/ocl-icd OpenCL ICD loader
+dev-libs/beignet:ocl20 - Enable experimental OpenCL 2.0 support on Skylake and newer architectures
 dev-python/ruamel-yaml:libyaml - Add LibYAML support
 dev-python/slixmpp:cython - Enable Cython support
 dev-util/unity-editor:android - Enable Android target support
