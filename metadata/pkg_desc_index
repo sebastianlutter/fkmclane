@@ -25,7 +25,6 @@ dev-python/kaitaistruct 0.6 0.7: Kaitai Struct runtime for Python
 dev-python/linode-api 4.1.1_beta0: Official Python library for the Linode API v4
 dev-python/pandocfilters 1.4.0: A Python module for writing Pandoc filters
 dev-python/pastebin 1.1.2: Python Pastebin.com API
-dev-python/pluginbase 0.5: A support library for building plugins sytems in Python
 dev-python/progressbar2 3.34.2: text progress bar library for Python
 dev-python/pycryptodomex 3.4.6: A self-contained cryptographic library for Python - independent library version
 dev-python/pyperclip 1.5.27: Cross-platform clipboard module
@@ -103,7 +102,6 @@ dev-ruby/signet 0.7.3: An OAuth 1.0/2.0 implementation
 dev-ruby/therubyracer 0.12.2 0.12.3: Embed the V8 JavaScript interpreter into Ruby
 dev-ruby/timers 4.0.1: Pure Ruby one-shot and periodic timers
 dev-ruby/xdr 2.0.0: Read/write XDR encoded data structures
-dev-util/conan 0.22.3-r2: Distributed C/C++ package manager
 dev-util/ffdec 10.0.0: Decompiler and editor of Flash SWF files
 dev-util/unity-editor 2017.1.0_rc3: Editor for the Unity game engine
 games-action/armagetronad 0.2.8.3.4 0.4-r1: A fast-paced 3D lightcycle game based on Tron
