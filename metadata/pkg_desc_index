@@ -30,7 +30,7 @@ dev-python/pyperclip 1.5.27: Cross-platform clipboard module
 dev-python/python-ntlm 1.1.0: Python library for NTLM support
 dev-python/python-utils 2.2.0: a collection of functions and classes which shortens common patterns
 dev-python/ruamel-ordereddict 0.4.13: An ordered dictionary with KIO/KVIO
-dev-python/ruamel-yaml 0.13.14 0.15.23: YAML parser/emitter that supports roundtrip comment preservation
+dev-python/ruamel-yaml 0.13.14 0.15.25: YAML parser/emitter that supports roundtrip comment preservation
 dev-python/slixmpp 1.2.4: Python library for XMPP - asyncio fork
 dev-python/terminaltables 3.1.0: Generate simple tables in terminals from a nested list of strings
 dev-python/twilio 6.5.0: Helper library for the Twilio API
