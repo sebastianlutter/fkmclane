@@ -37,7 +37,7 @@ dev-python/twilio 6.5.1: Helper library for the Twilio API
 dev-python/vex 0.0.18: Run commands in a virtualenv
 dev-ruby/ascii85 1.0.2-r3: Methods for encoding/decoding Adobe's binary-to-text encoding of the same name
 dev-ruby/celluloid-io 0.16.2-r1: Evented IO for Celluloid actors
-dev-ruby/cms_scanner 0.0.37.9: Framework to provide an easy way to implement CMS Scanners
+dev-ruby/cms_scanner 0.0.37.9-r1: Framework to provide an easy way to implement CMS Scanners
 dev-ruby/data_objects 0.10.17: A standard and simplified API for communicating with RDBMS
 dev-ruby/dm-constraints 1.2.0: DataMapper plugin constraining relationships
 dev-ruby/dm-core 1.2.1: DataMapper core library
