@@ -30,10 +30,10 @@ dev-python/pyperclip 1.5.27: Cross-platform clipboard module
 dev-python/python-ntlm 1.1.0: Python library for NTLM support
 dev-python/python-utils 2.2.0: a collection of functions and classes which shortens common patterns
 dev-python/ruamel-ordereddict 0.4.13: An ordered dictionary with KIO/KVIO
-dev-python/ruamel-yaml 0.13.14 0.15.25: YAML parser/emitter that supports roundtrip comment preservation
+dev-python/ruamel-yaml 0.13.14 0.15.26: YAML parser/emitter that supports roundtrip comment preservation
 dev-python/slixmpp 1.2.4: Python library for XMPP - asyncio fork
 dev-python/terminaltables 3.1.0: Generate simple tables in terminals from a nested list of strings
-dev-python/twilio 6.5.0: Helper library for the Twilio API
+dev-python/twilio 6.5.1: Helper library for the Twilio API
 dev-python/vex 0.0.18: Run commands in a virtualenv
 dev-ruby/ascii85 1.0.2-r3: Methods for encoding/decoding Adobe's binary-to-text encoding of the same name
 dev-ruby/celluloid-io 0.16.2-r1: Evented IO for Celluloid actors
@@ -53,12 +53,12 @@ dev-ruby/fastercsv 1.5.5: Faster replacement for the CSV standard library
 dev-ruby/geoip 1.6.3-r1: API for searching a GeoIP database
 dev-ruby/google-protobuf 3.3.0: Google Protocol Buffers
 dev-ruby/googleauth 0.5.3: Simple authorization for Google APIs
-dev-ruby/grpc 1.4.1: Send RPCs using GRPC
+dev-ruby/grpc 1.4.5: Send RPCs using GRPC
 dev-ruby/libv8 3.16.14.19: V8 JavaScript engine distribution
 dev-ruby/metasm 1.0.3: cross-architecture assembler, disassembler, linker, and debugger
 dev-ruby/metasploit-aggregator 0.2.1: Proxy for Meterpreter sessions
 dev-ruby/metasploit-concern 2.0.5: Metasploit concern allows you to define concerns in app/concerns.
-dev-ruby/metasploit-credential 2.0.11: Code for modeling and managing credentials in Metasploit
+dev-ruby/metasploit-credential 2.0.12: Code for modeling and managing credentials in Metasploit
 dev-ruby/metasploit-model 2.0.4: Common code, such as validators and mixins
 dev-ruby/metasploit-payloads 1.2.46 1.2.47: Compiled binaries for Metasploit's Meterpreter
 dev-ruby/metasploit_data_models 2.0.15: The database layer for Metasploit
@@ -123,7 +123,7 @@ media-plugins/kodi-netflix 9999: Inputstream based Netflix plugin for Kodi
 media-plugins/kodi-widevine 1.4.8.1000: An adapter for playing DRM content
 media-plugins/midifilter-lv2 0.4.7: LV2 plugins to filter MIDI events
 media-plugins/plex-for-kodi 0.0.98: Plex's official Plex add-on for Kodi.
-media-plugins/plex-kodi-connect 1.8.8: Combine the frontend media player Kodi with the multimedia backend server Plex
+media-plugins/plex-kodi-connect 1.8.9: Combine the frontend media player Kodi with the multimedia backend server Plex
 media-sound/gxtuner 2.4 9999: A simple guitar tuner for JACK
 media-sound/libresonic 6.1 6.2: Libresonic is a free and web-based media streamer.
 media-sound/ympd 1.3.0: Standalone MPD Web GUI written in C, utilizing Websockets and Bootstrap/JS
