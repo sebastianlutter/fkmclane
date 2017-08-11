@@ -45,6 +45,7 @@ dev-ruby/dm-do-adapter 1.2.0: DataObjects Adapter for DataMapper
 dev-ruby/dm-migrations 1.2.0: DataMapper plugin for writing and speccing migrations
 dev-ruby/dm-serializer 1.2.2-r1: DataMapper plugin for serializing resources and collections
 dev-ruby/dm-sqlite-adapter 1.2.0: SQLite3 adapter for DataMapper
+dev-ruby/dnsruby 1.60.2: A pure Ruby DNS client library
 dev-ruby/do_sqlite3 0.10.17: DataObjects API for SQLite3
 dev-ruby/em-proxy 0.1.9: EventMachine Proxy DSL
 dev-ruby/em-websocket 0.5.1: EventMachine based WebSocket server
@@ -135,7 +136,7 @@ media-tv/plexpy 1.4.21: A python based web application for monitoring your Plex 
 media-video/plex-ffmpeg 2016.12: Plex Transcoder, a ffmpeg fork from Plex Inc.
 media-video/v4l2loopback 0.10.0: v4l2 loopback device which output is it's own input
 net-analyzer/bettercap 1.6.1: A complete, modular, portable and easily extensible MITM framework
-net-analyzer/metasploit 4.15.5 9999: Advanced framework for developing, testing, and using vulnerability exploit code
+net-analyzer/metasploit 4.15.6 9999: Advanced framework for developing, testing, and using vulnerability exploit code
 net-analyzer/nikto 2.1.6_p20170801: web server vulnerability scanner
 net-analyzer/nmap 7.50: A utility for network discovery and security auditing
 net-analyzer/wpscan 3.0.3: WordPress vulnerability scanner
@@ -156,7 +157,7 @@ sys-firmware/edk2-ovmf 2017_pre20170505: UEFI firmware for 64-bit x86 virtual ma
 sys-fs/exfat-nofuse 0_p20170619: Non-fuse kernel driver for exFat and VFat file systems
 sys-fs/udiskie 1.7.0: An automatic disk mounting service using udisks
 sys-kernel/pf-sources 4.12_p5: Linux kernel fork with new features (-ck patchset (BFS), BFQ, TuxOnIce and UKSM)
-www-apps/beef 0.4.7.0_p20170706: The Browser Exploitation Framework
+www-apps/beef 0.4.7.0_p20170711: The Browser Exploitation Framework
 www-misc/Brosec 1.4.0: An interactive reference tool to help security professionals
 www-misc/weevely 3.4: Weaponized web shell
 www-servers/pagekite 0.5.9.0: PageKite makes local websites or SSH servers publicly accessible in mere seconds
