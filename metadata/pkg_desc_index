@@ -163,7 +163,7 @@ www-misc/weevely 3.4: Weaponized web shell
 www-servers/pagekite 0.5.9.0: PageKite makes local websites or SSH servers publicly accessible in mere seconds
 x11-misc/awf 1.4.0: A Widget Factory
 x11-misc/barline 0.2.8: a simple data collector and formatter for lemonbar and bspwm
-x11-misc/clipster 1.2.3: simple clipboard manager
+x11-misc/clipster 1.2.4: simple clipboard manager
 x11-misc/lemonbar 1.2_p20161116: a featherweight, lemon-scented, bar based on xcb
 x11-misc/rofi-pass 1.5.1: Rofi frontend for pass
 x11-misc/slop 7.3.49: An application that queries the user for a selection for printing
