@@ -1,10 +1,11 @@
 app-admin/linode-cli 1.0.5_beta0 1.4.7_p20170411: Command-line interface to the Linode platform
 app-admin/pass-otp 1.0.0: A pass extension for managing one-time-password (OTP) tokens
-app-crypt/johntheripper 1.8.0_p20170807: fast password cracker
+app-crypt/johntheripper 1.8.0_p20170819: fast password cracker
 app-editors/komodo-edit-bin 10.2.2-r2: Freeware advanced editor for dynamic and Web languages
 app-misc/blinkstick 1.1.8_p20161004: Python interface to control BlinkStick devices connected to the computer
 app-misc/cronic 3: a cure for cron's chronic email problem
 app-misc/gotty-bin 0.0.13: Share your terminal as a web application
+app-misc/physlock 11: lightweight Linux console locking tool
 app-misc/tty-clock 2.3: analog clock in ncurses
 app-misc/wemux 3.2.0_p20150822: multi-user tmux made easy
 app-shells/elvish 0.9: A novel Unix shell
@@ -16,24 +17,23 @@ dev-embedded/teensyduino-bin 1.36: USB-based electronics prototyping platform co
 dev-games/mcedit 2.0.0_beta11: Minecraft save game editor
 dev-lang/kaitai-struct-compiler 0.7: Compiler for the Kaitai Struct project
 dev-libs/beignet 1.3.1-r2: OpenCL implementation for Intel GPUs
-dev-python/boto 2.48.0: Amazon Web Services API
-dev-python/brotlipy 0.6.0-r1 0.7.0: Python binding to the Brotli library
+dev-python/brotlipy 0.6.0-r2 0.7.0-r1: Python binding to the Brotli library
 dev-python/colorclass 2.2.0: Yet another ANSI color text library for Python
-dev-python/jsbeautifier 1.6.14: Beautify, unpack or deobfuscate JavaScript
+dev-python/jsbeautifier 1.6.14-r1: Beautify, unpack or deobfuscate JavaScript
 dev-python/kaitaistruct 0.6 0.7: Kaitai Struct runtime for Python
 dev-python/linode-api 4.1.2_beta0: Official Python library for the Linode API v4
-dev-python/pandocfilters 1.4.0: A Python module for writing Pandoc filters
+dev-python/pandocfilters 1.4.0-r1: A Python module for writing Pandoc filters
 dev-python/pastebin 1.1.2: Python Pastebin.com API
-dev-python/progressbar2 3.34.2: text progress bar library for Python
+dev-python/progressbar2 3.34.2-r1: text progress bar library for Python
 dev-python/pycryptodomex 3.4.6: A self-contained cryptographic library for Python - independent library version
 dev-python/pyperclip 1.5.27: Cross-platform clipboard module
 dev-python/python-ntlm 1.1.0: Python library for NTLM support
-dev-python/python-utils 2.2.0: a collection of functions and classes which shortens common patterns
+dev-python/python-utils 2.2.0-r1: a collection of functions and classes which shortens common patterns
 dev-python/ruamel-ordereddict 0.4.13: An ordered dictionary with KIO/KVIO
 dev-python/ruamel-yaml 0.13.14 0.15.31: YAML parser/emitter that supports roundtrip comment preservation
-dev-python/slixmpp 1.2.4: Python library for XMPP - asyncio fork
+dev-python/slixmpp 1.2.4-r1: Python library for XMPP - asyncio fork
 dev-python/terminaltables 3.1.0: Generate simple tables in terminals from a nested list of strings
-dev-python/twilio 6.5.1: Helper library for the Twilio API
+dev-python/twilio 6.5.2-r1: Helper library for the Twilio API
 dev-python/vex 0.0.18: Run commands in a virtualenv
 dev-ruby/ascii85 1.0.2-r3: Methods for encoding/decoding Adobe's binary-to-text encoding of the same name
 dev-ruby/celluloid-io 0.16.2-r1: Evented IO for Celluloid actors
@@ -52,7 +52,7 @@ dev-ruby/em-websocket 0.5.1: EventMachine based WebSocket server
 dev-ruby/espeak-ruby 1.0.4: Ruby API for creating text-to-speech files
 dev-ruby/fastercsv 1.5.5: Faster replacement for the CSV standard library
 dev-ruby/geoip 1.6.3-r1: API for searching a GeoIP database
-dev-ruby/google-protobuf 3.3.0: Google Protocol Buffers
+dev-ruby/google-protobuf 3.4.0.2: Google Protocol Buffers
 dev-ruby/googleauth 0.5.3: Simple authorization for Google APIs
 dev-ruby/grpc 1.4.5: Send RPCs using GRPC
 dev-ruby/libv8 3.16.14.19: V8 JavaScript engine distribution
@@ -61,7 +61,7 @@ dev-ruby/metasploit-aggregator 0.2.1: Proxy for Meterpreter sessions
 dev-ruby/metasploit-concern 2.0.5: Metasploit concern allows you to define concerns in app/concerns.
 dev-ruby/metasploit-credential 2.0.12: Code for modeling and managing credentials in Metasploit
 dev-ruby/metasploit-model 2.0.4: Common code, such as validators and mixins
-dev-ruby/metasploit-payloads 1.2.46 1.2.47: Compiled binaries for Metasploit's Meterpreter
+dev-ruby/metasploit-payloads 1.2.46 1.3.0: Compiled binaries for Metasploit's Meterpreter
 dev-ruby/metasploit_data_models 2.0.15: The database layer for Metasploit
 dev-ruby/metasploit_payloads-mettle 0.1.14: Compiled binaries for Metasploit's next-gen Meterpreter
 dev-ruby/method_source 0.8.2_p20170202: Retrieve the source code for a method
@@ -93,7 +93,7 @@ dev-ruby/rex-random_identifier 0.1.2: Ruby Exploitation(Rex) library for generat
 dev-ruby/rex-registry 0.1.2: Rex library for parsing offline registry files from a Windows machine
 dev-ruby/rex-rop_builder 0.1.2: Ruby Exploitation(Rex) Library for building ROP chains
 dev-ruby/rex-socket 0.1.8: Ruby Exploitation (Rex) Socket Abstraction Library
-dev-ruby/rex-sslscan 0.1.3: ruby implmenetation of the SSLScan tool
+dev-ruby/rex-sslscan 0.1.5: ruby implmenetation of the SSLScan tool
 dev-ruby/rex-text 0.2.14: Rex library for text generation and manipulation
 dev-ruby/rex-zip 0.1.2: Ruby Exploitation(Rex) library for working with zip and related files
 dev-ruby/ruby_smb 0.0.18: pure Ruby implementation of the SMB Protocol Family
@@ -103,16 +103,16 @@ dev-ruby/therubyracer 0.12.2 0.12.3: Embed the V8 JavaScript interpreter into Ru
 dev-ruby/timers 4.0.1: Pure Ruby one-shot and periodic timers
 dev-ruby/xdr 2.0.0: Read/write XDR encoded data structures
 dev-util/ffdec 10.0.0: Decompiler and editor of Flash SWF files
-dev-util/unity-editor 2017.1.0_rc3: Editor for the Unity game engine
+dev-util/unity-editor 2017.1.0_rc3 2017.2.0_beta6: Editor for the Unity game engine
 games-action/armagetronad 0.2.8.3.4 0.4-r1: A fast-paced 3D lightcycle game based on Tron
 games-action/armagetronad-dedicated 0.2.8.3.4 0.4-r1: A fast-paced 3D lightcycle game based on Tron - dedicated server
 games-arcade/nsnake 3.0.1-r1: A clone of the classic snake game on the terminal
 games-board/cockatrice 20170505: A cross-platform virtual tabletop for multiplayer card games
-games-misc/git-fire 0_p20160813: Save your code in an emergency
+games-misc/git-fire 0.2.3: Save your code in an emergency
 games-misc/lolcat 90.8.8: Rainbows and unicorns!
 games-misc/nyancat 1.5.1-r1: nyancat rendered in your terminal
 games-misc/pipes 1.2.0: animated pipes terminal screensaver
-media-gfx/maim 5.4.67: Command line tool to take screenshots of the desktop
+media-gfx/maim 5.4.68: Command line tool to take screenshots of the desktop
 media-gfx/sk1 2.0_rc2: an open-source illustration program
 media-libs/libshairport 1.2.1_p20121215: A library for emulating an AirPort Express
 media-libs/openvr 1.0.9: API and runtime for accessing VR hardware from multiple vendors
@@ -136,13 +136,13 @@ media-tv/plexpy 1.4.21: A python based web application for monitoring your Plex 
 media-video/plex-ffmpeg 2016.12: Plex Transcoder, a ffmpeg fork from Plex Inc.
 media-video/v4l2loopback 0.10.0: v4l2 loopback device which output is it's own input
 net-analyzer/bettercap 1.6.1: A complete, modular, portable and easily extensible MITM framework
-net-analyzer/metasploit 4.15.6 9999: Advanced framework for developing, testing, and using vulnerability exploit code
+net-analyzer/metasploit 4.15.7 9999: Advanced framework for developing, testing, and using vulnerability exploit code
 net-analyzer/nikto 2.1.6_p20170801: web server vulnerability scanner
 net-analyzer/nmap 7.50: A utility for network discovery and security auditing
 net-analyzer/wpscan 3.0.3: WordPress vulnerability scanner
 net-im/discord-bin 0.0.2-r3: All-in-one voice and text chat for gamers
 net-im/hangups 9999: Third Party IM Client for Google Hangouts
-net-im/slack-bin 2.7.0: Team collaboration tool
+net-im/slack-bin 2.7.1: Team collaboration tool
 net-mail/syncmaildir 1.2.6.2: Sync Mail Dir (smd) is a set of tools to synchronize a pair of mailboxes
 net-p2p/zget 0.11.1-r1: zeroconf based peer to peer file transfer
 net-proxy/mitmproxy 2.0.2-r2: An interactive, SSL-capable, man-in-the-middle HTTP proxy
@@ -156,14 +156,14 @@ sys-apps/petty 0.1: petty, short for practically enhanced tty, is a tty session 
 sys-firmware/edk2-ovmf 2017_pre20170505: UEFI firmware for 64-bit x86 virtual machines
 sys-fs/exfat-nofuse 0_p20170619: Non-fuse kernel driver for exFat and VFat file systems
 sys-fs/udiskie 1.7.0: An automatic disk mounting service using udisks
-sys-kernel/pf-sources 4.12_p6: Linux kernel fork with new features (-ck patchset (BFS), BFQ, TuxOnIce and UKSM)
-www-apps/beef 0.4.7.0_p20170712: The Browser Exploitation Framework
+sys-kernel/pf-sources 4.12_p7: Linux kernel fork with new features (-ck patchset (BFS), BFQ, TuxOnIce and UKSM)
+www-apps/beef 0.4.7.0_p20170715: The Browser Exploitation Framework
 www-misc/Brosec 1.4.0: An interactive reference tool to help security professionals
 www-misc/weevely 3.4: Weaponized web shell
 www-servers/pagekite 0.5.9.0: PageKite makes local websites or SSH servers publicly accessible in mere seconds
 x11-misc/awf 1.4.0: A Widget Factory
 x11-misc/barline 0.2.8: a simple data collector and formatter for lemonbar and bspwm
-x11-misc/clipster 1.2.4: simple clipboard manager
+x11-misc/clipster 1.2.5: simple clipboard manager
 x11-misc/lemonbar 1.2_p20161116: a featherweight, lemon-scented, bar based on xcb
 x11-misc/rofi-pass 1.5.1: Rofi frontend for pass
 x11-misc/slop 7.3.49: An application that queries the user for a selection for printing
