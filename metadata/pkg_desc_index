@@ -79,7 +79,7 @@ dev-ruby/pry 0.10.4_p20161207: Pry is a powerful alternative to the standard IRB
 dev-ruby/qr4r 0.4.1: QR PNG generator for Ruby
 dev-ruby/recog 2.1.11: Pattern recognition for hosts, services, and content
 dev-ruby/rex 2.0.11-r2: Ruby classes useful for security testing and exploit development
-dev-ruby/rex-arch 0.1.9: architecture specific information for Rex
+dev-ruby/rex-arch 0.1.11: architecture specific information for Rex
 dev-ruby/rex-bin_tools 0.1.4: suite of tools for analyzing executables to find specific chunks of code
 dev-ruby/rex-core 0.1.12: Core libraries required for the Ruby Exploitation(Rex) Suite
 dev-ruby/rex-encoder 0.1.4: provides the basis for all of the polymorphic encoders that Metasploit uses
@@ -132,7 +132,7 @@ media-tv/kodi 9999: Kodi is a free and open source media-player and entertainmen
 media-tv/plex-home-theater 1.4.1-r1: Plex Home Theater
 media-tv/plex-media-player 1.3.5.689 9999: next generation Plex client
 media-tv/plex-media-server 1.6.0.3720 1.7.5.4035 1.8.0.4109 1.8.1.4140: A free media library that is intended for use with a plex client.
-media-tv/plexpy 1.4.21: A python based web application for monitoring your Plex Media Server.
+media-tv/plexpy 1.4.22: A python based web application for monitoring your Plex Media Server.
 media-video/plex-ffmpeg 2016.12: Plex Transcoder, a ffmpeg fork from Plex Inc.
 media-video/v4l2loopback 0.10.0: v4l2 loopback device which output is it's own input
 net-analyzer/bettercap 1.6.1: A complete, modular, portable and easily extensible MITM framework
