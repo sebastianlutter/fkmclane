@@ -5,7 +5,6 @@ app-editors/komodo-edit-bin 10.2.2-r2: Freeware advanced editor for dynamic and 
 app-misc/blinkstick 1.1.8_p20161004: Python interface to control BlinkStick devices connected to the computer
 app-misc/cronic 3: a cure for cron's chronic email problem
 app-misc/gotty-bin 0.0.13: Share your terminal as a web application
-app-misc/physlock 11: lightweight Linux console locking tool
 app-misc/tty-clock 2.3: analog clock in ncurses
 app-misc/wemux 3.2.0_p20150822: multi-user tmux made easy
 app-shells/elvish 0.9: A novel Unix shell
