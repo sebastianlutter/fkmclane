@@ -1,6 +1,6 @@
 app-admin/linode-cli 1.0.5_beta0 1.4.7_p20170411: Command-line interface to the Linode platform
 app-admin/pass-otp 1.0.0: A pass extension for managing one-time-password (OTP) tokens
-app-crypt/johntheripper 1.8.0_p20170819: fast password cracker
+app-crypt/johntheripper 1.8.0_p20170823: fast password cracker
 app-editors/komodo-edit-bin 10.2.2-r2: Freeware advanced editor for dynamic and Web languages
 app-misc/blinkstick 1.1.8_p20161004: Python interface to control BlinkStick devices connected to the computer
 app-misc/cronic 3: a cure for cron's chronic email problem
@@ -10,9 +10,9 @@ app-misc/wemux 3.2.0_p20150822: multi-user tmux made easy
 app-shells/elvish 0.9: A novel Unix shell
 app-vim/neovim-remote 1.7.4: Neovim support for --remote and friends
 dev-db/sqlmap 1.1.8 9999: Automatic SQL injection and database takeover tool
-dev-embedded/arduino-bin 1.8.3: electronics prototyping platform based on easy-to-use hardware and software
+dev-embedded/arduino-bin 1.8.4: electronics prototyping platform based on easy-to-use hardware and software
 dev-embedded/energia-bin 1.6.10_p18: electronics prototyping platform for TI MSP430 LaunchPad based on Arduino
-dev-embedded/teensyduino-bin 1.36: USB-based electronics prototyping platform compatible with Arduino
+dev-embedded/teensyduino-bin 1.37 1.38_beta3: USB-based electronics prototyping platform compatible with Arduino
 dev-games/mcedit 2.0.0_beta11: Minecraft save game editor
 dev-lang/kaitai-struct-compiler 0.7: Compiler for the Kaitai Struct project
 dev-libs/beignet 1.3.1-r2: OpenCL implementation for Intel GPUs
@@ -29,7 +29,7 @@ dev-python/pyperclip 1.5.27: Cross-platform clipboard module
 dev-python/python-ntlm 1.1.0: Python library for NTLM support
 dev-python/python-utils 2.2.0-r1: a collection of functions and classes which shortens common patterns
 dev-python/ruamel-ordereddict 0.4.13: An ordered dictionary with KIO/KVIO
-dev-python/ruamel-yaml 0.13.14 0.15.31: YAML parser/emitter that supports roundtrip comment preservation
+dev-python/ruamel-yaml 0.13.14 0.15.32: YAML parser/emitter that supports roundtrip comment preservation
 dev-python/slixmpp 1.2.4-r1: Python library for XMPP - asyncio fork
 dev-python/terminaltables 3.1.0: Generate simple tables in terminals from a nested list of strings
 dev-python/twilio 6.5.2-r1: Helper library for the Twilio API
@@ -60,9 +60,9 @@ dev-ruby/metasploit-aggregator 0.2.1: Proxy for Meterpreter sessions
 dev-ruby/metasploit-concern 2.0.5: Metasploit concern allows you to define concerns in app/concerns.
 dev-ruby/metasploit-credential 2.0.12: Code for modeling and managing credentials in Metasploit
 dev-ruby/metasploit-model 2.0.4: Common code, such as validators and mixins
-dev-ruby/metasploit-payloads 1.2.46 1.3.1: Compiled binaries for Metasploit's Meterpreter
+dev-ruby/metasploit-payloads 1.3.1: Compiled binaries for Metasploit's Meterpreter
 dev-ruby/metasploit_data_models 2.0.15: The database layer for Metasploit
-dev-ruby/metasploit_payloads-mettle 0.1.14 0.2.0: Compiled binaries for Metasploit's next-gen Meterpreter
+dev-ruby/metasploit_payloads-mettle 0.2.0 0.2.1: Compiled binaries for Metasploit's next-gen Meterpreter
 dev-ruby/method_source 0.8.2_p20170202: Retrieve the source code for a method
 dev-ruby/mojo_magick 0.5.6: Ruby stateless module interface to ImageMagick
 dev-ruby/msfrpc-client 1.1.1: Ruby client API for Metasploit RPC
@@ -76,7 +76,7 @@ dev-ruby/pdf-reader 2.0.0-r1: PDF parser conforming as much as possible to the P
 dev-ruby/pg 0.20.0: Ruby extension library providing an API to PostgreSQL
 dev-ruby/pry 0.10.4_p20161207: Pry is a powerful alternative to the standard IRB shell for Ruby
 dev-ruby/qr4r 0.4.1: QR PNG generator for Ruby
-dev-ruby/recog 2.1.11: Pattern recognition for hosts, services, and content
+dev-ruby/recog 2.1.12: Pattern recognition for hosts, services, and content
 dev-ruby/rex 2.0.11-r2: Ruby classes useful for security testing and exploit development
 dev-ruby/rex-arch 0.1.11: architecture specific information for Rex
 dev-ruby/rex-bin_tools 0.1.4: suite of tools for analyzing executables to find specific chunks of code
@@ -87,7 +87,7 @@ dev-ruby/rex-java 0.1.4: Ruby Exploitation(Rex) library for parsing Java seriali
 dev-ruby/rex-mime 0.1.4: library is for creating and/or parsing MIME messages
 dev-ruby/rex-nop 0.1.0: Rex library for dynamic generation of x86 multi-byte NOPs
 dev-ruby/rex-ole 0.1.5: Ruby Exploitation(Rex) library gem for reading/writing OLE files and streams
-dev-ruby/rex-powershell 0.1.72 0.1.73: Ruby Exploitation(Rex) library for generating/manipulating Powershell scripts
+dev-ruby/rex-powershell 0.1.72 0.1.75: Ruby Exploitation(Rex) library for generating/manipulating Powershell scripts
 dev-ruby/rex-random_identifier 0.1.2: Ruby Exploitation(Rex) library for generating Random identifier strings
 dev-ruby/rex-registry 0.1.2: Rex library for parsing offline registry files from a Windows machine
 dev-ruby/rex-rop_builder 0.1.2: Ruby Exploitation(Rex) Library for building ROP chains
@@ -134,9 +134,9 @@ media-tv/plex-media-server 1.6.0.3720 1.7.5.4035 1.8.0.4109 1.8.1.4140: A free m
 media-tv/plexpy 1.4.22: A python based web application for monitoring your Plex Media Server.
 media-video/plex-ffmpeg 2016.12: Plex Transcoder, a ffmpeg fork from Plex Inc.
 media-video/v4l2loopback 0.10.0: v4l2 loopback device which output is it's own input
-net-analyzer/bettercap 1.6.1: A complete, modular, portable and easily extensible MITM framework
-net-analyzer/metasploit 4.15.7 9999: Advanced framework for developing, testing, and using vulnerability exploit code
-net-analyzer/nikto 2.1.6_p20170801: web server vulnerability scanner
+net-analyzer/bettercap 1.6.2: A complete, modular, portable and easily extensible MITM framework
+net-analyzer/metasploit 4.16.1 9999: Advanced framework for developing, testing, and using vulnerability exploit code
+net-analyzer/nikto 2.1.6_p201708024: web server vulnerability scanner
 net-analyzer/nmap 7.50: A utility for network discovery and security auditing
 net-analyzer/wpscan 3.0.3: WordPress vulnerability scanner
 net-im/discord-bin 0.0.2-r3: All-in-one voice and text chat for gamers
