@@ -111,3 +111,4 @@ net-wireless/create_ap:haveged - Enable support for haveged
 sci-physics/chipmunk:demos - Build and install Chipmunk demos
 sys-firmware/edk2-ovmf:binary - Use pre-built binaries
 x11-misc/lemonbar:sm - Enable support for monitor selection.
+x11-misc/rofi-pass:otp - Add support for app-admin/pass-otp.
