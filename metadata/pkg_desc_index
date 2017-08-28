@@ -62,7 +62,7 @@ dev-ruby/metasploit-credential 2.0.12: Code for modeling and managing credential
 dev-ruby/metasploit-model 2.0.4: Common code, such as validators and mixins
 dev-ruby/metasploit-payloads 1.3.1 1.3.2: Compiled binaries for Metasploit's Meterpreter
 dev-ruby/metasploit_data_models 2.0.15: The database layer for Metasploit
-dev-ruby/metasploit_payloads-mettle 0.2.0 0.2.1: Compiled binaries for Metasploit's next-gen Meterpreter
+dev-ruby/metasploit_payloads-mettle 0.2.0 0.2.2: Compiled binaries for Metasploit's next-gen Meterpreter
 dev-ruby/method_source 0.8.2_p20170202: Retrieve the source code for a method
 dev-ruby/mojo_magick 0.5.6: Ruby stateless module interface to ImageMagick
 dev-ruby/msfrpc-client 1.1.1: Ruby client API for Metasploit RPC
