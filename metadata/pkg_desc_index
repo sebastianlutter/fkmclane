@@ -60,9 +60,9 @@ dev-ruby/metasploit-aggregator 0.2.1: Proxy for Meterpreter sessions
 dev-ruby/metasploit-concern 2.0.5: Metasploit concern allows you to define concerns in app/concerns.
 dev-ruby/metasploit-credential 2.0.12: Code for modeling and managing credentials in Metasploit
 dev-ruby/metasploit-model 2.0.4: Common code, such as validators and mixins
-dev-ruby/metasploit-payloads 1.3.1 1.3.2: Compiled binaries for Metasploit's Meterpreter
+dev-ruby/metasploit-payloads 1.3.1 1.3.3: Compiled binaries for Metasploit's Meterpreter
 dev-ruby/metasploit_data_models 2.0.15: The database layer for Metasploit
-dev-ruby/metasploit_payloads-mettle 0.2.0 0.2.2: Compiled binaries for Metasploit's next-gen Meterpreter
+dev-ruby/metasploit_payloads-mettle 0.2.2: Compiled binaries for Metasploit's next-gen Meterpreter
 dev-ruby/method_source 0.8.2_p20170202: Retrieve the source code for a method
 dev-ruby/mojo_magick 0.5.6: Ruby stateless module interface to ImageMagick
 dev-ruby/msfrpc-client 1.1.1: Ruby client API for Metasploit RPC
@@ -77,7 +77,7 @@ dev-ruby/pg 0.20.0: Ruby extension library providing an API to PostgreSQL
 dev-ruby/pry 0.10.4_p20161207: Pry is a powerful alternative to the standard IRB shell for Ruby
 dev-ruby/qr4r 0.4.1: QR PNG generator for Ruby
 dev-ruby/recog 2.1.12: Pattern recognition for hosts, services, and content
-dev-ruby/rex 2.0.11-r2: Ruby classes useful for security testing and exploit development
+dev-ruby/rex 2.0.12: Ruby classes useful for security testing and exploit development
 dev-ruby/rex-arch 0.1.11: architecture specific information for Rex
 dev-ruby/rex-bin_tools 0.1.4: suite of tools for analyzing executables to find specific chunks of code
 dev-ruby/rex-core 0.1.12: Core libraries required for the Ruby Exploitation(Rex) Suite
@@ -136,7 +136,7 @@ media-tv/plexpy 1.4.22: A python based web application for monitoring your Plex 
 media-video/plex-ffmpeg 2016.12-r1: Plex Transcoder, a ffmpeg fork from Plex Inc.
 media-video/v4l2loopback 0.10.0: v4l2 loopback device which output is it's own input
 net-analyzer/bettercap 1.6.2: A complete, modular, portable and easily extensible MITM framework
-net-analyzer/metasploit 4.16.2 9999: Advanced framework for developing, testing, and using vulnerability exploit code
+net-analyzer/metasploit 4.16.3 9999: Advanced framework for developing, testing, and using vulnerability exploit code
 net-analyzer/nikto 2.1.6_p201708024: web server vulnerability scanner
 net-analyzer/nmap 7.50: A utility for network discovery and security auditing
 net-analyzer/wpscan 3.0.3: WordPress vulnerability scanner
