@@ -12,4 +12,4 @@ SLOT=0
 SRC_URI=https://github.com/beefproject/beef/archive/aa3c0932ce33b2585a50263bc671058957a3f6cb.tar.gz -> beef-0.4.7.0_p20170729.tar.gz
 _eclass_exported_funcs=pkg_postinst:- pkg_setup:- src_unpack:ruby-ng src_prepare:ruby-ng src_configure:ruby-ng src_compile:ruby-ng src_test:ruby-ng src_install:-
 _eclasses_=epatch	8233751dc5105a6ae8fcd86ce2bb0247	estack	43ddf5aaffa7a8d0482df54d25a66a1f	eutils	9c113d6a64826c40154cad7be15d95ea	java-utils-2	1971a6927fcd7ec839f7e12b28a24bdd	ltprune	2770eed66a9b8ef944714cd0e968182e	multilib	97f470f374f2e94ccab04a2fb21d811e	ruby-ng	dbd648644c9f5bec523dc17dc34d8671	ruby-single	af6ea0a8fe4c4faf733f4dbafae9e233	ruby-utils	453e0fe0dd06baac93b584c91528cc62	toolchain-funcs	185a06792159ca143528e7010368e8af	user	e4b567c44272a719fabf53f0f885d3f7	versionator	c80ccf29e90adea7c5cae94b42eb76d0
-_md5_=de5c0194d9fef21a576d983841bd471f
+_md5_=00063a33172a8f959047756609706d78
