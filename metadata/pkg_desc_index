@@ -1,6 +1,6 @@
 app-admin/linode-cli 1.0.5_beta0 1.4.7_p20170411: Command-line interface to the Linode platform
 app-admin/pass-otp 1.0.0: A pass extension for managing one-time-password (OTP) tokens
-app-crypt/johntheripper 1.8.0_p20170823: fast password cracker
+app-crypt/johntheripper 1.8.0_p20170828: fast password cracker
 app-editors/komodo-edit-bin 10.2.2-r2: Freeware advanced editor for dynamic and Web languages
 app-misc/blinkstick 1.1.8_p20161004: Python interface to control BlinkStick devices connected to the computer
 app-misc/cronic 3: a cure for cron's chronic email problem
