@@ -76,7 +76,7 @@ dev-ruby/pdf-reader 2.0.0-r1: PDF parser conforming as much as possible to the P
 dev-ruby/pg 0.20.0: Ruby extension library providing an API to PostgreSQL
 dev-ruby/pry 0.10.4_p20161207: Pry is a powerful alternative to the standard IRB shell for Ruby
 dev-ruby/qr4r 0.4.1: QR PNG generator for Ruby
-dev-ruby/recog 2.1.12: Pattern recognition for hosts, services, and content
+dev-ruby/recog 2.1.13: Pattern recognition for hosts, services, and content
 dev-ruby/rex 2.0.11-r2 2.0.12: Ruby classes useful for security testing and exploit development
 dev-ruby/rex-arch 0.1.11: architecture specific information for Rex
 dev-ruby/rex-bin_tools 0.1.4: suite of tools for analyzing executables to find specific chunks of code
@@ -157,7 +157,7 @@ sys-firmware/edk2-ovmf 2017_pre20170505: UEFI firmware for 64-bit x86 virtual ma
 sys-fs/exfat-nofuse 0_p20170619: Non-fuse kernel driver for exFat and VFat file systems
 sys-fs/udiskie 1.7.0: An automatic disk mounting service using udisks
 sys-kernel/pf-sources 4.12_p7: Linux kernel fork with new features (-ck patchset (BFS), BFQ, TuxOnIce and UKSM)
-www-apps/beef 0.4.7.0_p20170729-r1: The Browser Exploitation Framework
+www-apps/beef 0.4.7.0_p20170730: The Browser Exploitation Framework
 www-misc/Brosec 1.4.0: An interactive reference tool to help security professionals
 www-misc/weevely 3.4: Weaponized web shell
 www-servers/pagekite 0.5.9.0: PageKite makes local websites or SSH servers publicly accessible in mere seconds
