@@ -1,6 +1,6 @@
 app-admin/linode-cli 1.0.5_beta0 1.4.7_p20170411: Command-line interface to the Linode platform
 app-admin/pass-otp 1.0.0: A pass extension for managing one-time-password (OTP) tokens
-app-crypt/johntheripper 1.8.0_p20170828: fast password cracker
+app-crypt/johntheripper 1.8.0_p20170830: fast password cracker
 app-editors/komodo-edit-bin 10.2.2-r2: Freeware advanced editor for dynamic and Web languages
 app-misc/blinkstick 1.1.8_p20161004: Python interface to control BlinkStick devices connected to the computer
 app-misc/cronic 3: a cure for cron's chronic email problem
@@ -29,7 +29,7 @@ dev-python/pyperclip 1.5.27: Cross-platform clipboard module
 dev-python/python-ntlm 1.1.0: Python library for NTLM support
 dev-python/python-utils 2.2.0-r1: a collection of functions and classes which shortens common patterns
 dev-python/ruamel-ordereddict 0.4.13: An ordered dictionary with KIO/KVIO
-dev-python/ruamel-yaml 0.13.14 0.15.32: YAML parser/emitter that supports roundtrip comment preservation
+dev-python/ruamel-yaml 0.13.14 0.15.33: YAML parser/emitter that supports roundtrip comment preservation
 dev-python/slixmpp 1.2.4-r1: Python library for XMPP - asyncio fork
 dev-python/terminaltables 3.1.0: Generate simple tables in terminals from a nested list of strings
 dev-python/twilio 6.6.0: Helper library for the Twilio API
@@ -53,7 +53,7 @@ dev-ruby/fastercsv 1.5.5: Faster replacement for the CSV standard library
 dev-ruby/geoip 1.6.3-r1: API for searching a GeoIP database
 dev-ruby/google-protobuf 3.4.0.2: Google Protocol Buffers
 dev-ruby/googleauth 0.5.3: Simple authorization for Google APIs
-dev-ruby/grpc 1.4.5: Send RPCs using GRPC
+dev-ruby/grpc 1.6.0: Send RPCs using GRPC
 dev-ruby/libv8 3.16.14.19: V8 JavaScript engine distribution
 dev-ruby/metasm 1.0.3: cross-architecture assembler, disassembler, linker, and debugger
 dev-ruby/metasploit-aggregator 0.2.1: Proxy for Meterpreter sessions
@@ -151,7 +151,7 @@ net-wireless/unifi 5.5.20: Management Controller for Ubiquiti Networks UniFi APs
 sci-electronics/eagle 8.3.0: EAGLE schematic and printed circuit board (PCB) layout editor
 sci-electronics/freeroute 1.2.43_p20150316: popular PCB routing and autorouting program
 sci-electronics/fritzing-bin 0.9.3b: Fritzing makes electronics accessible as a creative material for anyone
-sci-physics/chipmunk 7.0.1: Chipmunk2D is a lightweight, fast, and portable 2D rigid body physics library
+sci-physics/chipmunk 7.0.2: Chipmunk2D is a lightweight, fast, and portable 2D rigid body physics library
 sys-apps/petty 0.1: petty, short for practically enhanced tty, is a tty session starter
 sys-firmware/edk2-ovmf 2017_pre20170505: UEFI firmware for 64-bit x86 virtual machines
 sys-fs/exfat-nofuse 0_p20170619: Non-fuse kernel driver for exFat and VFat file systems
