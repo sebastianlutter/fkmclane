@@ -138,8 +138,8 @@ media-video/v4l2loopback 0.10.0: v4l2 loopback device which output is it's own i
 net-analyzer/bettercap 1.6.2: A complete, modular, portable and easily extensible MITM framework
 net-analyzer/metasploit 4.16.3 9999: Advanced framework for developing, testing, and using vulnerability exploit code
 net-analyzer/nikto 2.1.6_p201708024: web server vulnerability scanner
-net-analyzer/nmap 7.50: A utility for network discovery and security auditing
 net-analyzer/wpscan 3.0.3: WordPress vulnerability scanner
+net-fs/pingfs 9999: 'True' cloud storage
 net-im/discord-bin 0.0.2-r3: All-in-one voice and text chat for gamers
 net-im/hangups 9999: Third Party IM Client for Google Hangouts
 net-im/slack-bin 2.7.1: Team collaboration tool
@@ -148,13 +148,14 @@ net-p2p/zget 0.11.1-r1: zeroconf based peer to peer file transfer
 net-proxy/mitmproxy 2.0.2-r2: An interactive, SSL-capable, man-in-the-middle HTTP proxy
 net-wireless/create_ap 0.4.6: A script to create a NATed or bridged WiFi access point
 net-wireless/unifi 5.5.20: Management Controller for Ubiquiti Networks UniFi APs
-sci-electronics/eagle 8.3.0: EAGLE schematic and printed circuit board (PCB) layout editor
+sci-electronics/eagle 8.3.1: EAGLE schematic and printed circuit board (PCB) layout editor
 sci-electronics/freeroute 1.2.43_p20150316: popular PCB routing and autorouting program
 sci-electronics/fritzing-bin 0.9.3b: Fritzing makes electronics accessible as a creative material for anyone
 sci-physics/chipmunk 7.0.2: Chipmunk2D is a lightweight, fast, and portable 2D rigid body physics library
 sys-apps/petty 0.1: petty, short for practically enhanced tty, is a tty session starter
 sys-firmware/edk2-ovmf 2017_pre20170505: UEFI firmware for 64-bit x86 virtual machines
 sys-fs/exfat-nofuse 0_p20170619: Non-fuse kernel driver for exFat and VFat file systems
+sys-fs/pifs 9999: The data-free filesystem
 sys-fs/udiskie 1.7.0: An automatic disk mounting service using udisks
 sys-kernel/pf-sources 4.12_p7: Linux kernel fork with new features (-ck patchset (BFS), BFQ, TuxOnIce and UKSM)
 www-apps/beef 0.4.7.0_p20170730: The Browser Exploitation Framework
@@ -168,4 +169,3 @@ x11-misc/lemonbar 1.2_p20161116: a featherweight, lemon-scented, bar based on xc
 x11-misc/rofi-pass 1.5.1: Rofi frontend for pass
 x11-misc/slop 7.3.49: An application that queries the user for a selection for printing
 x11-themes/arc-openbox-theme 0_p20170104: Openbox theme created to fit in nicely with the Arc GTK theme
-x11-wm/bspwm 0.9.3: Tiling window manager based on binary space partitioning
