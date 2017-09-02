@@ -9,7 +9,7 @@ app-misc/tty-clock 2.3: analog clock in ncurses
 app-misc/wemux 3.2.0_p20150822: multi-user tmux made easy
 app-shells/elvish 0.9: A novel Unix shell
 app-vim/neovim-remote 1.7.4: Neovim support for --remote and friends
-dev-db/sqlmap 1.1.8 9999: Automatic SQL injection and database takeover tool
+dev-db/sqlmap 1.1.9 9999: Automatic SQL injection and database takeover tool
 dev-embedded/arduino-bin 1.8.4: electronics prototyping platform based on easy-to-use hardware and software
 dev-embedded/energia-bin 1.6.10_p18: electronics prototyping platform for TI MSP430 LaunchPad based on Arduino
 dev-embedded/teensyduino-bin 1.37 1.38_beta3: USB-based electronics prototyping platform compatible with Arduino
@@ -32,7 +32,7 @@ dev-python/ruamel-ordereddict 0.4.13: An ordered dictionary with KIO/KVIO
 dev-python/ruamel-yaml 0.13.14 0.15.33: YAML parser/emitter that supports roundtrip comment preservation
 dev-python/slixmpp 1.2.4-r1: Python library for XMPP - asyncio fork
 dev-python/terminaltables 3.1.0: Generate simple tables in terminals from a nested list of strings
-dev-python/twilio 6.6.0: Helper library for the Twilio API
+dev-python/twilio 6.6.1: Helper library for the Twilio API
 dev-python/vex 0.0.18: Run commands in a virtualenv
 dev-ruby/ascii85 1.0.2-r3: Methods for encoding/decoding Adobe's binary-to-text encoding of the same name
 dev-ruby/celluloid-io 0.16.2-r1: Evented IO for Celluloid actors
@@ -60,7 +60,7 @@ dev-ruby/metasploit-aggregator 0.2.1: Proxy for Meterpreter sessions
 dev-ruby/metasploit-concern 2.0.5: Metasploit concern allows you to define concerns in app/concerns.
 dev-ruby/metasploit-credential 2.0.12: Code for modeling and managing credentials in Metasploit
 dev-ruby/metasploit-model 2.0.4: Common code, such as validators and mixins
-dev-ruby/metasploit-payloads 1.3.1 1.3.3: Compiled binaries for Metasploit's Meterpreter
+dev-ruby/metasploit-payloads 1.3.1 1.3.4: Compiled binaries for Metasploit's Meterpreter
 dev-ruby/metasploit_data_models 2.0.15: The database layer for Metasploit
 dev-ruby/metasploit_payloads-mettle 0.2.2: Compiled binaries for Metasploit's next-gen Meterpreter
 dev-ruby/method_source 0.8.2_p20170202: Retrieve the source code for a method
@@ -68,7 +68,7 @@ dev-ruby/mojo_magick 0.5.6: Ruby stateless module interface to ImageMagick
 dev-ruby/msfrpc-client 1.1.1-r2: Ruby client API for Metasploit RPC
 dev-ruby/nessus_rest 0.1.6: Nessus REST interface library
 dev-ruby/net-dns 0.8.0: Ruby DNS library, with a clean OO interface and an extensible API
-dev-ruby/nexpose 6.1.1: API client for Nexpose vulnerability managment product
+dev-ruby/nexpose 7.0.0: API client for Nexpose vulnerability managment product
 dev-ruby/opt_parse_validator 0.0.13.5: Implementation of validators for the Ruby OptionParser library
 dev-ruby/os 1.0.0: Useful OS detection functions
 dev-ruby/parseconfig 1.0.8: Provides simple parsing of standard *nix style config files.
@@ -114,7 +114,7 @@ games-misc/pipes 1.2.0: animated pipes terminal screensaver
 media-gfx/maim 5.4.68: Command line tool to take screenshots of the desktop
 media-gfx/sk1 2.0_rc2: an open-source illustration program
 media-libs/libshairport 1.2.1_p20121215: A library for emulating an AirPort Express
-media-libs/openvr 1.0.9: API and runtime for accessing VR hardware from multiple vendors
+media-libs/openvr 1.0.10: API and runtime for accessing VR hardware from multiple vendors
 media-libs/zita-resampler 1.6.0: A C++ library for resampling audio signals
 media-plugins/calf 0.0.60-r1 9999: A set of open source instruments and effects for digital audio workstations
 media-plugins/gxplugins-lv2 0.3 9999: A set of LV2 plugins from the Guitarix project
@@ -122,7 +122,7 @@ media-plugins/kodi-inputstream-adaptive 9999: Kodi's Adaptive inputstream addon
 media-plugins/kodi-netflix 9999: Inputstream based Netflix plugin for Kodi
 media-plugins/kodi-widevine 1.4.8.1000: An adapter for playing DRM content
 media-plugins/midifilter-lv2 0.4.7: LV2 plugins to filter MIDI events
-media-plugins/plex-for-kodi 0.1.0: Plex's official Plex add-on for Kodi.
+media-plugins/plex-for-kodi 0.1.1: Plex's official Plex add-on for Kodi.
 media-plugins/plex-kodi-connect 1.8.9: Combine the frontend media player Kodi with the multimedia backend server Plex
 media-sound/gxtuner 2.4 9999: A simple guitar tuner for JACK
 media-sound/libresonic 6.1 6.2: Libresonic is a free and web-based media streamer.
@@ -136,7 +136,7 @@ media-tv/plexpy 1.4.22: A python based web application for monitoring your Plex 
 media-video/plex-ffmpeg 2016.12-r1: Plex Transcoder, a ffmpeg fork from Plex Inc.
 media-video/v4l2loopback 0.10.0: v4l2 loopback device which output is it's own input
 net-analyzer/bettercap 1.6.2: A complete, modular, portable and easily extensible MITM framework
-net-analyzer/metasploit 4.16.3 9999: Advanced framework for developing, testing, and using vulnerability exploit code
+net-analyzer/metasploit 4.16.4 9999: Advanced framework for developing, testing, and using vulnerability exploit code
 net-analyzer/nikto 2.1.6_p201708024: web server vulnerability scanner
 net-analyzer/wpscan 3.0.3: WordPress vulnerability scanner
 net-fs/pingfs 9999: 'True' cloud storage
@@ -157,7 +157,7 @@ sys-firmware/edk2-ovmf 2017_pre20170505: UEFI firmware for 64-bit x86 virtual ma
 sys-fs/exfat-nofuse 0_p20170619: Non-fuse kernel driver for exFat and VFat file systems
 sys-fs/pifs 9999: The data-free filesystem
 sys-fs/udiskie 1.7.0: An automatic disk mounting service using udisks
-sys-kernel/pf-sources 4.12_p7: Linux kernel fork with new features (-ck patchset (BFS), BFQ, TuxOnIce and UKSM)
+sys-kernel/pf-sources 4.12_p8: Linux kernel fork with new features (-ck patchset (BFS), BFQ, TuxOnIce and UKSM)
 www-apps/beef 0.4.7.0_p20170730: The Browser Exploitation Framework
 www-misc/Brosec 1.4.0: An interactive reference tool to help security professionals
 www-misc/weevely 3.4: Weaponized web shell
