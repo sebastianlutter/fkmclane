@@ -6,6 +6,5 @@ HOMEPAGE=https://github.com/brummer10/gxtuner
 LICENSE=GPL-2
 RDEPEND=x11-libs/cairo sci-libs/fftw:3.0/3 dev-libs/glib x11-libs/gtk+:3 media-libs/zita-resampler media-sound/jack-audio-connection-kit
 SLOT=0
-_eclass_exported_funcs=src_unpack:git-r3
 _eclasses_=git-r3	4f7ddb4119309845d6687213171ab445
 _md5_=2f35c02b38184155d2d96bb875a44c06
