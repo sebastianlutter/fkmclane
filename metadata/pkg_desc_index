@@ -95,7 +95,7 @@ dev-ruby/rex-socket 0.1.8: Ruby Exploitation (Rex) Socket Abstraction Library
 dev-ruby/rex-sslscan 0.1.5: ruby implmenetation of the SSLScan tool
 dev-ruby/rex-text 0.2.14: Rex library for text generation and manipulation
 dev-ruby/rex-zip 0.1.2: Ruby Exploitation(Rex) library for working with zip and related files
-dev-ruby/ruby_smb 0.0.18: pure Ruby implementation of the SMB Protocol Family
+dev-ruby/ruby_smb 0.0.18-r1: pure Ruby implementation of the SMB Protocol Family
 dev-ruby/rubydns 1.0.3: A tool to intercept and modify DNS requests
 dev-ruby/signet 0.7.3: An OAuth 1.0/2.0 implementation
 dev-ruby/therubyracer 0.12.2 0.12.3: Embed the V8 JavaScript interpreter into Ruby
@@ -136,7 +136,7 @@ media-tv/plexpy 1.4.22: A python based web application for monitoring your Plex 
 media-video/plex-ffmpeg 2016.12-r1: Plex Transcoder, a ffmpeg fork from Plex Inc.
 media-video/v4l2loopback 0.10.0: v4l2 loopback device which output is it's own input
 net-analyzer/bettercap 1.6.2: A complete, modular, portable and easily extensible MITM framework
-net-analyzer/metasploit 4.16.6 9999: Advanced framework for developing, testing, and using vulnerability exploit code
+net-analyzer/metasploit 4.16.6-r1 9999: Advanced framework for developing, testing, and using vulnerability exploit code
 net-analyzer/nikto 2.1.6_p201708024: web server vulnerability scanner
 net-analyzer/wpscan 3.0.3: WordPress vulnerability scanner
 net-fs/pingfs 9999: 'True' cloud storage
