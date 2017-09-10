@@ -7,5 +7,5 @@ KEYWORDS=~x86 ~amd64 ~ppc ~sparc ~amd64-linux ~x86-linux ~x86-macos
 LICENSE=GPL-2
 RDEPEND=dev-lang/perl virtual/perl-JSON-PP net-analyzer/nmap ssl? ( dev-libs/openssl dev-perl/Net-SSLeay )
 SLOT=0
-SRC_URI=https://github.com/sullo/nikto/archive/aab6a14f2ea59e148dd54095247c8ac830d72bc0.tar.gz -> nikto-2.1.6_p201708024.tar.gz
-_md5_=60a12c6ef30aff9908675904e825acde
+SRC_URI=https://github.com/sullo/nikto/archive/e6bae527ada73ece0313ff1c5bc7440afe9f5ac0.tar.gz -> nikto-2.1.6_p20170910.tar.gz
+_md5_=552940c68059b10b482b7515b49f3293
