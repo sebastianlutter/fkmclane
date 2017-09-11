@@ -31,6 +31,7 @@ dev-python/python-utils 2.2.0-r1: a collection of functions and classes which sh
 dev-python/ruamel-ordereddict 0.4.13: An ordered dictionary with KIO/KVIO
 dev-python/ruamel-yaml 0.13.14 0.15.33: YAML parser/emitter that supports roundtrip comment preservation
 dev-python/slixmpp 1.2.4-r1: Python library for XMPP - asyncio fork
+dev-python/sphinxcontrib-documentedlist 0.6: Sphinx extension to convert a Python list into a generated table
 dev-python/terminaltables 3.1.0: Generate simple tables in terminals from a nested list of strings
 dev-python/twilio 6.6.2: Helper library for the Twilio API
 dev-python/vex 0.0.18: Run commands in a virtualenv
