@@ -69,7 +69,7 @@ dev-ruby/mojo_magick 0.5.6: Ruby stateless module interface to ImageMagick
 dev-ruby/msfrpc-client 1.1.1-r2: Ruby client API for Metasploit RPC
 dev-ruby/nessus_rest 0.1.6: Nessus REST interface library
 dev-ruby/net-dns 0.8.0: Ruby DNS library, with a clean OO interface and an extensible API
-dev-ruby/nexpose 7.0.0: API client for Nexpose vulnerability managment product
+dev-ruby/nexpose 7.0.1: API client for Nexpose vulnerability managment product
 dev-ruby/opt_parse_validator 0.0.13.5: Implementation of validators for the Ruby OptionParser library
 dev-ruby/os 1.0.0: Useful OS detection functions
 dev-ruby/parseconfig 1.0.8: Provides simple parsing of standard *nix style config files.
@@ -142,7 +142,7 @@ net-analyzer/nikto 2.1.6_p20170910: web server vulnerability scanner
 net-analyzer/wpscan 3.0.3: WordPress vulnerability scanner
 net-fs/pingfs 9999: 'True' cloud storage
 net-im/discord-bin 0.0.2-r3: All-in-one voice and text chat for gamers
-net-im/slack-bin 2.7.1: Team collaboration tool
+net-im/slack-bin 2.8.0: Team collaboration tool
 net-mail/syncmaildir 1.2.6.2: Sync Mail Dir (smd) is a set of tools to synchronize a pair of mailboxes
 net-p2p/zget 0.11.1-r1: zeroconf based peer to peer file transfer
 net-proxy/mitmproxy 2.0.2-r2: An interactive, SSL-capable, man-in-the-middle HTTP proxy
