@@ -1,4 +1,4 @@
-app-admin/linode-cli 1.0.5_beta0 1.4.7_p20170411: Command-line interface to the Linode platform
+app-admin/linode-cli 1.0.5_beta0-r1 1.4.7_p20170411: Command-line interface to the Linode platform
 app-admin/pass-otp 1.0.0: A pass extension for managing one-time-password (OTP) tokens
 app-crypt/johntheripper 9999: fast password cracker
 app-editors/komodo-edit-bin 10.2.2-r2: Freeware advanced editor for dynamic and Web languages
@@ -7,7 +7,7 @@ app-misc/cronic 3: a cure for cron's chronic email problem
 app-misc/gotty-bin 1.0.1: Share your terminal as a web application
 app-misc/tty-clock 2.3: analog clock in ncurses
 app-misc/wemux 3.2.0_p20150822: multi-user tmux made easy
-app-shells/elvish 0.9: A novel Unix shell
+app-shells/elvish 0.10.1: A novel Unix shell
 app-vim/neovim-remote 1.7.4: Neovim support for --remote and friends
 dev-db/sqlmap 1.1.9 9999: Automatic SQL injection and database takeover tool
 dev-embedded/arduino-bin 1.8.4: electronics prototyping platform based on easy-to-use hardware and software
@@ -20,7 +20,7 @@ dev-python/brotlipy 0.6.0-r2 0.7.0-r1: Python binding to the Brotli library
 dev-python/colorclass 2.2.0: Yet another ANSI color text library for Python
 dev-python/jsbeautifier 1.6.14-r2: Beautify, unpack or deobfuscate JavaScript
 dev-python/kaitaistruct 0.6 0.7: Kaitai Struct runtime for Python
-dev-python/linode-api 4.1.2_beta0: Official Python library for the Linode API v4
+dev-python/linode-api 4.1.2_beta0 4.1.3_beta0: Official Python library for the Linode API v4
 dev-python/pandocfilters 1.4.0-r1: A Python module for writing Pandoc filters
 dev-python/pastebin 1.1.2: Python Pastebin.com API
 dev-python/progressbar2 3.34.2-r1: text progress bar library for Python
@@ -29,15 +29,15 @@ dev-python/pyperclip 1.5.27: Cross-platform clipboard module
 dev-python/python-ntlm 1.1.0-r1: Python library for NTLM support
 dev-python/python-utils 2.2.0-r1: a collection of functions and classes which shortens common patterns
 dev-python/ruamel-ordereddict 0.4.13: An ordered dictionary with KIO/KVIO
-dev-python/ruamel-yaml 0.13.14 0.15.33: YAML parser/emitter that supports roundtrip comment preservation
+dev-python/ruamel-yaml 0.13.14 0.15.34: YAML parser/emitter that supports roundtrip comment preservation
 dev-python/slixmpp 1.2.4-r1: Python library for XMPP - asyncio fork
 dev-python/sphinxcontrib-documentedlist 0.6: Sphinx extension to convert a Python list into a generated table
 dev-python/terminaltables 3.1.0: Generate simple tables in terminals from a nested list of strings
-dev-python/twilio 6.6.2: Helper library for the Twilio API
+dev-python/twilio 6.6.3: Helper library for the Twilio API
 dev-python/vex 0.0.18: Run commands in a virtualenv
 dev-ruby/ascii85 1.0.2-r3: Methods for encoding/decoding Adobe's binary-to-text encoding of the same name
 dev-ruby/celluloid-io 0.16.2-r1: Evented IO for Celluloid actors
-dev-ruby/cms_scanner 0.0.37.9-r2: Framework to provide an easy way to implement CMS Scanners
+dev-ruby/cms_scanner 0.0.37.9-r2 0.0.37.10: Framework to provide an easy way to implement CMS Scanners
 dev-ruby/data_objects 0.10.17: A standard and simplified API for communicating with RDBMS
 dev-ruby/dm-constraints 1.2.0: DataMapper plugin constraining relationships
 dev-ruby/dm-core 1.2.1: DataMapper core library
@@ -52,7 +52,7 @@ dev-ruby/em-websocket 0.5.1: EventMachine based WebSocket server
 dev-ruby/espeak-ruby 1.0.4: Ruby API for creating text-to-speech files
 dev-ruby/fastercsv 1.5.5: Faster replacement for the CSV standard library
 dev-ruby/geoip 1.6.3-r1: API for searching a GeoIP database
-dev-ruby/google-protobuf 3.4.0.2: Google Protocol Buffers
+dev-ruby/google-protobuf 3.4.1.1: Google Protocol Buffers
 dev-ruby/googleauth 0.5.3: Simple authorization for Google APIs
 dev-ruby/grpc 1.6.0: Send RPCs using GRPC
 dev-ruby/libv8 3.16.14.19: V8 JavaScript engine distribution
@@ -61,7 +61,7 @@ dev-ruby/metasploit-aggregator 0.2.2: Proxy for Meterpreter sessions
 dev-ruby/metasploit-concern 2.0.5: Metasploit concern allows you to define concerns in app/concerns.
 dev-ruby/metasploit-credential 2.0.12: Code for modeling and managing credentials in Metasploit
 dev-ruby/metasploit-model 2.0.4: Common code, such as validators and mixins
-dev-ruby/metasploit-payloads 1.3.7: Compiled binaries for Metasploit's Meterpreter
+dev-ruby/metasploit-payloads 1.3.7 1.3.8: Compiled binaries for Metasploit's Meterpreter
 dev-ruby/metasploit_data_models 2.0.15: The database layer for Metasploit
 dev-ruby/metasploit_payloads-mettle 0.2.2: Compiled binaries for Metasploit's next-gen Meterpreter
 dev-ruby/method_source 0.8.2_p20170202: Retrieve the source code for a method
@@ -75,7 +75,7 @@ dev-ruby/os 1.0.0: Useful OS detection functions
 dev-ruby/parseconfig 1.0.8: Provides simple parsing of standard *nix style config files.
 dev-ruby/pdf-reader 2.0.0-r1: PDF parser conforming as much as possible to the PDF specification from Adobe
 dev-ruby/pg 0.20.0: Ruby extension library providing an API to PostgreSQL
-dev-ruby/pry 0.10.4_p20161207: Pry is a powerful alternative to the standard IRB shell for Ruby
+dev-ruby/pry 0.10.4_p20161207-r1 0.11.0: Pry is a powerful alternative to the standard IRB shell for Ruby
 dev-ruby/qr4r 0.4.1: QR PNG generator for Ruby
 dev-ruby/recog 2.1.15: Pattern recognition for hosts, services, and content
 dev-ruby/rex 2.0.11-r2 2.0.12: Ruby classes useful for security testing and exploit development
@@ -103,7 +103,7 @@ dev-ruby/therubyracer 0.12.2 0.12.3: Embed the V8 JavaScript interpreter into Ru
 dev-ruby/timers 4.0.1: Pure Ruby one-shot and periodic timers
 dev-ruby/xdr 2.0.0: Read/write XDR encoded data structures
 dev-util/ffdec 10.0.0: Decompiler and editor of Flash SWF files
-dev-util/unity-editor 2017.1.0_rc3 2017.2.0_beta6: Editor for the Unity game engine
+dev-util/unity-editor 2017.1.1_rc1 2017.2.0_beta11: Editor for the Unity game engine
 games-action/armagetronad 0.2.8.3.4 0.4-r1: A fast-paced 3D lightcycle game based on Tron
 games-action/armagetronad-dedicated 0.2.8.3.4 0.4-r1: A fast-paced 3D lightcycle game based on Tron - dedicated server
 games-arcade/nsnake 3.0.1-r1: A clone of the classic snake game on the terminal
@@ -124,7 +124,7 @@ media-plugins/kodi-netflix 9999: Inputstream based Netflix plugin for Kodi
 media-plugins/kodi-widevine 1.4.8.1008: An adapter for playing DRM content
 media-plugins/midifilter-lv2 0.4.7: LV2 plugins to filter MIDI events
 media-plugins/plex-for-kodi 0.1.1: Plex's official Plex add-on for Kodi.
-media-plugins/plex-kodi-connect 1.8.12: Combine the frontend media player Kodi with the multimedia backend server Plex
+media-plugins/plex-kodi-connect 1.8.15: Combine the frontend media player Kodi with the multimedia backend server Plex
 media-sound/gxtuner 2.4 9999: A simple guitar tuner for JACK
 media-sound/libresonic 6.1 6.2: Libresonic is a free and web-based media streamer.
 media-sound/ympd 1.3.0: Standalone MPD Web GUI written in C, utilizing Websockets and Bootstrap/JS
@@ -137,9 +137,9 @@ media-tv/plexpy 1.4.22: A python based web application for monitoring your Plex 
 media-video/plex-ffmpeg 2016.12-r1: Plex Transcoder, a ffmpeg fork from Plex Inc.
 media-video/v4l2loopback 0.10.0: v4l2 loopback device which output is it's own input
 net-analyzer/bettercap 1.6.2: A complete, modular, portable and easily extensible MITM framework
-net-analyzer/metasploit 4.16.6-r1 9999: Advanced framework for developing, testing, and using vulnerability exploit code
+net-analyzer/metasploit 4.16.7 9999: Advanced framework for developing, testing, and using vulnerability exploit code
 net-analyzer/nikto 2.1.6_p20170910: web server vulnerability scanner
-net-analyzer/wpscan 3.0.3: WordPress vulnerability scanner
+net-analyzer/wpscan 3.0.3-r1: WordPress vulnerability scanner
 net-fs/pingfs 9999: 'True' cloud storage
 net-im/discord-bin 0.0.2-r3: All-in-one voice and text chat for gamers
 net-im/slack-bin 2.8.0: Team collaboration tool
