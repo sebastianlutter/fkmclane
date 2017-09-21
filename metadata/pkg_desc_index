@@ -23,7 +23,7 @@ dev-python/kaitaistruct 0.6 0.7: Kaitai Struct runtime for Python
 dev-python/linode-api 4.1.2_beta0 4.1.3_beta0: Official Python library for the Linode API v4
 dev-python/pandocfilters 1.4.0-r1: A Python module for writing Pandoc filters
 dev-python/pastebin 1.1.2: Python Pastebin.com API
-dev-python/progressbar2 3.34.2-r1: text progress bar library for Python
+dev-python/progressbar2 3.34.3: text progress bar library for Python
 dev-python/pycryptodomex 3.4.6: A self-contained cryptographic library for Python - independent library version
 dev-python/pyperclip 1.5.27: Cross-platform clipboard module
 dev-python/python-ntlm 1.1.0-r1: Python library for NTLM support
