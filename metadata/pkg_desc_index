@@ -1,4 +1,4 @@
-app-admin/linode-cli 1.0.5_beta0-r1 1.4.7_p20170411: Command-line interface to the Linode platform
+app-admin/linode-cli 1.0.7_beta0 1.4.7_p20170411: Command-line interface to the Linode platform
 app-admin/pass-otp 1.0.0: A pass extension for managing one-time-password (OTP) tokens
 app-crypt/johntheripper 9999: fast password cracker
 app-editors/komodo-edit-bin 10.2.2-r2: Freeware advanced editor for dynamic and Web languages
@@ -9,10 +9,10 @@ app-misc/tty-clock 2.3: analog clock in ncurses
 app-misc/wemux 3.2.0_p20150822: multi-user tmux made easy
 app-shells/elvish 0.10.1: A novel Unix shell
 app-vim/neovim-remote 1.7.4: Neovim support for --remote and friends
-dev-db/sqlmap 1.1.9 9999: Automatic SQL injection and database takeover tool
-dev-embedded/arduino-bin 1.8.4: electronics prototyping platform based on easy-to-use hardware and software
+dev-db/sqlmap 1.1.10 9999: Automatic SQL injection and database takeover tool
+dev-embedded/arduino-bin 1.8.5: electronics prototyping platform based on easy-to-use hardware and software
 dev-embedded/energia-bin 1.6.10_p18: electronics prototyping platform for TI MSP430 LaunchPad based on Arduino
-dev-embedded/teensyduino-bin 1.37 1.38_beta3: USB-based electronics prototyping platform compatible with Arduino
+dev-embedded/teensyduino-bin 1.39 1.40_beta2: USB-based electronics prototyping platform compatible with Arduino
 dev-games/mcedit 2.0.0_beta11: Minecraft save game editor
 dev-lang/kaitai-struct-compiler 0.7: Compiler for the Kaitai Struct project
 dev-libs/beignet 1.3.1-r2: OpenCL implementation for Intel GPUs
@@ -20,7 +20,7 @@ dev-python/brotlipy 0.6.0-r2 0.7.0-r1: Python binding to the Brotli library
 dev-python/colorclass 2.2.0: Yet another ANSI color text library for Python
 dev-python/jsbeautifier 1.6.14-r2: Beautify, unpack or deobfuscate JavaScript
 dev-python/kaitaistruct 0.6 0.7: Kaitai Struct runtime for Python
-dev-python/linode-api 4.1.2_beta0 4.1.3_beta0: Official Python library for the Linode API v4
+dev-python/linode-api 4.1.4_beta0: Official Python library for the Linode API v4
 dev-python/pandocfilters 1.4.0-r1: A Python module for writing Pandoc filters
 dev-python/pastebin 1.1.2: Python Pastebin.com API
 dev-python/progressbar2 3.34.3: text progress bar library for Python
@@ -33,11 +33,11 @@ dev-python/ruamel-yaml 0.13.14 0.15.34: YAML parser/emitter that supports roundt
 dev-python/slixmpp 1.2.4-r1: Python library for XMPP - asyncio fork
 dev-python/sphinxcontrib-documentedlist 0.6: Sphinx extension to convert a Python list into a generated table
 dev-python/terminaltables 3.1.0: Generate simple tables in terminals from a nested list of strings
-dev-python/twilio 6.6.3: Helper library for the Twilio API
+dev-python/twilio 6.7.1: Helper library for the Twilio API
 dev-python/vex 0.0.18: Run commands in a virtualenv
 dev-ruby/ascii85 1.0.2-r3: Methods for encoding/decoding Adobe's binary-to-text encoding of the same name
 dev-ruby/celluloid-io 0.16.2-r1: Evented IO for Celluloid actors
-dev-ruby/cms_scanner 0.0.37.9-r2 0.0.37.10: Framework to provide an easy way to implement CMS Scanners
+dev-ruby/cms_scanner 0.0.37.11: Framework to provide an easy way to implement CMS Scanners
 dev-ruby/data_objects 0.10.17: A standard and simplified API for communicating with RDBMS
 dev-ruby/dm-constraints 1.2.0: DataMapper plugin constraining relationships
 dev-ruby/dm-core 1.2.1: DataMapper core library
@@ -54,28 +54,28 @@ dev-ruby/fastercsv 1.5.5: Faster replacement for the CSV standard library
 dev-ruby/geoip 1.6.3-r1: API for searching a GeoIP database
 dev-ruby/google-protobuf 3.4.1.1: Google Protocol Buffers
 dev-ruby/googleauth 0.5.3: Simple authorization for Google APIs
-dev-ruby/grpc 1.6.0: Send RPCs using GRPC
+dev-ruby/grpc 1.6.6: Send RPCs using GRPC
 dev-ruby/libv8 3.16.14.19: V8 JavaScript engine distribution
 dev-ruby/metasm 1.0.3: cross-architecture assembler, disassembler, linker, and debugger
-dev-ruby/metasploit-aggregator 0.2.2: Proxy for Meterpreter sessions
+dev-ruby/metasploit-aggregator 0.2.3: Proxy for Meterpreter sessions
 dev-ruby/metasploit-concern 2.0.5: Metasploit concern allows you to define concerns in app/concerns.
 dev-ruby/metasploit-credential 2.0.12: Code for modeling and managing credentials in Metasploit
 dev-ruby/metasploit-model 2.0.4: Common code, such as validators and mixins
-dev-ruby/metasploit-payloads 1.3.7 1.3.8: Compiled binaries for Metasploit's Meterpreter
+dev-ruby/metasploit-payloads 1.3.9 1.3.10: Compiled binaries for Metasploit's Meterpreter
 dev-ruby/metasploit_data_models 2.0.15: The database layer for Metasploit
-dev-ruby/metasploit_payloads-mettle 0.2.2: Compiled binaries for Metasploit's next-gen Meterpreter
-dev-ruby/method_source 0.8.2_p20170202: Retrieve the source code for a method
+dev-ruby/metasploit_payloads-mettle 0.2.2 0.2.3: Compiled binaries for Metasploit's next-gen Meterpreter
+dev-ruby/method_source 0.9.0: Retrieve the source code for a method
 dev-ruby/mojo_magick 0.5.6: Ruby stateless module interface to ImageMagick
 dev-ruby/msfrpc-client 1.1.1-r2: Ruby client API for Metasploit RPC
 dev-ruby/nessus_rest 0.1.6: Nessus REST interface library
 dev-ruby/net-dns 0.8.0: Ruby DNS library, with a clean OO interface and an extensible API
-dev-ruby/nexpose 7.0.1: API client for Nexpose vulnerability managment product
-dev-ruby/opt_parse_validator 0.0.13.5: Implementation of validators for the Ruby OptionParser library
+dev-ruby/nexpose 7.1.1: API client for Nexpose vulnerability managment product
+dev-ruby/opt_parse_validator 0.0.13.8: Implementation of validators for the Ruby OptionParser library
 dev-ruby/os 1.0.0: Useful OS detection functions
 dev-ruby/parseconfig 1.0.8: Provides simple parsing of standard *nix style config files.
 dev-ruby/pdf-reader 2.0.0-r1: PDF parser conforming as much as possible to the PDF specification from Adobe
 dev-ruby/pg 0.20.0: Ruby extension library providing an API to PostgreSQL
-dev-ruby/pry 0.10.4_p20161207-r1 0.11.0: Pry is a powerful alternative to the standard IRB shell for Ruby
+dev-ruby/pry 0.11.1: Pry is a powerful alternative to the standard IRB shell for Ruby
 dev-ruby/qr4r 0.4.1: QR PNG generator for Ruby
 dev-ruby/recog 2.1.15: Pattern recognition for hosts, services, and content
 dev-ruby/rex 2.0.11-r2 2.0.12: Ruby classes useful for security testing and exploit development
@@ -88,7 +88,7 @@ dev-ruby/rex-java 0.1.4: Ruby Exploitation(Rex) library for parsing Java seriali
 dev-ruby/rex-mime 0.1.4: library is for creating and/or parsing MIME messages
 dev-ruby/rex-nop 0.1.0: Rex library for dynamic generation of x86 multi-byte NOPs
 dev-ruby/rex-ole 0.1.5: Ruby Exploitation(Rex) library gem for reading/writing OLE files and streams
-dev-ruby/rex-powershell 0.1.72 0.1.75: Ruby Exploitation(Rex) library for generating/manipulating Powershell scripts
+dev-ruby/rex-powershell 0.1.72 0.1.77: Ruby Exploitation(Rex) library for generating/manipulating Powershell scripts
 dev-ruby/rex-random_identifier 0.1.4: Ruby Exploitation(Rex) library for generating Random identifier strings
 dev-ruby/rex-registry 0.1.2: Rex library for parsing offline registry files from a Windows machine
 dev-ruby/rex-rop_builder 0.1.2: Ruby Exploitation(Rex) Library for building ROP chains
@@ -96,6 +96,7 @@ dev-ruby/rex-socket 0.1.8: Ruby Exploitation (Rex) Socket Abstraction Library
 dev-ruby/rex-sslscan 0.1.5: ruby implmenetation of the SSLScan tool
 dev-ruby/rex-text 0.2.14: Rex library for text generation and manipulation
 dev-ruby/rex-zip 0.1.2: Ruby Exploitation(Rex) library for working with zip and related files
+dev-ruby/ruby-progressbar 1.9.0: A Text Progress Bar Library for Ruby
 dev-ruby/ruby_smb 0.0.18-r1: pure Ruby implementation of the SMB Protocol Family
 dev-ruby/rubydns 1.0.3: A tool to intercept and modify DNS requests
 dev-ruby/signet 0.7.3: An OAuth 1.0/2.0 implementation
@@ -137,16 +138,19 @@ media-tv/plexpy 1.4.22: A python based web application for monitoring your Plex 
 media-video/plex-ffmpeg 2016.12-r1: Plex Transcoder, a ffmpeg fork from Plex Inc.
 media-video/v4l2loopback 0.10.0: v4l2 loopback device which output is it's own input
 net-analyzer/bettercap 1.6.2: A complete, modular, portable and easily extensible MITM framework
-net-analyzer/metasploit 4.16.7 9999: Advanced framework for developing, testing, and using vulnerability exploit code
-net-analyzer/nikto 2.1.6_p20170910: web server vulnerability scanner
-net-analyzer/wpscan 3.0.3-r1: WordPress vulnerability scanner
+net-analyzer/metasploit 4.16.10 9999: Advanced framework for developing, testing, and using vulnerability exploit code
+net-analyzer/nikto 2.1.6_p20170921: web server vulnerability scanner
+net-analyzer/spaghetti 0.1.2: Spaghetti web application security scanner
+net-analyzer/wpscan 3.0.5: WordPress vulnerability scanner
 net-fs/pingfs 9999: 'True' cloud storage
 net-im/discord-bin 0.0.2-r3: All-in-one voice and text chat for gamers
-net-im/slack-bin 2.8.0: Team collaboration tool
+net-im/hangups 9999: Third Party IM Client for Google Hangouts
+net-im/slack-bin 2.8.1: Team collaboration tool
 net-mail/syncmaildir 1.2.6.2: Sync Mail Dir (smd) is a set of tools to synchronize a pair of mailboxes
 net-p2p/zget 0.11.1-r1: zeroconf based peer to peer file transfer
 net-proxy/mitmproxy 2.0.2-r2: An interactive, SSL-capable, man-in-the-middle HTTP proxy
 net-wireless/create_ap 0.4.6: A script to create a NATed or bridged WiFi access point
+net-wireless/sniffair 1.1: SniffAir framework for wireless pentesting
 net-wireless/unifi 5.5.20: Management Controller for Ubiquiti Networks UniFi APs
 sci-electronics/eagle 8.3.2: EAGLE schematic and printed circuit board (PCB) layout editor
 sci-electronics/freeroute 1.2.43_p20150316: popular PCB routing and autorouting program
@@ -156,10 +160,11 @@ sys-apps/petty 0.1: petty, short for practically enhanced tty, is a tty session 
 sys-firmware/edk2-ovmf 2017_pre20170505: UEFI firmware for 64-bit x86 virtual machines
 sys-fs/exfat-nofuse 0_p20170619: Non-fuse kernel driver for exFat and VFat file systems
 sys-fs/pifs 9999: The data-free filesystem
-sys-fs/udiskie 1.7.0: An automatic disk mounting service using udisks
-sys-kernel/pf-sources 4.13_p3: Linux kernel fork with new features (-ck patchset (BFS), BFQ, TuxOnIce and UKSM)
-www-apps/beef 0.4.7.0_p20170730: The Browser Exploitation Framework
-www-misc/Brosec 1.4.0: An interactive reference tool to help security professionals
+sys-fs/udiskie 1.7.1: An automatic disk mounting service using udisks
+sys-kernel/pf-sources 4.13_p7: Linux kernel fork with new features (-ck patchset (BFS), BFQ, TuxOnIce and UKSM)
+www-apps/beef 0.4.7.0_p20171001: The Browser Exploitation Framework
+www-client/qutebrowser 9999: A keyboard-driven, vim-like browser based on PyQt5 and QtWebKit / QtWebEngine
+www-misc/Brosec 1.4.1: An interactive reference tool to help security professionals
 www-misc/weevely 3.4: Weaponized web shell
 www-servers/pagekite 0.5.9.0: PageKite makes local websites or SSH servers publicly accessible in mere seconds
 x11-misc/awf 1.4.0: A Widget Factory
