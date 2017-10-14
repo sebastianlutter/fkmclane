@@ -24,8 +24,12 @@ sudo mount --make-rslave "$root"/sys
 sudo mount --bind /dev "$root"/dev
 sudo mount --make-rslave "$root"/dev
 
+# setup system
+chroot "$root" /bin/bash -c "emerge-webrsync"
+chroot "$root" /bin/bash -c "eselect profile set default/linux/amd64/13.0"
+
 # merge repoman
-chroot /root/gentoo/root/overlay /bin/bash -c "emerge repoman"
+chroot "$root" /bin/bash -c "emerge repoman"
 
 # run repoman on codebase
-exec chroot /root/gentoo/root/overlay /bin/bash -c "repoman scan $overlay"
+exec chroot "$root" /bin/bash -c "repoman scan /root/overlay"
