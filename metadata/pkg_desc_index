@@ -33,7 +33,7 @@ dev-python/ruamel-yaml 0.13.14 0.15.34: YAML parser/emitter that supports roundt
 dev-python/slixmpp 1.2.4-r1: Python library for XMPP - asyncio fork
 dev-python/sphinxcontrib-documentedlist 0.6: Sphinx extension to convert a Python list into a generated table
 dev-python/terminaltables 3.1.0: Generate simple tables in terminals from a nested list of strings
-dev-python/twilio 6.7.1: Helper library for the Twilio API
+dev-python/twilio 6.8.0: Helper library for the Twilio API
 dev-python/vex 0.0.18: Run commands in a virtualenv
 dev-ruby/ascii85 1.0.2-r3: Methods for encoding/decoding Adobe's binary-to-text encoding of the same name
 dev-ruby/celluloid-io 0.16.2-r1: Evented IO for Celluloid actors
