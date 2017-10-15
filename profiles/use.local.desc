@@ -21,8 +21,6 @@ games-action/armagetronad:glew - Enable media-libs/glew opengl extension library
 games-action/armagetronad:music - Enable background music support
 games-action/armagetronad-dedicated:auth - Enable armathentication support
 games-action/armagetronad-dedicated:fortress - Enable support for fortress game mode
-games-board/cockatrice:client - Compile client (cockatrice and oracle) support
-games-board/cockatrice:server - Compile server (servatrice) support
 media-libs/zita-resampler:tools - Install zresample and zretune
 media-plugins/calf:experimental - Add experimental plugins
 media-plugins/calf:lv2 - Add support for Ladspa V2
@@ -107,7 +105,6 @@ net-wireless/hostapd:sqlite - Adding sqlite support
 net-wireless/hostapd:wpe - Add support for Wireless Pwnage Edition functionality
 net-wireless/hostapd:wps - Add support for Wi-Fi Protected Setup
 sci-physics/chipmunk:demos - Build and install Chipmunk demos
-sys-firmware/edk2-ovmf:binary - Use pre-built binaries
 www-client/qutebrowser:webengine - Install packages required for experimental rendering support with webengine.
 x11-misc/lemonbar:sm - Enable support for monitor selection.
 x11-misc/rofi-pass:otp - Add support for app-admin/pass-otp.

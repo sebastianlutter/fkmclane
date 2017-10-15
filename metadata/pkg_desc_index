@@ -109,7 +109,6 @@ dev-util/unity-editor 2017.1.2_rc1 2017.2.0_rc3: Editor for the Unity game engin
 games-action/armagetronad 0.2.8.3.4 0.4-r1: A fast-paced 3D lightcycle game based on Tron
 games-action/armagetronad-dedicated 0.2.8.3.4 0.4-r1: A fast-paced 3D lightcycle game based on Tron - dedicated server
 games-arcade/nsnake 3.0.1-r1: A clone of the classic snake game on the terminal
-games-board/cockatrice 20170505: A cross-platform virtual tabletop for multiplayer card games
 games-misc/git-fire 0.2.3: Save your code in an emergency
 games-misc/lolcat 90.8.8: Rainbows and unicorns!
 games-misc/nyancat 1.5.1-r1: nyancat rendered in your terminal
@@ -161,7 +160,6 @@ sci-electronics/fritzing-bin 0.9.3b: Fritzing makes electronics accessible as a 
 sci-physics/chipmunk 7.0.2: Chipmunk2D is a lightweight, fast, and portable 2D rigid body physics library
 sys-apps/fix-gnustack 0.1: Utility to report and remove the executable flag from an ELF object's GNU_STACK
 sys-apps/petty 0.1: petty, short for practically enhanced tty, is a tty session starter
-sys-firmware/edk2-ovmf 2017_pre20170505: UEFI firmware for 64-bit x86 virtual machines
 sys-fs/exfat-nofuse 0_p20170619: Non-fuse kernel driver for exFat and VFat file systems
 sys-fs/pifs 9999: The data-free filesystem
 sys-fs/udiskie 1.7.1: An automatic disk mounting service using udisks
