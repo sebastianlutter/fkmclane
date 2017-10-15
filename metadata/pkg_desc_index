@@ -100,7 +100,9 @@ dev-ruby/rex-zip 0.1.2: Ruby Exploitation(Rex) library for working with zip and 
 dev-ruby/ruby-progressbar 1.9.0: A Text Progress Bar Library for Ruby
 dev-ruby/ruby_smb 0.0.18-r1: pure Ruby implementation of the SMB Protocol Family
 dev-ruby/rubydns 1.0.3: A tool to intercept and modify DNS requests
+dev-ruby/rushover 0.3.0: A simple Ruby rushover client
 dev-ruby/signet 0.8.1-r1: An OAuth 1.0/2.0 implementation
+dev-ruby/slack-notifier 2.3.1: A simple Ruby wrapper for posting to Slack channels
 dev-ruby/therubyracer 0.12.2 0.12.3: Embed the V8 JavaScript interpreter into Ruby
 dev-ruby/timers 4.0.1: Pure Ruby one-shot and periodic timers
 dev-ruby/xdr 2.0.0: Read/write XDR encoded data structures
@@ -163,8 +165,8 @@ sys-apps/petty 0.1: petty, short for practically enhanced tty, is a tty session 
 sys-fs/exfat-nofuse 0_p20170619: Non-fuse kernel driver for exFat and VFat file systems
 sys-fs/pifs 9999: The data-free filesystem
 sys-fs/udiskie 1.7.1: An automatic disk mounting service using udisks
-sys-kernel/pf-sources 4.13_p8: Linux kernel fork with new features (-ck patchset (BFS), BFQ, TuxOnIce and UKSM)
-www-apps/beef 0.4.7.0_p20171014: The Browser Exploitation Framework
+sys-kernel/pf-sources 4.13_p9: Linux kernel fork with new features (-ck patchset (BFS), BFQ, TuxOnIce and UKSM)
+www-apps/beef 0.4.7.0_p20171015: The Browser Exploitation Framework
 www-client/qutebrowser 9999: A keyboard-driven, vim-like browser based on PyQt5 and QtWebKit / QtWebEngine
 www-misc/Brosec 1.4.1: An interactive reference tool to help security professionals
 www-misc/weevely 3.4: Weaponized web shell
