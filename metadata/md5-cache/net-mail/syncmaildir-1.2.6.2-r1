@@ -1,13 +1,13 @@
 DEFINED_PHASES=compile install postinst prepare
-DEPEND=>=dev-libs/glib-2.32:2 gnome? ( dev-libs/dbus-glib x11-libs/gtk+:3 dev-lang/vala:0.26 x11-libs/libnotify gnome-base/gconf:2 dev-libs/libgee:0.8 ) app-text/txt2man virtual/pkgconfig
+DEPEND=>=dev-libs/glib-2.32:2 gnome? ( dev-libs/dbus-glib x11-libs/gtk+:3 dev-lang/vala:* x11-libs/libnotify gnome-base/gconf:2 dev-libs/libgee:0.8 ) app-text/txt2man virtual/pkgconfig
 DESCRIPTION=Sync Mail Dir (smd) is a set of tools to synchronize a pair of mailboxes
 EAPI=6
 HOMEPAGE=http://syncmaildir.sourceforge.net/
 IUSE=gnome
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-3
-RDEPEND=>=dev-libs/glib-2.32:2 gnome? ( dev-libs/dbus-glib x11-libs/gtk+:3 dev-lang/vala:0.26 x11-libs/libnotify gnome-base/gconf:2 dev-libs/libgee:0.8 ) virtual/ssh dev-util/xdelta:0 dev-lang/lua
+RDEPEND=>=dev-libs/glib-2.32:2 gnome? ( dev-libs/dbus-glib x11-libs/gtk+:3 dev-lang/vala:* x11-libs/libnotify gnome-base/gconf:2 dev-libs/libgee:0.8 ) virtual/ssh dev-util/xdelta:0 dev-lang/lua
 SLOT=0
 SRC_URI=mirror://sourceforge/syncmaildir/syncmaildir-1.2.6.2.tar.gz
 _eclasses_=epatch	8233751dc5105a6ae8fcd86ce2bb0247	estack	43ddf5aaffa7a8d0482df54d25a66a1f	eutils	227b041a120d309fdefbebb3b8c1dfa9	ltprune	2770eed66a9b8ef944714cd0e968182e	multilib	97f470f374f2e94ccab04a2fb21d811e	systemd	34815d3b76e745c5ca33eec9f95074c2	toolchain-funcs	185a06792159ca143528e7010368e8af
-_md5_=1504720bdd157f2cd7d4b3fd68e2ae18
+_md5_=98600e5baaece9ffa452db63183cad84

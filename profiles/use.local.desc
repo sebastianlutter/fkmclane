@@ -7,6 +7,7 @@ app-crypt/johntheripper:opencl - Enable OpenCL support
 app-crypt/johntheripper:openssl - Use OpenSSL
 app-crypt/johntheripper:pcap - Build helpers depending on pcap
 app-crypt/johntheripper:rexgen - Enable librexgen support
+app-editors/komodo-edit-bin:pax_kernel - Add PaX markings to executables
 dev-db/sqlmap:ntlm - Add NTLM support
 dev-libs/beignet:ocl-icd - Enable compatibility with the dev-libs/ocl-icd OpenCL ICD loader
 dev-libs/beignet:ocl20 - Enable experimental OpenCL 2.0 support on Skylake and newer architectures
@@ -26,7 +27,6 @@ media-libs/zita-resampler:tools - Install zresample and zretune
 media-plugins/calf:experimental - Add experimental plugins
 media-plugins/calf:lv2 - Add support for Ladspa V2
 media-plugins/kodi-inputstream-adaptive:agile - Use Kodi Agile branch
-media-sound/frescobaldi:portmidi - Enable media-libs/portmidi support
 media-sound/ympd:hostchange - allow users of the web frontend to change the MPD host
 media-tv/kodi:agile - Use Kodi Agile branch
 media-tv/kodi:airplay - enable AirPlay support
@@ -76,7 +76,6 @@ media-video/plex-ffmpeg:libv4l - Uses media-libs/libv4l for video4linux instead 
 media-video/plex-ffmpeg:mipsdspr1 - Enables MIPS DSP ASE R1 optimizations.
 media-video/plex-ffmpeg:mipsdspr2 - Enables MIPS DSP ASE R2 optimizations.
 media-video/plex-ffmpeg:mipsfpu - Enables floating point MIPS optimizations.
-media-video/plex-ffmpeg:mmal - Enables Multi-Media Abstraction Layer (MMAL) decoding support: Available e.g. on the Raspberry Pi.
 media-video/plex-ffmpeg:network - Enables network streaming support
 media-video/plex-ffmpeg:nvenc - Adds support for NVIDIA Encoder (NVENC) API for hardware accelerated encoding on NVIDIA cards.
 media-video/plex-ffmpeg:openh264 - Enables H.264 encoding suppoprt via media-libs/openh264.
@@ -100,6 +99,13 @@ net-analyzer/metasploit:oracle - Enable restricted oracle modules which have add
 net-analyzer/metasploit:pcap - Enable libpcap for packet sniffing
 net-mail/syncmaildir:gnome - Enable GNOME applet
 net-wireless/create_ap:haveged - Enable support for haveged
+net-wireless/hostapd:crda - Add CRDA support
+net-wireless/hostapd:karma_cli - Add support for Karma patch functionality
+net-wireless/hostapd:logwatch - Install support files for sys-apps/logwatch
+net-wireless/hostapd:netlink - Adding support for using netlink to create VLANs
+net-wireless/hostapd:sqlite - Adding sqlite support
+net-wireless/hostapd:wpe - Add support for Wireless Pwnage Edition functionality
+net-wireless/hostapd:wps - Add support for Wi-Fi Protected Setup
 sci-physics/chipmunk:demos - Build and install Chipmunk demos
 sys-firmware/edk2-ovmf:binary - Use pre-built binaries
 www-client/qutebrowser:webengine - Install packages required for experimental rendering support with webengine.

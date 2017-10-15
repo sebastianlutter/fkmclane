@@ -2,11 +2,10 @@ DEFINED_PHASES=install unpack
 DESCRIPTION=An adapter for playing DRM content
 EAPI=6
 HOMEPAGE=https://www.google.com/chrome
-KEYWORDS=-* ~amd64
 LICENSE=google-chrome
 RDEPEND=>=media-tv/kodi-9999[agile]
 RESTRICT=bindist mirror strip
 SLOT=0
 SRC_URI=https://dl.google.com/linux/chrome/deb/pool/main/g/google-chrome-stable/google-chrome-stable_61.0.3163.79-1_amd64.deb
 _eclasses_=multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	185a06792159ca143528e7010368e8af	unpacker	f40f7b4bd5aa88c2a4ba7b0d1e0ded70
-_md5_=8a306d62b29811b42307b152be25f598
+_md5_=4eef3b95783ae0f5a86b82eee2ee7896
