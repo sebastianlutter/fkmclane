@@ -10,7 +10,7 @@ strap() {
 }
 
 run() {
-	chroot "$1" /usr/bin/env - /bin/bash -c "source /etc/profile && ${*:2}"
+	chroot "$1" /usr/bin/env - /bin/bash -c "source /etc/profile && PS4=\"\$PS1\" && set -x && ${*:2}"
 }
 
 prep() {
@@ -24,6 +24,10 @@ prep() {
 	run "$1" emerge-webrsync
 	run "$1" eselect profile set default/linux/amd64/13.0
 }
+
+# enable command printing
+export PS4="$PS1"
+set -x
 
 # get root image
 echo 'Bootstrapping...' >&2
@@ -61,7 +65,7 @@ run "$root" emerge repoman
 
 # run repoman on codebase
 echo 'Running repoman...' >&2
-run "$root" repoman -v full /usr/local/portage
+run "$root" cd /usr/local/portage '&&' repoman -v full
 
 # merge repoman
 echo 'Installing ' $packages '...' >&2
