@@ -5,5 +5,5 @@ HOMEPAGE=https://github.com/yudai/gotty
 KEYWORDS=-* ~amd64
 LICENSE=MPL-2.0
 SLOT=0
-SRC_URI=https://github.com/yudai/gotty/releases/download/v1.0.1/gotty_linux_amd64.tar.gz
-_md5_=c342c37eef4153fdf0dfe31969f9c935
+SRC_URI=https://github.com/yudai/gotty/releases/download/v1.0.1/gotty_linux_amd64.tar.gz -> gotty-bin-1.0.1_linux_amd64.tar.gz
+_md5_=1586e645e7547a6e95c98fc2e550d018
