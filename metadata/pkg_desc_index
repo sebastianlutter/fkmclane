@@ -107,7 +107,7 @@ dev-ruby/therubyracer 0.12.2 0.12.3: Embed the V8 JavaScript interpreter into Ru
 dev-ruby/timers 4.0.1: Pure Ruby one-shot and periodic timers
 dev-ruby/xdr 2.0.0: Read/write XDR encoded data structures
 dev-util/ffdec 10.0.0: Decompiler and editor of Flash SWF files
-dev-util/unity-editor 2017.1.2_rc1 2017.2.0_rc3: Editor for the Unity game engine
+dev-util/unity-editor 2017.1.2_rc1 2017.2.0_rc3 2017.3.0_beta1: Editor for the Unity game engine
 games-action/armagetronad 0.2.8.3.4 0.4-r1: A fast-paced 3D lightcycle game based on Tron
 games-action/armagetronad-dedicated 0.2.8.3.4 0.4-r1: A fast-paced 3D lightcycle game based on Tron - dedicated server
 games-arcade/nsnake 3.0.1-r1: A clone of the classic snake game on the terminal
