@@ -66,7 +66,7 @@ dev-ruby/msfrpc-client 1.1.1-r2: Ruby client API for Metasploit RPC
 dev-ruby/nessus_rest 0.1.6: Nessus REST interface library
 dev-ruby/net-dns 0.8.0: Ruby DNS library, with a clean OO interface and an extensible API
 dev-ruby/nexpose 7.1.1: API client for Nexpose vulnerability managment product
-dev-ruby/opt_parse_validator 0.0.13.8: Implementation of validators for the Ruby OptionParser library
+dev-ruby/opt_parse_validator 0.0.13.9: Implementation of validators for the Ruby OptionParser library
 dev-ruby/os 1.0.0: Useful OS detection functions
 dev-ruby/parseconfig 1.0.8: Provides simple parsing of standard *nix style config files.
 dev-ruby/pdf-reader 2.0.0-r1: PDF parser conforming as much as possible to the PDF specification from Adobe
