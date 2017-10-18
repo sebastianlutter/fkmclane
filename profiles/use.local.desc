@@ -14,7 +14,12 @@ dev-libs/beignet:ocl20 - Enable experimental OpenCL 2.0 support on Skylake and n
 dev-python/ruamel-yaml:libyaml - Add LibYAML support
 dev-python/slixmpp:cython - Enable Cython support
 dev-util/unity-editor:android - Enable Android target support
+dev-util/unity-editor:facebook - Enable Facebook Games target support
+dev-util/unity-editor:ios - Enable iOS target support
+dev-util/unity-editor:mac - Enable Mac Standalone target support
+dev-util/unity-editor:tizen - Enable Tizen target support
 dev-util/unity-editor:webgl - Enable WebGL target support
+dev-util/unity-editor:windows - Enable Windows Standalone target support
 games-action/armagetronad:auth - Enable armathentication support
 games-action/armagetronad:fortress - Enable support for fortress game mode
 games-action/armagetronad:glew - Enable media-libs/glew opengl extension library support
