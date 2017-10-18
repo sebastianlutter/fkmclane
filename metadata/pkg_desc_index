@@ -52,12 +52,8 @@ dev-ruby/em-websocket 0.5.1: EventMachine based WebSocket server
 dev-ruby/espeak-ruby 1.0.4: Ruby API for creating text-to-speech files
 dev-ruby/fastercsv 1.5.5: Faster replacement for the CSV standard library
 dev-ruby/geoip 1.6.3-r1: API for searching a GeoIP database
-dev-ruby/google-protobuf 3.4.1.1: Google Protocol Buffers
-dev-ruby/googleauth 0.5.3: Simple authorization for Google APIs
-dev-ruby/grpc 1.6.6: Send RPCs using GRPC
 dev-ruby/libv8 3.16.14.19: V8 JavaScript engine distribution
 dev-ruby/metasm 1.0.3: cross-architecture assembler, disassembler, linker, and debugger
-dev-ruby/metasploit-aggregator 1.0.0: Proxy for Meterpreter sessions
 dev-ruby/metasploit-concern 2.0.5: Metasploit concern allows you to define concerns in app/concerns.
 dev-ruby/metasploit-credential 2.0.12: Code for modeling and managing credentials in Metasploit
 dev-ruby/metasploit-model 2.0.4: Common code, such as validators and mixins
