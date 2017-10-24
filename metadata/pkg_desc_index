@@ -20,7 +20,7 @@ dev-python/brotlipy 0.6.0-r2 0.7.0-r1: Python binding to the Brotli library
 dev-python/colorclass 2.2.0: Yet another ANSI color text library for Python
 dev-python/jsbeautifier 1.6.14 1.7.4: Beautify, unpack or deobfuscate JavaScript
 dev-python/kaitaistruct 0.6 0.7: Kaitai Struct runtime for Python
-dev-python/linode-api 4.1.4_beta0 4.1.4_beta1: Official Python library for the Linode API v4
+dev-python/linode-api 4.1.4_beta0 4.1.4_beta2: Official Python library for the Linode API v4
 dev-python/pandocfilters 1.4.0-r1: A Python module for writing Pandoc filters
 dev-python/pastebin 1.1.2: Python Pastebin.com API
 dev-python/progressbar2 3.34.3: text progress bar library for Python
@@ -160,7 +160,7 @@ sys-apps/petty 0.1: petty, short for practically enhanced tty, is a tty session 
 sys-fs/exfat-nofuse 0_p20170619: Non-fuse kernel driver for exFat and VFat file systems
 sys-fs/pifs 9999: The data-free filesystem
 sys-fs/udiskie 1.7.2: An automatic disk mounting service using udisks
-sys-kernel/pf-sources 4.13_p9: Linux kernel fork with new features (-ck patchset (BFS), BFQ, TuxOnIce and UKSM)
+sys-kernel/pf-sources 4.13_p10: Linux kernel fork with new features (-ck patchset (BFS), BFQ, TuxOnIce and UKSM)
 www-apps/beef 0.4.7.0_p20171016: The Browser Exploitation Framework
 www-client/qutebrowser 9999: A keyboard-driven, vim-like browser based on PyQt5 and QtWebKit / QtWebEngine
 www-misc/Brosec 1.4.1: An interactive reference tool to help security professionals
