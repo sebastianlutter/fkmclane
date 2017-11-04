@@ -4,6 +4,7 @@ app-crypt/johntheripper 9999: fast password cracker
 app-editors/komodo-edit-bin 10.2.2-r2: Freeware advanced editor for dynamic and Web languages
 app-misc/blinkstick 1.1.8_p20161004: Python interface to control BlinkStick devices connected to the computer
 app-misc/cronic 3: a cure for cron's chronic email problem
+app-misc/cwiid 20110107-r3: Library, input driver, and utilities for the Nintendo Wiimote
 app-misc/gotty-bin 1.0.1-r1: Share your terminal as a web application
 app-misc/tty-clock 2.3: analog clock in ncurses
 app-misc/wemux 3.2.0_p20150822: multi-user tmux made easy
@@ -20,7 +21,7 @@ dev-python/brotlipy 0.6.0-r2 0.7.0-r1: Python binding to the Brotli library
 dev-python/colorclass 2.2.0: Yet another ANSI color text library for Python
 dev-python/jsbeautifier 1.6.14 1.7.4: Beautify, unpack or deobfuscate JavaScript
 dev-python/kaitaistruct 0.6 0.7: Kaitai Struct runtime for Python
-dev-python/linode-api 4.1.4_beta0 4.1.4_beta2: Official Python library for the Linode API v4
+dev-python/linode-api 4.1.4_beta0 4.1.4_beta4: Official Python library for the Linode API v4
 dev-python/pandocfilters 1.4.0-r1: A Python module for writing Pandoc filters
 dev-python/pastebin 1.1.2: Python Pastebin.com API
 dev-python/progressbar2 3.34.3: text progress bar library for Python
@@ -33,11 +34,11 @@ dev-python/ruamel-ordereddict 0.4.13: An ordered dictionary with KIO/KVIO
 dev-python/ruamel-yaml 0.13.14 0.15.34: YAML parser/emitter that supports roundtrip comment preservation
 dev-python/slixmpp 1.2.4-r1: Python library for XMPP - asyncio fork
 dev-python/terminaltables 3.1.0: Generate simple tables in terminals from a nested list of strings
-dev-python/twilio 6.8.1: Helper library for the Twilio API
+dev-python/twilio 6.8.3: Helper library for the Twilio API
 dev-python/vex 0.0.18: Run commands in a virtualenv
 dev-ruby/ascii85 1.0.2-r3: Methods for encoding/decoding Adobe's binary-to-text encoding of the same name
 dev-ruby/celluloid-io 0.16.2-r1: Evented IO for Celluloid actors
-dev-ruby/cms_scanner 0.0.37.11: Framework to provide an easy way to implement CMS Scanners
+dev-ruby/cms_scanner 0.0.37.12: Framework to provide an easy way to implement CMS Scanners
 dev-ruby/data_objects 0.10.17: A standard and simplified API for communicating with RDBMS
 dev-ruby/dm-constraints 1.2.0: DataMapper plugin constraining relationships
 dev-ruby/dm-core 1.2.1: DataMapper core library
@@ -66,7 +67,7 @@ dev-ruby/msfrpc-client 1.1.1-r2: Ruby client API for Metasploit RPC
 dev-ruby/nessus_rest 0.1.6: Nessus REST interface library
 dev-ruby/net-dns 0.8.0: Ruby DNS library, with a clean OO interface and an extensible API
 dev-ruby/nexpose 7.1.1: API client for Nexpose vulnerability managment product
-dev-ruby/opt_parse_validator 0.0.13.9: Implementation of validators for the Ruby OptionParser library
+dev-ruby/opt_parse_validator 0.0.13.11: Implementation of validators for the Ruby OptionParser library
 dev-ruby/os 1.0.0: Useful OS detection functions
 dev-ruby/parseconfig 1.0.8: Provides simple parsing of standard *nix style config files.
 dev-ruby/pdf-reader 2.0.0-r1: PDF parser conforming as much as possible to the PDF specification from Adobe
@@ -111,6 +112,7 @@ games-misc/lolcat 90.8.8: Rainbows and unicorns!
 games-misc/nyancat 1.5.1-r1: nyancat rendered in your terminal
 games-misc/pipes 1.2.0: animated pipes terminal screensaver
 media-gfx/maim 5.4.68: Command line tool to take screenshots of the desktop
+media-gfx/openscad 9999: The Programmers Solid 3D CAD Modeller
 media-gfx/sk1 2.0_rc2: an open-source illustration program
 media-libs/libshairport 1.2.1_p20121215: A library for emulating an AirPort Express
 media-libs/openvr 1.0.10: API and runtime for accessing VR hardware from multiple vendors
@@ -139,7 +141,7 @@ net-analyzer/bettercap 1.6.2: A complete, modular, portable and easily extensibl
 net-analyzer/metasploit 4.16.11 9999: Advanced framework for developing, testing, and using vulnerability exploit code
 net-analyzer/nikto 2.1.6_p20170921: web server vulnerability scanner
 net-analyzer/spaghetti 0.1.2: Spaghetti web application security scanner
-net-analyzer/wpscan 3.0.5: WordPress vulnerability scanner
+net-analyzer/wpscan 3.0.6: WordPress vulnerability scanner
 net-fs/pingfs 9999: 'True' cloud storage
 net-im/discord-bin 0.0.2-r3: All-in-one voice and text chat for gamers
 net-im/hangups 9999: Third Party IM Client for Google Hangouts
@@ -160,7 +162,7 @@ sys-apps/petty 0.1: petty, short for practically enhanced tty, is a tty session 
 sys-fs/exfat-nofuse 0_p20170619: Non-fuse kernel driver for exFat and VFat file systems
 sys-fs/pifs 9999: The data-free filesystem
 sys-fs/udiskie 1.7.2: An automatic disk mounting service using udisks
-sys-kernel/pf-sources 4.13_p10: Linux kernel fork with new features (-ck patchset (BFS), BFQ, TuxOnIce and UKSM)
+sys-kernel/pf-sources 4.13_p12: Linux kernel fork with new features (-ck patchset (BFS), BFQ, TuxOnIce and UKSM)
 www-apps/beef 0.4.7.0_p20171016: The Browser Exploitation Framework
 www-client/qutebrowser 9999: A keyboard-driven, vim-like browser based on PyQt5 and QtWebKit / QtWebEngine
 www-misc/Brosec 1.4.1: An interactive reference tool to help security professionals
@@ -170,6 +172,6 @@ x11-misc/awf 1.4.0: A Widget Factory
 x11-misc/barline 0.2.8: a simple data collector and formatter for lemonbar and bspwm
 x11-misc/clipster 1.2.5: simple clipboard manager
 x11-misc/lemonbar 1.2_p20161116: a featherweight, lemon-scented, bar based on xcb
-x11-misc/rofi-pass 1.5.2: Rofi frontend for pass
+x11-misc/rofi-pass 1.5.3: Rofi frontend for pass
 x11-misc/slop 7.3.49-r1: An application that queries the user for a selection for printing
 x11-themes/arc-openbox-theme 0_p20170104: Openbox theme created to fit in nicely with the Arc GTK theme
