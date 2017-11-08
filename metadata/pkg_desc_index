@@ -38,7 +38,7 @@ dev-python/twilio 6.8.3: Helper library for the Twilio API
 dev-python/vex 0.0.18: Run commands in a virtualenv
 dev-ruby/ascii85 1.0.2-r3: Methods for encoding/decoding Adobe's binary-to-text encoding of the same name
 dev-ruby/celluloid-io 0.16.2-r1: Evented IO for Celluloid actors
-dev-ruby/cms_scanner 0.0.37.12: Framework to provide an easy way to implement CMS Scanners
+dev-ruby/cms_scanner 0.0.38.1: Framework to provide an easy way to implement CMS Scanners
 dev-ruby/data_objects 0.10.17: A standard and simplified API for communicating with RDBMS
 dev-ruby/dm-constraints 1.2.0: DataMapper plugin constraining relationships
 dev-ruby/dm-core 1.2.1: DataMapper core library
@@ -67,7 +67,7 @@ dev-ruby/msfrpc-client 1.1.1-r2: Ruby client API for Metasploit RPC
 dev-ruby/nessus_rest 0.1.6: Nessus REST interface library
 dev-ruby/net-dns 0.8.0: Ruby DNS library, with a clean OO interface and an extensible API
 dev-ruby/nexpose 7.1.1: API client for Nexpose vulnerability managment product
-dev-ruby/opt_parse_validator 0.0.13.11: Implementation of validators for the Ruby OptionParser library
+dev-ruby/opt_parse_validator 0.0.14.1: Implementation of validators for the Ruby OptionParser library
 dev-ruby/os 1.0.0: Useful OS detection functions
 dev-ruby/parseconfig 1.0.8: Provides simple parsing of standard *nix style config files.
 dev-ruby/pdf-reader 2.0.0-r1: PDF parser conforming as much as possible to the PDF specification from Adobe
@@ -123,7 +123,7 @@ media-plugins/kodi-inputstream-adaptive 9999: Kodi's Adaptive inputstream addon
 media-plugins/kodi-netflix 9999: Inputstream based Netflix plugin for Kodi
 media-plugins/kodi-widevine 1.4.8.1008: An adapter for playing DRM content
 media-plugins/midifilter-lv2 0.4.7: LV2 plugins to filter MIDI events
-media-plugins/plex-for-kodi 0.1.1: Plex's official Plex add-on for Kodi.
+media-plugins/plex-for-kodi 0.1.3: Plex's official Plex add-on for Kodi.
 media-plugins/plex-kodi-connect 1.8.18: Combine the frontend media player Kodi with the multimedia backend server Plex
 media-sound/frescobaldi 9999: A LilyPond sheet music text editor
 media-sound/gxtuner 2.4 9999: A simple guitar tuner for JACK
@@ -141,7 +141,7 @@ net-analyzer/bettercap 1.6.2: A complete, modular, portable and easily extensibl
 net-analyzer/metasploit 4.16.11 9999: Advanced framework for developing, testing, and using vulnerability exploit code
 net-analyzer/nikto 2.1.6_p20170921: web server vulnerability scanner
 net-analyzer/spaghetti 0.1.2: Spaghetti web application security scanner
-net-analyzer/wpscan 3.0.6: WordPress vulnerability scanner
+net-analyzer/wpscan 3.0.7: WordPress vulnerability scanner
 net-fs/pingfs 9999: 'True' cloud storage
 net-im/discord-bin 0.0.2-r3: All-in-one voice and text chat for gamers
 net-im/hangups 9999: Third Party IM Client for Google Hangouts
@@ -153,7 +153,7 @@ net-wireless/create_ap 0.4.6: A script to create a NATed or bridged WiFi access 
 net-wireless/hostapd 2.6: IEEE 802.11 wireless LAN Host AP daemon
 net-wireless/sniffair 1.1: SniffAir framework for wireless pentesting
 net-wireless/unifi 5.5.24: Management Controller for Ubiquiti Networks UniFi APs
-sci-electronics/eagle 8.4.0: EAGLE schematic and printed circuit board (PCB) layout editor
+sci-electronics/eagle 8.4.1: EAGLE schematic and printed circuit board (PCB) layout editor
 sci-electronics/freeroute 1.2.43_p20150316: popular PCB routing and autorouting program
 sci-electronics/fritzing-bin 0.9.3b: Fritzing makes electronics accessible as a creative material for anyone
 sci-physics/chipmunk 7.0.2: Chipmunk2D is a lightweight, fast, and portable 2D rigid body physics library
