@@ -13,7 +13,7 @@ app-vim/neovim-remote 1.7.4: Neovim support for --remote and friends
 dev-db/sqlmap 1.1.10 9999: Automatic SQL injection and database takeover tool
 dev-embedded/arduino-bin 1.8.5: electronics prototyping platform based on easy-to-use hardware and software
 dev-embedded/energia-bin 1.6.10_p18-r1: electronics prototyping platform for TI MSP430 LaunchPad based on Arduino
-dev-embedded/teensyduino-bin 1.39 1.40_beta2: USB-based electronics prototyping platform compatible with Arduino
+dev-embedded/teensyduino-bin 1.40: USB-based electronics prototyping platform compatible with Arduino
 dev-games/mcedit 2.0.0_beta11: Minecraft save game editor
 dev-lang/kaitai-struct-compiler 0.7: Compiler for the Kaitai Struct project
 dev-libs/beignet 1.3.1-r2: OpenCL implementation for Intel GPUs
@@ -141,7 +141,7 @@ net-analyzer/bettercap 1.6.2: A complete, modular, portable and easily extensibl
 net-analyzer/metasploit 4.16.11 9999: Advanced framework for developing, testing, and using vulnerability exploit code
 net-analyzer/nikto 2.1.6_p20170921: web server vulnerability scanner
 net-analyzer/spaghetti 0.1.2: Spaghetti web application security scanner
-net-analyzer/wpscan 3.0.7: WordPress vulnerability scanner
+net-analyzer/wpscan 3.0.7-r1: WordPress vulnerability scanner
 net-fs/pingfs 9999: 'True' cloud storage
 net-im/discord-bin 0.0.2-r3: All-in-one voice and text chat for gamers
 net-im/hangups 9999: Third Party IM Client for Google Hangouts
