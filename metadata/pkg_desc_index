@@ -141,7 +141,7 @@ net-analyzer/bettercap 1.6.2: A complete, modular, portable and easily extensibl
 net-analyzer/metasploit 4.16.11 9999: Advanced framework for developing, testing, and using vulnerability exploit code
 net-analyzer/nikto 2.1.6_p20170921: web server vulnerability scanner
 net-analyzer/spaghetti 0.1.2: Spaghetti web application security scanner
-net-analyzer/wpscan 3.0.7-r1: WordPress vulnerability scanner
+net-analyzer/wpscan 3.0.8: WordPress vulnerability scanner
 net-fs/pingfs 9999: 'True' cloud storage
 net-im/discord-bin 0.0.2-r3: All-in-one voice and text chat for gamers
 net-im/hangups 9999: Third Party IM Client for Google Hangouts
