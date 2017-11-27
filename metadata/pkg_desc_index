@@ -7,6 +7,7 @@ app-misc/cronic 3: a cure for cron's chronic email problem
 app-misc/cwiid 20110107-r3: Library, input driver, and utilities for the Nintendo Wiimote
 app-misc/gotty-bin 1.0.1-r1: Share your terminal as a web application
 app-misc/tty-clock 2.3: analog clock in ncurses
+app-misc/urserver-bin 3.6.0: Unified Remote Server
 app-misc/wemux 3.2.0_p20150822: multi-user tmux made easy
 app-shells/elvish 0.10.1: A novel Unix shell
 app-vim/neovim-remote 1.7.4: Neovim support for --remote and friends
