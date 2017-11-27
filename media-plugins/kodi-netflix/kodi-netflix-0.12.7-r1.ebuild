@@ -16,7 +16,7 @@ case ${PV} in
 	inherit git-r3
 	;;
 *)
-	KEYWORDS="~amd64 ~x86"
+	KEYWORDS=""
 	SRC_URI="https://github.com/asciidisco/plugin.video.netflix/archive/${PV}.tar.gz -> ${P}.tar.gz"
 	S="${WORKDIR}/plugin.video.netflix-${PV}"
 	;;
@@ -29,7 +29,7 @@ IUSE=""
 DEPEND=""
 RDEPEND="
 	>=media-tv/kodi-9999
-	>=media-plugins/kodi-inputstream-adaptive-2.0
+	=media-plugins/kodi-inputstream-adaptive-2*
 	>=media-plugins/kodi-widevine-1.4.8.970
 	<dev-python/pycparser-2.18
 	dev-python/pycryptodomex[python_targets_python2_7]
