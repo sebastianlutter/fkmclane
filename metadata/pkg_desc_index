@@ -16,7 +16,6 @@ dev-embedded/energia-bin 1.6.10_p18-r1: electronics prototyping platform for TI 
 dev-embedded/teensyduino-bin 1.40: USB-based electronics prototyping platform compatible with Arduino
 dev-games/mcedit 2.0.0_beta11: Minecraft save game editor
 dev-lang/kaitai-struct-compiler 0.7: Compiler for the Kaitai Struct project
-dev-libs/beignet 1.3.1-r2: OpenCL implementation for Intel GPUs
 dev-python/brotlipy 0.6.0-r2 0.7.0-r1: Python binding to the Brotli library
 dev-python/colorclass 2.2.0: Yet another ANSI color text library for Python
 dev-python/jsbeautifier 1.6.14 1.7.4: Beautify, unpack or deobfuscate JavaScript
