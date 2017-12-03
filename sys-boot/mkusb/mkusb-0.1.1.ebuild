@@ -3,8 +3,8 @@
 
 EAPI=6
 
-DESCRIPTION="mkwin is a tool for creating a bootable USB from a Windows ISO"
-HOMEPAGE="https://github.com/fkmclane/mkwin"
+DESCRIPTION="mkusb is an ISO multiboot USB tool with support for Legacy/EFI x86/amd64"
+HOMEPAGE="https://github.com/fkmclane/mkusb"
 SRC_URI="https://github.com/fkmclane/${PN}/archive/v${PV}.tar.gz -> ${P}.tar.gz"
 
 LICENSE="MIT"
@@ -14,11 +14,9 @@ IUSE=""
 
 DEPEND=""
 RDEPEND="
-	app-arch/p7zip
 	dev-util/dialog
 	sys-boot/grub
 	sys-fs/dosfstools
-	sys-fs/ntfs3g
 "
 
 src_compile() {
@@ -28,4 +26,9 @@ src_compile() {
 
 src_install() {
 	newsbin "${PN}".sh "${PN}"
+
+	doman "${PN}".1
+
+	insinto /usr/share/"${PN}"
+	doins -r examples
 }
