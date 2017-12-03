@@ -31,10 +31,10 @@ dev-python/python-ntlm 1.1.0-r1: Python library for NTLM support
 dev-python/python-poppler-qt5 9999: A python binding for libpoppler-qt5
 dev-python/python-utils 2.2.0-r1: a collection of functions and classes which shortens common patterns
 dev-python/ruamel-ordereddict 0.4.13: An ordered dictionary with KIO/KVIO
-dev-python/ruamel-yaml 0.13.14 0.15.34: YAML parser/emitter that supports roundtrip comment preservation
-dev-python/slixmpp 1.2.4-r1: Python library for XMPP - asyncio fork
+dev-python/ruamel-yaml 0.13.14 0.15.35: YAML parser/emitter that supports roundtrip comment preservation
+dev-python/slixmpp 1.3.0: Python library for XMPP - asyncio fork
 dev-python/terminaltables 3.1.0: Generate simple tables in terminals from a nested list of strings
-dev-python/twilio 6.9.0: Helper library for the Twilio API
+dev-python/twilio 6.9.1: Helper library for the Twilio API
 dev-python/vex 0.0.18: Run commands in a virtualenv
 dev-ruby/ascii85 1.0.2-r3: Methods for encoding/decoding Adobe's binary-to-text encoding of the same name
 dev-ruby/celluloid-io 0.16.2-r1: Evented IO for Celluloid actors
@@ -118,7 +118,7 @@ media-libs/libshairport 1.2.1_p20121215: A library for emulating an AirPort Expr
 media-libs/openvr 1.0.10: API and runtime for accessing VR hardware from multiple vendors
 media-libs/zita-resampler 1.6.0: A C++ library for resampling audio signals
 media-plugins/calf 0.90.0 9999: A set of open source instruments and effects for digital audio workstations
-media-plugins/gxplugins-lv2 0.3 9999: A set of LV2 plugins from the Guitarix project
+media-plugins/gxplugins-lv2 0.4 9999: A set of LV2 plugins from the Guitarix project
 media-plugins/kodi-inputstream-adaptive 2.0.10: Kodi's Adaptive inputstream addon
 media-plugins/kodi-netflix 0.12.7-r1: Inputstream based Netflix plugin for Kodi
 media-plugins/kodi-widevine 1.4.8.1029: An adapter for playing DRM content
