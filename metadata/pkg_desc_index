@@ -22,6 +22,7 @@ dev-python/colorclass 2.2.0: Yet another ANSI color text library for Python
 dev-python/jsbeautifier 1.6.14 1.7.4: Beautify, unpack or deobfuscate JavaScript
 dev-python/kaitaistruct 0.6 0.7: Kaitai Struct runtime for Python
 dev-python/linode-api 4.1.4_beta0 4.1.4_beta4: Official Python library for the Linode API v4
+dev-python/node-semver 0.2.0: Python version of node-semver, the semantic versioner for npm
 dev-python/pandocfilters 1.4.0-r1: A Python module for writing Pandoc filters
 dev-python/pastebin 1.1.2: Python Pastebin.com API
 dev-python/progressbar2 3.34.3: text progress bar library for Python
