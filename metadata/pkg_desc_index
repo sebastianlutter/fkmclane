@@ -102,6 +102,7 @@ dev-ruby/slack-notifier 2.3.1: A simple Ruby wrapper for posting to Slack channe
 dev-ruby/therubyracer 0.12.2 0.12.3: Embed the V8 JavaScript interpreter into Ruby
 dev-ruby/timers 4.0.1: Pure Ruby one-shot and periodic timers
 dev-ruby/xdr 2.0.0: Read/write XDR encoded data structures
+dev-util/conan 0.30.2: Distributed C/C++ package manager
 dev-util/ffdec 10.0.0: Decompiler and editor of Flash SWF files
 dev-util/unity-editor 2017.1.2_rc1 2017.2.0_rc3 2017.3.0_rc1: Editor for the Unity game engine
 games-action/armagetronad 0.2.8.3.4 0.4-r1: A fast-paced 3D lightcycle game based on Tron
