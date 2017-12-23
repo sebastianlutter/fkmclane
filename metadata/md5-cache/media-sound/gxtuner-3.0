@@ -7,5 +7,5 @@ KEYWORDS=~amd64 ~x86
 LICENSE=GPL-2
 RDEPEND=x11-libs/cairo sci-libs/fftw:3.0/3 dev-libs/glib x11-libs/gtk+:3 media-libs/zita-resampler media-sound/jack-audio-connection-kit
 SLOT=0
-SRC_URI=https://github.com/brummer10/gxtuner/archive/v2.4.tar.gz -> gxtuner-2.4.tar.gz
+SRC_URI=https://github.com/brummer10/gxtuner/archive/v3.0.tar.gz -> gxtuner-3.0.tar.gz
 _md5_=2f35c02b38184155d2d96bb875a44c06
