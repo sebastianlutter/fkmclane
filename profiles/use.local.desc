@@ -8,6 +8,11 @@ games-action/armagetronad:glew - Enable media-libs/glew opengl extension library
 games-action/armagetronad:music - Enable background music support
 games-action/armagetronad-dedicated:auth - Enable armathentication support
 games-action/armagetronad-dedicated:fortress - Enable support for fortress game mode
+games-emulation/dolphin:egl - Enable EGL support
+games-emulation/dolphin:evdev - Enable evdev input support
+games-emulation/dolphin:llvm - Enable the LLVM-based disassembler for debugger mode
+games-emulation/dolphin:log - Increase logging output
+games-emulation/dolphin:lto - Add support for link-time optimizations.
 media-tv/plex-media-player:cec - Enable support for HDMI-CEC devices via dev-libs/libcec
 media-tv/plex-media-player:desktop - Enable support for the desktop web-client
 media-tv/plex-media-server:pax_kernel - Add PaX markings to executables
