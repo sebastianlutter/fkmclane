@@ -7,4 +7,4 @@ RDEPEND=>=media-tv/kodi-9999 =media-plugins/kodi-inputstream-adaptive-2* >=media
 SLOT=0
 SRC_URI=https://github.com/asciidisco/plugin.video.netflix/archive/0.12.7.tar.gz -> kodi-netflix-0.12.7.tar.gz
 _eclasses_=multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	885c7d8dd70a58825f3d17e35a3cd1e9
-_md5_=85a46d34eec7c6579c3dae9e712ec845
+_md5_=dc07c9694956c86fce2cab220a8772d2

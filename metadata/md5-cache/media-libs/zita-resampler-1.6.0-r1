@@ -9,4 +9,4 @@ LICENSE=GPL-3
 RDEPEND=tools? ( media-libs/libsndfile )
 SLOT=0
 SRC_URI=http://kokkinizita.linuxaudio.org/linuxaudio/downloads/zita-resampler-1.6.0.tar.bz2
-_md5_=447ef17c085039f6b55ab3821474116e
+_md5_=b4dbcf7336b185d264866608cffb59ec

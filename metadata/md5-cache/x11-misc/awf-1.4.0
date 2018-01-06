@@ -8,4 +8,4 @@ LICENSE=GPL-3
 RDEPEND=x11-libs/gtk+:2 x11-libs/gtk+:3
 SLOT=0
 SRC_URI=https://github.com/valr/awf/archive/v1.4.0.tar.gz -> awf-1.4.0.tar.gz
-_md5_=a4613c79a5127bdb6a260d11ccf0587b
+_md5_=47dab8e643f58e64af54f5bb8c9ca294

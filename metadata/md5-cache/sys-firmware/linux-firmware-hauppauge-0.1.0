@@ -6,4 +6,4 @@ KEYWORDS=~amd64 ~x86
 LICENSE=Hauppauge-Firmware
 SLOT=0
 SRC_URI=https://launchpad.net/~b-rad/+archive/ubuntu/kernel+mediatree+hauppauge/+files/linux-firmware-hauppauge_0.1.0+zesty.tar.gz
-_md5_=173f1c556dd79e91be3f143596e31256
+_md5_=f0ffb419233db14a297f92960e0181bc

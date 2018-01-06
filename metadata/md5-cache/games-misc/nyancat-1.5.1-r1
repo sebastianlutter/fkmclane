@@ -6,4 +6,4 @@ KEYWORDS=amd64 x86
 LICENSE=UoI-NCSA
 SLOT=0
 SRC_URI=https://github.com/klange/nyancat/archive/1.5.1.tar.gz -> nyancat-1.5.1.tar.gz
-_md5_=442094665eae225349b6229cf10bf412
+_md5_=bbc9aecad3c42bb5d112bc39698dbe44
