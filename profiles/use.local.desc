@@ -16,6 +16,7 @@ games-emulation/dolphin:lto - Add support for link-time optimizations.
 media-tv/plex-media-player:cec - Enable support for HDMI-CEC devices via dev-libs/libcec
 media-tv/plex-media-player:desktop - Enable support for the desktop web-client
 media-tv/plex-media-server:pax_kernel - Add PaX markings to executables
+media-tv/plex-media-server:system-openssl - Add PaX markings to executables
 net-wireless/hostapd:crda - Add CRDA support
 net-wireless/hostapd:karma_cli - Add support for Karma patch functionality
 net-wireless/hostapd:logwatch - Install support files for sys-apps/logwatch
