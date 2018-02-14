@@ -8,34 +8,36 @@ PYTHON_REQ_USE='sqlite(+)'
 inherit python-single-r1 systemd versionator
 
 DESCRIPTION="A python based web application for monitoring your Plex Media Server."
-HOMEPAGE="https://github.com/drzoidberg33/plexpy"
+HOMEPAGE="https://tautulli.com"
 MY_PV="${PV/_beta/-beta}"
-MY_P="${PN}-${MY_PV}"
-SRC_URI="https://github.com/drzoidberg33/${PN}/archive/v${MY_PV}.tar.gz -> ${MY_P}.tar.gz"
+MY_PN="Tautulli"
+MY_P="${MY_PN}-${MY_PV}"
+SRC_URI="https://github.com/${MY_PN}/${MY_PN}/archive/v${MY_PV}.tar.gz -> ${MY_P}.tar.gz"
 
 LICENSE="GPL-3"
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 IUSE=""
 
+DEPEND="
+	${PYTHON_DEPS}
+"
+
 RDEPEND="
+	media-tv/plex-media-server
 	dev-python/pyopenssl
 	${DEPEND}
-"
-DEPEND="
-	media-tv/plex-media-server
-	${PYTHON_DEPS}
 "
 
 S="${WORKDIR}/${MY_P}"
 
 src_install() {
 	dodoc API.md CHANGELOG.md CONTRIBUTING.md ISSUE_TEMPLATE.md README.md
-	dodir /opt/plexpy/
-	cp -R contrib data lib plexpy pylintrc PlexPy.py "${D}/opt/plexpy" || die
-	dodir /etc/plexpy
-	dosym  /opt/plexpy/config.ini /etc/plexpy/config.ini
-	fowners -R plex:plex "/opt/plexpy"
+	insinto "/opt/${PN}"
+	doins -r contrib data lib plexpy pylintrc PlexPy.py || die
+	dodir /etc/${PN}
+	dosym /opt/${PN}/config.ini /etc/${PN}/config.ini
+	fowners -R plex:plex "/opt/${PN}"
 
-	systemd_dounit  "${FILESDIR}"/plexpy.service
+	systemd_dounit  "${FILESDIR}/${PN}.service"
 }
