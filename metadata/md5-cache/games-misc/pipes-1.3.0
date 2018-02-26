@@ -5,5 +5,5 @@ HOMEPAGE=https://github.com/pipeseroni/pipes.sh
 KEYWORDS=~amd64 ~x86
 LICENSE=MIT
 SLOT=0
-SRC_URI=https://github.com/pipeseroni/pipes.sh/archive/v1.2.0.tar.gz -> pipes-1.2.0.tar.gz
-_md5_=fb70b1fdf4c3604d9389d34c93d51e00
+SRC_URI=https://github.com/pipeseroni/pipes.sh/archive/v1.3.0.tar.gz -> pipes-1.3.0.tar.gz
+_md5_=ba3992d07b03cae0c2e8382265049369
