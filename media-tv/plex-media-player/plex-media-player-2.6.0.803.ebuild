@@ -8,12 +8,24 @@ inherit eutils gnome2-utils cmake-utils
 DESCRIPTION="Next generation Plex Desktop/Embedded Client"
 HOMEPAGE="http://plex.tv/"
 
-COMMIT="54a020cd"
+# To change on every release bump:
+COMMIT="edcf527b"
+WEB_CLIENT_BUILD_ID="16-c8e3ad6207c979"
+WEB_CLIENT_DESKTOP_VERSION="3.37.2-207c979"
+WEB_CLIENT_TV_VERSION="3.40.3-c8e3ad6"
+
 MY_PV="${PV}-${COMMIT}"
 MY_P="${PN}-${MY_PV}"
 
 SRC_URI="
 	https://github.com/plexinc/${PN}/archive/v${MY_PV}.tar.gz -> ${P}.tar.gz
+	https://artifacts.plex.tv/web-client-pmp/${WEB_CLIENT_BUILD_ID}/buildid.cmake -> buildid-${WEB_CLIENT_BUILD_ID}.cmake
+	https://artifacts.plex.tv/web-client-pmp/${WEB_CLIENT_BUILD_ID}/web-client-tv-${WEB_CLIENT_TV_VERSION}.tar.xz
+	https://artifacts.plex.tv/web-client-pmp/${WEB_CLIENT_BUILD_ID}/web-client-tv-${WEB_CLIENT_TV_VERSION}.tar.xz.sha1
+	desktop? (
+		https://artifacts.plex.tv/web-client-pmp/${WEB_CLIENT_BUILD_ID}/web-client-desktop-${WEB_CLIENT_DESKTOP_VERSION}.tar.xz
+		https://artifacts.plex.tv/web-client-pmp/${WEB_CLIENT_BUILD_ID}/web-client-desktop-${WEB_CLIENT_DESKTOP_VERSION}.tar.xz.sha1
+	)
 "
 
 LICENSE="GPL-2 PMS-EULA"
@@ -67,6 +79,7 @@ PATCHES=(
 )
 
 S="${WORKDIR}/${MY_P}"
+DEPENDENCIES_DIR="${S}/dependencies"
 
 CMAKE_IN_SOURCE_BUILD=1
 
@@ -74,6 +87,22 @@ src_prepare() {
 	sed -i -e '/^  install(FILES ${QTROOT}\/resources\/qtwebengine_devtools_resources.pak DESTINATION resources)$/d' src/CMakeLists.txt || die
 
 	cmake-utils_src_prepare
+
+	# Avoid to download during the build process
+	mkdir -p "${DEPENDENCIES_DIR}"
+	cp "${DISTDIR}/buildid-${WEB_CLIENT_BUILD_ID}.cmake" "${DEPENDENCIES_DIR}"
+	# Desktop client
+	if use desktop; then
+		cp "${DISTDIR}/web-client-desktop-${WEB_CLIENT_DESKTOP_VERSION}.tar.xz" "${DEPENDENCIES_DIR}"
+		cp "${DISTDIR}/web-client-desktop-${WEB_CLIENT_DESKTOP_VERSION}.tar.xz.sha1" "${DEPENDENCIES_DIR}"
+		mkdir -p "${DEPENDENCIES_DIR}/universal-web-client-desktop/${WEB_CLIENT_BUILD_ID}"
+		mv "${WORKDIR}/web-client-desktop-${WEB_CLIENT_DESKTOP_VERSION}" "${DEPENDENCIES_DIR}/universal-web-client-desktop/${WEB_CLIENT_BUILD_ID}"
+	fi
+	# Full screen TV client
+	cp "${DISTDIR}/web-client-tv-${WEB_CLIENT_TV_VERSION}.tar.xz" "${DEPENDENCIES_DIR}"
+	cp "${DISTDIR}/web-client-tv-${WEB_CLIENT_TV_VERSION}.tar.xz.sha1" "${DEPENDENCIES_DIR}"
+	mkdir -p "${DEPENDENCIES_DIR}/universal-web-client-tv/${WEB_CLIENT_BUILD_ID}"
+	mv "${WORKDIR}/web-client-tv-${WEB_CLIENT_TV_VERSION}" "${DEPENDENCIES_DIR}/universal-web-client-tv/${WEB_CLIENT_BUILD_ID}"
 
 	eapply_user
 }
@@ -84,7 +113,7 @@ src_configure() {
 		-DENABLE_SDL2=$(usex joystick)
 		-DENABLE_LIRC=$(usex lirc)
 		-DQTROOT=/usr/share/qt5
-		-DWEB_CLIENT_DISABLE_DESKTOP=$(usex desktop "no" "yes")
+		-DWEB_CLIENT_DISABLE_DESKTOP=$(usex desktop "OFF" "ON")
 	)
 
 	export BUILD_NUMBER="${BUILD}"
