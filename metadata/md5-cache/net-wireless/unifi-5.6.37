@@ -1,0 +1,13 @@
+DEFINED_PHASES=install setup
+DEPEND=virtual/pkgconfig
+DESCRIPTION=Management Controller for Ubiquiti Networks UniFi APs
+EAPI=6
+HOMEPAGE=http://wiki.ubnt.com/UniFi_FAQ
+KEYWORDS=~amd64 ~x86
+LICENSE=UniFi-EULA
+RDEPEND=dev-db/mongodb >=virtual/jre-1.7
+RESTRICT=bindist mirror preserve-libs
+SLOT=0
+SRC_URI=http://dl.ubnt.com/unifi/5.6.37/UniFi.unix.zip -> unifi-5.6.37.zip
+_eclasses_=multilib	97f470f374f2e94ccab04a2fb21d811e	systemd	a31844b675f1a1fea87fbe1144aee5f5	toolchain-funcs	885c7d8dd70a58825f3d17e35a3cd1e9	user	8bc2845510e2109af75e3eeac607ec81
+_md5_=840c7745ca4f31629d8636e0a386a05e
