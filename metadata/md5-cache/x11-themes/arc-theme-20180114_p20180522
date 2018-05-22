@@ -3,11 +3,11 @@ DEPEND=dev-lang/sassc gtk3? ( >=x11-libs/gtk+-3.14:3 virtual/pkgconfig ) >=app-p
 DESCRIPTION=A flat theme with transparent elements for GTK+3, GTK+2 and GNOME Shell
 EAPI=6
 HOMEPAGE=https://github.com/NicoHood/arc-theme
-IUSE=cinnamon gnome-shell +gtk2 +gtk3 mate xfce
+IUSE=cinnamon gnome-shell +gtk2 +gtk3 mate openbox xfce
 KEYWORDS=~amd64 ~arm ~x86
 LICENSE=GPL-3
 RDEPEND=gtk2? ( x11-themes/gnome-themes-standard x11-themes/gtk-engines-murrine )
 SLOT=0
-SRC_URI=https://github.com/NicoHood/arc-theme/archive/20180114.tar.gz -> arc-theme-20180114.tar.gz
+SRC_URI=https://github.com/NicoHood/arc-theme/archive/7de6f06ffa06fd934badc51207e77a4ca94793c5.tar.gz -> arc-theme-20180114_p20180522.tar.gz
 _eclasses_=autotools	d0e5375d47f4c809f406eb892e531513	libtool	0081a71a261724730ec4c248494f044d	multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	fa02994d0beba88681127d93da4411ec
-_md5_=163f8be9ec9991674ef124a62041388f
+_md5_=eef6612299cf3165e1a1d46a4561896b
