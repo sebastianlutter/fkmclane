@@ -11,5 +11,5 @@ games-emulation/dolphin 5.0-r1: Gamecube and Wii game emulator
 games-misc/nyancat 1.5.1-r1: nyancat rendered in your terminal
 media-libs/libshairport 1.2.1_p20121215: A library for emulating an AirPort Express
 media-tv/plex-home-theater 1.4.1-r1: Plex Home Theater
-media-tv/plex-media-server 1.13.0.5023: A free media library that is intended for use with a plex client.
+media-tv/plex-media-server 1.13.2.5142: A free media library that is intended for use with a plex client.
 sys-apps/fix-gnustack 0.1: Utility to report and remove the executable flag from an ELF object's GNU_STACK
