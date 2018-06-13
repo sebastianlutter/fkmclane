@@ -1,10 +1,10 @@
 DEFINED_PHASES=unpack
-DEPEND=x11-libs/cairo sci-libs/fftw:3.0/3 dev-libs/glib x11-libs/gtk+:3 media-libs/zita-resampler media-sound/jack-audio-connection-kit virtual/pkgconfig >=dev-vcs/git-1.8.2.1
+DEPEND=x11-libs/cairo sci-libs/fftw:3.0/3 dev-libs/glib x11-libs/gtk+:3 media-libs/zita-resampler media-sound/jack-audio-connection-kit virtual/pkgconfig >=dev-vcs/git-1.8.2.1[curl]
 DESCRIPTION=A simple guitar tuner for JACK
 EAPI=6
 HOMEPAGE=https://github.com/brummer10/gxtuner
 LICENSE=GPL-2
 RDEPEND=x11-libs/cairo sci-libs/fftw:3.0/3 dev-libs/glib x11-libs/gtk+:3 media-libs/zita-resampler media-sound/jack-audio-connection-kit
 SLOT=0
-_eclasses_=git-r3	af51ccfceeb403ab80f1bf9209d372c8
+_eclasses_=git-r3	8f6de46b0aa318aea0e8cac62ece098b
 _md5_=69d2109947a0b88a060672dcc65f2508
