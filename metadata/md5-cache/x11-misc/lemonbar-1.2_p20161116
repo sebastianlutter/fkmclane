@@ -9,5 +9,5 @@ LICENSE=MIT
 RDEPEND=x11-libs/libxcb xft? ( x11-libs/libXft )
 REQUIRED_USE=sm? ( xft )
 SLOT=0
-SRC_URI=sm? ( xft? ( https://github.com/osense/bar/archive/1b9b3cb23eeac15872ade4119335fd90cec89ec2.tar.gz -> lemonbar-1.2_p20161116-sm.tar.gz ) ) !sm? ( xft? ( https://github.com/osense/bar/archive/043ad4757cc079666f50212ee0a2ef0729ecac6b.tar.gz -> lemonbar-1.2_p20161116-xft.tar.gz ) ) !sm? ( !xft? ( https://github.com/osense/bar/archive/d680ea4256637bc89d59342cf6ac6c6f5fe62dec.tar.gz -> lemonbar-1.2_p20161116.tar.gz ) )
-_md5_=b17501f293065742ec861084b2e285bc
+SRC_URI=sm? ( xft? ( https://github.com/osense/bar/archive/ba126f832277b00c2f8c8e0850434542b8452d33.tar.gz -> lemonbar-1.2_p20161116-sm.tar.gz ) ) !sm? ( xft? ( https://github.com/osense/bar/archive/00a3fe6f3485203896156480e86014136749a221.tar.gz -> lemonbar-1.2_p20161116-xft.tar.gz ) ) !sm? ( !xft? ( https://github.com/osense/bar/archive/d680ea4256637bc89d59342cf6ac6c6f5fe62dec.tar.gz -> lemonbar-1.2_p20161116.tar.gz ) )
+_md5_=366d9bf9613d372ed5779d9e6cfc6046
