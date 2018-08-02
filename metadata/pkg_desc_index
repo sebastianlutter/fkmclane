@@ -1,12 +1,10 @@
 app-misc/cronic 3: a cure for cron's chronic email problem
 dev-dotnet/gnome-sharp 2.24.2-r2: gnome bindings for mono
 dev-dotnet/gtk-sharp 2.12.21-r1: gtk bindings for mono
-dev-python/namespace-ruamel 1: Namespace package declaration for ruamel
 dev-python/netifaces 0.10.4: Portable network interface information
 games-action/armagetronad 0.2.8.3.4: A fast-paced 3D lightcycle game based on Tron
 games-action/armagetronad-dedicated 0.2.8.3.4: A fast-paced 3D lightcycle game based on Tron - dedicated server
 games-arcade/nsnake 3.0.1-r1: A clone of the classic snake game on the terminal
-games-emulation/dolphin 5.0-r1: Gamecube and Wii game emulator
 games-misc/nyancat 1.5.1-r1: nyancat rendered in your terminal
 media-libs/libshairport 1.2.1_p20121215: A library for emulating an AirPort Express
 media-tv/plex-home-theater 1.4.1-r1: Plex Home Theater
