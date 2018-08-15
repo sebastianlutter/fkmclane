@@ -8,5 +8,5 @@ KEYWORDS=~amd64 ~x86
 LICENSE=GPL-2
 RDEPEND=dev-libs/boost[threads] dev-libs/libxml2 dev-libs/protobuf
 SLOT=0
-_eclasses_=bzr	2378e021cde927edeb1564ca0387b29a
+_eclasses_=bzr	a1b66b9c760a0ab5113e62cf9b64d1fe
 _md5_=a6d4c9bc755a1bd1f5e2dc4e3c4d73f9

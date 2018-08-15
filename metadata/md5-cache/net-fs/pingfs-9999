@@ -6,5 +6,5 @@ HOMEPAGE=https://github.com/yarrick/pingfs
 LICENSE=MIT
 RDEPEND=sys-fs/fuse
 SLOT=0
-_eclasses_=git-r3	8f6de46b0aa318aea0e8cac62ece098b
+_eclasses_=git-r3	918d6a744039c29af2cadc7317459765
 _md5_=a6a9ec013cefc1b5bc3d706e3899ca1e
