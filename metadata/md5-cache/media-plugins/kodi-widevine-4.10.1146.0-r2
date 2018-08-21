@@ -7,5 +7,5 @@ RDEPEND=>=media-tv/kodi-9999
 RESTRICT=bindist mirror strip
 SLOT=0
 SRC_URI=https://dl.google.com/linux/chrome/deb/pool/main/g/google-chrome-stable/google-chrome-stable_68.0.3440.106-1_amd64.deb
-_eclasses_=multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	1e35303c63cd707f6c3422b4493d5607	unpacker	87633b2194cdb56adaa1f5a5c8862c44
+_eclasses_=multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	e4a9360924c5ce9f52e61342cde58512	unpacker	87633b2194cdb56adaa1f5a5c8862c44
 _md5_=fe6714a2f9c946525c22374eb54f5d7d
