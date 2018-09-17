@@ -6,20 +6,20 @@ EAPI=6
 PYTHON_COMPAT=( python2_7 )
 inherit eutils user systemd unpacker pax-utils python-single-r1
 
-COMMIT="115f087d6"
+COMMIT="9e747cb50"
 
 _APPNAME="plexmediaserver"
 _USERNAME="plex"
 _SHORTNAME="${_USERNAME}"
 _FULL_VERSION="${PV}-${COMMIT}"
 
-URI="https://downloads.plex.tv/plex-media-server"
+URI="https://downloads.plex.tv/plex-media-server-new"
 
 DESCRIPTION="A free media library that is intended for use with a plex client."
 HOMEPAGE="http://www.plex.tv/"
 SRC_URI="
-	amd64? ( ${URI}/${_FULL_VERSION}/plexmediaserver_${_FULL_VERSION}_amd64.deb )
-	x86? ( ${URI}/${_FULL_VERSION}/plexmediaserver_${_FULL_VERSION}_i386.deb )
+	amd64? ( ${URI}/${_FULL_VERSION}/debian/plexmediaserver_${_FULL_VERSION}_amd64.deb )
+	x86? ( ${URI}/${_FULL_VERSION}/debian/plexmediaserver_${_FULL_VERSION}_i386.deb )
 "
 
 SLOT="0"
@@ -93,11 +93,13 @@ src_install() {
 	local LOGGING_DIR="/var/log/pms"
 	dodir "${LOGGING_DIR}"
 	chown "${_USERNAME}":"${_USERNAME}" "${ED%/}/${LOGGING_DIR}" || die
+	keepdir "${LOGGING_DIR}"
 
 	# Create default library folder with correct permissions
 	local DEFAULT_LIBRARY_DIR="/var/lib/${_APPNAME}"
 	dodir "${DEFAULT_LIBRARY_DIR}"
 	chown "${_USERNAME}":"${_USERNAME}" "${ED%/}/${DEFAULT_LIBRARY_DIR}" || die
+	keepdir "${DEFAULT_LIBRARY_DIR}"
 
 	# Install the OpenRC init/conf files depending on avahi.
 	if use avahi; then
