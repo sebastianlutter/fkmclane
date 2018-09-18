@@ -10,5 +10,5 @@ RDEPEND=dev-python/pycairo[python_targets_python2_7(-)?,-python_single_target_jy
 REQUIRED_USE=python_targets_python2_7
 SLOT=2.0
 SRC_URI=https://sk1project.net/dc3.php?version=2.0rc2&target=sk1-2.0rc2.tar.gz -> sk1-2.0rc2.tar.gz
-_eclasses_=estack	43ddf5aaffa7a8d0482df54d25a66a1f	multilib	97f470f374f2e94ccab04a2fb21d811e	python-single-r1	3a0fc81f484bfdbd9c2b7448015a36e4	python-utils-r1	12114a2a9aab35b93efc037a196b3234	toolchain-funcs	e4a9360924c5ce9f52e61342cde58512	versionator	2352c3fc97241f6a02042773c8287748
+_eclasses_=estack	43ddf5aaffa7a8d0482df54d25a66a1f	multilib	97f470f374f2e94ccab04a2fb21d811e	python-single-r1	3a0fc81f484bfdbd9c2b7448015a36e4	python-utils-r1	80c4202f2f51d22b08be7d3299e507af	toolchain-funcs	e4a9360924c5ce9f52e61342cde58512	versionator	2352c3fc97241f6a02042773c8287748
 _md5_=6912996e9ef2da8c7b8f199649c2f267
