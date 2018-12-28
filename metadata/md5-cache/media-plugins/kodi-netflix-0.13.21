@@ -2,10 +2,10 @@ DEFINED_PHASES=compile install
 DESCRIPTION=Inputstream based Netflix plugin for Kodi
 EAPI=6
 HOMEPAGE=https://github.com/asciidisco/plugin.video.netflix
-KEYWORDS=~amd64
+KEYWORDS=-* ~amd64
 LICENSE=MIT
 RDEPEND==media-tv/kodi-18* =media-plugins/kodi-inputstream-adaptive-2* >=media-plugins/kodi-widevine-1.4.8.970 <dev-python/pycparser-2.18 dev-python/pycryptodomex[python_targets_python2_7]
 SLOT=0
 SRC_URI=https://github.com/asciidisco/plugin.video.netflix/archive/0.13.21.tar.gz -> plugin.video.netflix-0.13.21.tar.gz
 _eclasses_=multilib	b2f01ad412baf81650c23fcf0975fa33	toolchain-funcs	f164325a2cdb5b3ea39311d483988861
-_md5_=ddb5a59be7cd4532769c3e6376560663
+_md5_=84e5ac4a0c006b91a47e0fd8cb4f8c4b
