@@ -4,9 +4,9 @@ EAPI=6
 HOMEPAGE=https://www.google.com/chrome
 KEYWORDS=-* ~amd64
 LICENSE=google-chrome
-RDEPEND=>=media-tv/kodi-9999
+RDEPEND=>=media-tv/kodi-18
 RESTRICT=bindist mirror strip
 SLOT=0
 SRC_URI=https://dl.google.com/linux/chrome/deb/pool/main/g/google-chrome-stable/google-chrome-stable_71.0.3578.98-1_amd64.deb
 _eclasses_=multilib	b2f01ad412baf81650c23fcf0975fa33	toolchain-funcs	f164325a2cdb5b3ea39311d483988861	unpacker	ee2f5086cd7e7b747b061f58db14d89e
-_md5_=94ba216cf71a68eb515169c9f93c23fc
+_md5_=77b9f0697382ed4fc47182681230043c
