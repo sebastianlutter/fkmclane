@@ -1,7 +1,6 @@
 app-misc/cronic 3: a cure for cron's chronic email problem
 dev-dotnet/gnome-sharp 2.24.2-r2: gnome bindings for mono
 dev-dotnet/gtk-sharp 2.12.21-r1: gtk bindings for mono
-dev-libs/libcec 3.1.0-r1: Library for communicating with the Pulse-Eight USB HDMI-CEC Adaptor
 dev-python/netifaces 0.10.4: Portable network interface information
 games-action/armagetronad 0.2.8.3.4: A fast-paced 3D lightcycle game based on Tron
 games-action/armagetronad-dedicated 0.2.8.3.4: A fast-paced 3D lightcycle game based on Tron - dedicated server
