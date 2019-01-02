@@ -41,5 +41,7 @@ prep() {
 	mount --make-rslave "$1"/run/shm
 	{ set +x; } 2>/dev/null
 
+	df -h
+
 	run "$1" emerge-webrsync
 }
