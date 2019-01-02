@@ -1,12 +1,12 @@
 DEFINED_PHASES=install postinst
-DEPEND=>=media-tv/kodi-17.0 dev-python/requests dev-python/defusedxml
+DEPEND=>=media-tv/kodi-18.0_rc4 dev-python/requests dev-python/defusedxml
 DESCRIPTION=Combine the frontend media player Kodi with the multimedia backend server Plex
 EAPI=6
 HOMEPAGE=https://github.com/croneter/PlexKodiConnect
 KEYWORDS=-* ~amd64 ~x86
 LICENSE=GPL-2
-RDEPEND=>=media-tv/kodi-17.0 dev-python/requests dev-python/defusedxml
+RDEPEND=>=media-tv/kodi-18.0_rc4 dev-python/requests dev-python/defusedxml
 SLOT=0
-SRC_URI=https://github.com/croneter/PlexKodiConnect/archive/2.5.8.zip -> plex-kodi-connect-2.5.8_beta.zip
+SRC_URI=https://github.com/croneter/PlexKodiConnect/archive/2.5.10.zip -> plex-kodi-connect-2.5.10_beta.zip
 _eclasses_=desktop	b1d22ac8bdd4679ab79c71aca235009d	epatch	a1bf4756dba418a7238f3be0cb010c54	estack	43ddf5aaffa7a8d0482df54d25a66a1f	eutils	6e6c2737b59a4b982de6fb3ecefd87f8	ltprune	08f9e1d9ee0af8f5d9a7854efbcd8c0e	multilib	b2f01ad412baf81650c23fcf0975fa33	preserve-libs	ef207dc62baddfddfd39a164d9797648	toolchain-funcs	f164325a2cdb5b3ea39311d483988861	vcs-clean	2a0f74a496fa2b1552c4f3398258b7bf
-_md5_=ae2b2ca6f3cf874631093a23105808bb
+_md5_=9dc99b17b65f0bae000bbd082137d78c
