@@ -6,26 +6,26 @@ EAPI=6
 PYTHON_COMPAT=( python2_7 )
 inherit eutils user systemd unpacker pax-utils python-single-r1
 
-COMMIT="425e4ac90"
+COMMIT="c0e6af42a"
 
 _APPNAME="plexmediaserver"
 _USERNAME="plex"
 _SHORTNAME="${_USERNAME}"
 _FULL_VERSION="${PV}-${COMMIT}"
 
-URI="https://downloads.plex.tv/plex-media-server"
+URI="https://downloads.plex.tv/plex-media-server-new"
 
 DESCRIPTION="A free media library that is intended for use with a plex client."
 HOMEPAGE="http://www.plex.tv/"
 SRC_URI="
-	amd64? ( ${URI}/${_FULL_VERSION}/plexmediaserver_${_FULL_VERSION}_amd64.deb )
-	x86? ( ${URI}/${_FULL_VERSION}/plexmediaserver_${_FULL_VERSION}_i386.deb )
+	amd64? ( ${URI}/${_FULL_VERSION}/debian/plexmediaserver_${_FULL_VERSION}_amd64.deb )
+	x86? ( ${URI}/${_FULL_VERSION}/debian/plexmediaserver_${_FULL_VERSION}_i386.deb )
 "
 
 SLOT="0"
 LICENSE="Plex"
 RESTRICT="mirror bindist strip"
-KEYWORDS="-* ~amd64 ~x86"
+KEYWORDS="-* amd64 x86"
 REQUIRED_USE="${PYTHON_REQUIRED_USE}"
 
 IUSE="pax_kernel system-openssl avahi"
@@ -55,8 +55,8 @@ BINS_TO_PAX_CREATE_FLAGS=( "${ED%/}/usr/lib/plexmediaserver/Resources/Python/bin
 
 S="${WORKDIR}"
 PATCHES=(
-	"${FILESDIR}/virtualenv_start_pms.patch"
-	"${FILESDIR}/plexmediamanager.desktop.patch"
+#	"${FILESDIR}/virtualenv_start_pms.patch"
+	"${FILESDIR}/plexmediamanager.desktop.new.patch"
 )
 
 pkg_setup() {
