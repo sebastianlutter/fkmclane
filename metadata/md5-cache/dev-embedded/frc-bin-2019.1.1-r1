@@ -1,0 +1,11 @@
+DEFINED_PHASES=compile install unpack
+DESCRIPTION=FIRST Robotics Competition control system and programming resources
+EAPI=7
+HOMEPAGE=https://firstinspires.org/
+KEYWORDS=-* ~amd64
+LICENSE=all-rights-reserved
+RESTRICT=mirror bindist binchecks preserve-libs strip
+SLOT=2019
+SRC_URI=https://github.com/wpilibsuite/allwpilib/releases/download/v2019.1.1/WPILib_Linux-2019.1.1.tar.gz https://firstfrc.blob.core.windows.net/frc2019/Radio/FRC_Radio_Configuration_19_1_0.zip http://download.ni.com/support/softlib/first/frc/FileAttachments/FRCUpdateSuite_2019.0.0u.zip
+_eclasses_=eutils	6e6c2737b59a4b982de6fb3ecefd87f8
+_md5_=0fca175d59697d3f94760ca385e0c22a
