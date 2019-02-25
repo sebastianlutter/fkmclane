@@ -7,5 +7,5 @@ LICENSE=MIT
 RDEPEND=>=app-misc/tmux-1.6
 SLOT=0
 SRC_URI=https://github.com/zolrath/wemux/archive/01c6541f8deceff372711241db2a13f21c4b210c.tar.gz -> wemux-3.2.0_p20150822.tar.gz
-_eclasses_=user	8bc2845510e2109af75e3eeac607ec81
+_eclasses_=user	8bd74731cafdcdad8f7a63637302e073
 _md5_=e000df092fc10afc98b4bc5e4f027a8a
