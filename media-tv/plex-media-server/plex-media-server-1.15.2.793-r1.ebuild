@@ -6,7 +6,7 @@ EAPI=7
 PYTHON_COMPAT=( python2_7 )
 inherit eutils user systemd unpacker pax-utils python-single-r1
 
-COMMIT="8bec0f76c"
+COMMIT="782228f99"
 
 _APPNAME="plexmediaserver"
 _USERNAME="plex"
@@ -57,6 +57,7 @@ S="${WORKDIR}"
 PATCHES=(
 	"${FILESDIR}/virtualenv_start_pms.patch"
 	"${FILESDIR}/plexmediamanager.desktop.new.patch"
+	"${FILESDIR}/add_gentoo_profile_as_platform_version.patch"
 )
 
 pkg_setup() {
