@@ -1,0 +1,15 @@
+BDEPEND=dev-util/ninja >=dev-util/cmake-3.9.6
+DEFINED_PHASES=compile configure install postinst postrm preinst prepare test
+DEPEND=>=dev-qt/qtcore-5.11.2 >=dev-qt/qtnetwork-5.11.2 >=dev-qt/qtxml-5.11.2 >=dev-qt/qtwebchannel-5.11.2[qml] >=dev-qt/qtwebengine-5.11.2 >=dev-qt/qtdeclarative-5.11.2 >=dev-qt/qtquickcontrols-5.11.2 >=dev-qt/qtx11extras-5.11.2 media-video/mpv[libmpv] virtual/opengl x11-libs/libX11 x11-libs/libXrandr || ( media-video/ffmpeg[openssl] media-video/ffmpeg[gnutls] media-video/ffmpeg[securetransport] ) cec? ( >=dev-libs/libcec-2.2.0 ) joystick? ( media-libs/libsdl2 virtual/libiconv ) dev-util/desktop-file-utils x11-misc/shared-mime-info
+DESCRIPTION=Next generation Plex Desktop/Embedded Client
+EAPI=7
+HOMEPAGE=http://plex.tv/
+IUSE=cec +desktop download joystick lirc
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-2 PMS-EULA
+RDEPEND=>=dev-qt/qtcore-5.11.2 >=dev-qt/qtnetwork-5.11.2 >=dev-qt/qtxml-5.11.2 >=dev-qt/qtwebchannel-5.11.2[qml] >=dev-qt/qtwebengine-5.11.2 >=dev-qt/qtdeclarative-5.11.2 >=dev-qt/qtquickcontrols-5.11.2 >=dev-qt/qtx11extras-5.11.2 media-video/mpv[libmpv] virtual/opengl x11-libs/libX11 x11-libs/libXrandr || ( media-video/ffmpeg[openssl] media-video/ffmpeg[gnutls] media-video/ffmpeg[securetransport] ) cec? ( >=dev-libs/libcec-2.2.0 ) joystick? ( media-libs/libsdl2 virtual/libiconv ) lirc? ( app-misc/lirc )
+RESTRICT=mirror download? ( network-sandbox )
+SLOT=0
+SRC_URI=https://github.com/plexinc/plex-media-player/archive/v2.32.0.973-62b2e27f.tar.gz -> plex-media-player-2.32.0.973.tar.gz !download? ( https://artifacts.plex.tv/web-client-pmp/115-8a62818ecd072f/buildid.cmake -> buildid-115-8a62818ecd072f.cmake https://artifacts.plex.tv/web-client-pmp/115-8a62818ecd072f/web-client-tv-3.96.0-8a62818.tar.xz https://artifacts.plex.tv/web-client-pmp/115-8a62818ecd072f/web-client-tv-3.96.0-8a62818.tar.xz.sha1 desktop? ( https://artifacts.plex.tv/web-client-pmp/115-8a62818ecd072f/web-client-desktop-3.83.2-ecd072f.tar.xz https://artifacts.plex.tv/web-client-pmp/115-8a62818ecd072f/web-client-desktop-3.83.2-ecd072f.tar.xz.sha1 ) )
+_eclasses_=cmake-utils	ab10bd85e5d38e2a32077bcd91faa1b6	desktop	b1d22ac8bdd4679ab79c71aca235009d	eutils	6e6c2737b59a4b982de6fb3ecefd87f8	flag-o-matic	a09389deba2c0a7108b581e02c7cecbf	multilib	b2f01ad412baf81650c23fcf0975fa33	multiprocessing	cac3169468f893670dac3e7cb940e045	ninja-utils	132cbb376048d079b5a012f5467c4e7f	toolchain-funcs	b45201c4e6c096b98e250336954e64b9	xdg	c7ba313ea1eaf266f95cc6235f7d6a07	xdg-utils	14d00d009167652b1fa363e55effe213
+_md5_=5903558e29d50723e6e0fce6b85e55cb
