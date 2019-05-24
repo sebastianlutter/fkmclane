@@ -8,7 +8,7 @@ games-arcade/nsnake 3.0.1-r1: A clone of the classic snake game on the terminal
 games-misc/nyancat 1.5.2: nyancat rendered in your terminal
 media-libs/libshairport 1.2.1_p20121215: A library for emulating an AirPort Express
 media-tv/plex-home-theater 1.4.1-r1: Plex Home Theater
-media-tv/plex-media-server 1.15.4.993 1.15.5.994: A free media library that is intended for use with a plex client.
+media-tv/plex-media-server 1.15.6.1079: A free media library that is intended for use with a plex client.
 net-vpn/openconnect 8.01: Free client for Cisco AnyConnect SSL VPN software
 sys-apps/fix-gnustack 0.1: Utility to report and remove the executable flag from an ELF object's GNU_STACK
 x11-themes/faba-icon-theme 4.3-r1: Faba is a sexy and modern icon theme with Tango influences.
