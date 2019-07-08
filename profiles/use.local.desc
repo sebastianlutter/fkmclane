@@ -8,8 +8,6 @@ games-action/armagetronad:glew - Enable media-libs/glew opengl extension library
 games-action/armagetronad:music - Enable background music support
 games-action/armagetronad-dedicated:auth - Enable armathentication support
 games-action/armagetronad-dedicated:fortress - Enable support for fortress game mode
-media-tv/plex-media-server:pax_kernel - Add PaX markings to executables
-media-tv/plex-media-server:system-openssl - Add PaX markings to executables
 net-vpn/openconnect:gssapi - Build GSSAPI support
 net-vpn/openconnect:java - Build JNI bindings using jni.h
 net-vpn/openconnect:libproxy - Enable proxy support
