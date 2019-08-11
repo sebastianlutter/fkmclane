@@ -2,14 +2,63 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
+dev-embedded/wpilib:allwpilib - Enable wpilibc and wpilibj
+dev-embedded/wpilib:opencv - Enable OpenCV support
+dev-python/slixmpp:cython - Enable Cython support
+dev-util/unity-editor:android - Enable Android target support
+dev-util/unity-editor:facebook - Enable Facebook Games target support
+dev-util/unity-editor:ios - Enable iOS target support
+dev-util/unity-editor:mac - Enable Mac Standalone target support
+dev-util/unity-editor:webgl - Enable WebGL target support
+dev-util/unity-editor:windows - Enable Windows Standalone target support
 games-action/armagetronad:auth - Enable armathentication support
 games-action/armagetronad:fortress - Enable support for fortress game mode
 games-action/armagetronad:glew - Enable media-libs/glew opengl extension library support
 games-action/armagetronad:music - Enable background music support
 games-action/armagetronad-dedicated:auth - Enable armathentication support
 games-action/armagetronad-dedicated:fortress - Enable support for fortress game mode
+media-libs/zita-resampler:tools - Install zresample and zretune
+media-plugins/calf:experimental - Add experimental plugins
+media-plugins/calf:lv2 - Add support for Ladspa V2
+media-sound/frescobaldi:portmidi - Enable media-libs/portmidi support
+media-sound/ympd:hostchange - allow users of the web frontend to change the MPD host
+media-tv/plex-media-player:cec - Enable support for HDMI-CEC devices via dev-libs/libcec
+media-tv/plex-media-player:desktop - Enable support for the desktop web-client
+media-tv/plex-media-player:download - Download the web frontends at compile time
+media-tv/plex-media-server:pax_kernel - Add PaX markings to executables
+media-tv/plex-media-server:system-openssl - Add PaX markings to executables
+net-analyzer/bro:broccoli - Enable the Bro Client Communication Library
+net-analyzer/bro:broctl - An interactive shell for managing Bro installations
+net-analyzer/bro:broker - Bro's new Messaging Library (experimental)
+net-analyzer/bro:geoip - Enable support for Maxmind's GeoIP library
+net-analyzer/bro:ipv6 - Support for mobile IPv6
+net-analyzer/bro:jemalloc - Support for the Jemalloc allocator
+net-analyzer/bro:python - Enable Python bindings
+net-analyzer/bro:ruby - Enable Ruby bindings (deprecated)
+net-analyzer/bro:tcmalloc - Enable Google's Performance Analysis Tools
+net-analyzer/bro:tools - Small auxiliary tools for Bro
+net-analyzer/bro-sources:broctl - An interactive shell for managing Bro installations
+net-analyzer/bro-sources:broker - Bro's new Messaging Library (experimental)
+net-analyzer/bro-sources:geoip - Enable support for Maxmind's GeoIP library
+net-analyzer/bro-sources:ipv6 - Support for mobile IPv6
+net-analyzer/bro-sources:jemalloc - Support for the Jemalloc allocator
+net-analyzer/bro-sources:python - Enable Python bindings
+net-analyzer/bro-sources:ruby - Enable Ruby bindings (deprecated)
+net-analyzer/bro-sources:tcmalloc - Enable Google's Performance Analysis Tools
+net-im/slack-bin:pax_kernel - Triggers a paxmarking of the binary
+net-mail/syncmaildir:gnome - Enable GNOME applet
 net-vpn/openconnect:gssapi - Build GSSAPI support
 net-vpn/openconnect:java - Build JNI bindings using jni.h
 net-vpn/openconnect:libproxy - Enable proxy support
 net-vpn/openconnect:lz4 - Enable support for lz4 compression
 net-vpn/openconnect:stoken - Enable stoken support
+sci-physics/chipmunk:demos - Build and install Chipmunk demos
+x11-misc/lemonbar:sm - Enable support for monitor selection.
+x11-misc/rofi-pass:otp - Add support for app-admin/pass-otp.
+x11-themes/arc-theme:cinnamon - Install theme for gnome-extra/cinnamon
+x11-themes/arc-theme:gnome-shell - Install theme for gnome-base/gnome-shell
+x11-themes/arc-theme:gtk2 - Install GTK+2 theme
+x11-themes/arc-theme:gtk3 - Install GTK+3 theme
+x11-themes/arc-theme:mate - Install Metacity theme for mate-base/mate
+x11-themes/arc-theme:openbox - Install theme for x11-wm/openbox
+x11-themes/arc-theme:xfce - Install theme for xfce-base/xfwm4

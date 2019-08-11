@@ -1,14 +1,111 @@
+app-admin/linode-cli 1.4.7_p20170411 2.0.18: CLI for the Linode API v4
+app-laptop/macbook12-spi-driver 0_p20190114: Input driver for SPI keyboard/touchpad and touchbar in newer Macbooks
+app-misc/blinkstick 1.1.8_p20161004-r1: Python interface to control BlinkStick devices connected to the computer
 app-misc/cronic 3: a cure for cron's chronic email problem
+app-misc/cwiid 20110107-r3: Library, input driver, and utilities for the Nintendo Wiimote
+app-misc/gotty-bin 1.0.1-r1: Share your terminal as a web application
+app-misc/tty-clock 2.3: analog clock in ncurses
+app-misc/urserver-bin 3.6.0: Unified Remote Server
+app-misc/wemux 3.2.0_p20150822: multi-user tmux made easy
+app-shells/elvish 0.12-r1: A novel Unix shell
 dev-dotnet/gnome-sharp 2.24.2-r2: gnome bindings for mono
 dev-dotnet/gtk-sharp 2.12.21-r1: gtk bindings for mono
+dev-embedded/arduino-bin 1.8.8: electronics prototyping platform based on easy-to-use hardware and software
+dev-embedded/energia-bin 1.8.7_p21-r1: electronics prototyping platform for TI MSP430 LaunchPad based on Arduino
+dev-embedded/frc-bin 2019.2.1: FIRST Robotics Competition control system and programming resources
+dev-embedded/teensyduino-bin 1.45: USB-based electronics prototyping platform compatible with Arduino
+dev-embedded/wpilib 2019.2.1: Libraries for programming the roboRIO
+dev-lang/kaitai-struct-compiler 0.8: Compiler for the Kaitai Struct project
+dev-python/bro-pkg 1.4.2-r2: The Bro Package Manager
+dev-python/btest 0.57: A simple unit testing framework for Bro packages
+dev-python/colorclass 2.2.0-r1: Yet another ANSI color text library for Python
+dev-python/django-archive 0.1.5-r1: Management command for creating compressed archives of Django projects
+dev-python/django-import-export 1.0.0-r2: Django library to import and export data with admin integration
+dev-python/git-python 2.1.11: Library used to interact with Git repositories
 dev-python/netifaces 0.10.4: Portable network interface information
-games-action/armagetronad 0.2.8.3.4: A fast-paced 3D lightcycle game based on Tron
-games-action/armagetronad-dedicated 0.2.8.3.4: A fast-paced 3D lightcycle game based on Tron - dedicated server
+dev-python/pastebin 1.1.2: Python Pastebin.com API
+dev-python/progressbar2 3.39.2: text progress bar library for Python
+dev-python/pycryptodomex 3.6.6: A self-contained cryptographic library for Python - independent library version
+dev-python/pysecuritycenter 3.0.3: A powerful wrapper around the SecurityCenter API
+dev-python/python-docx 0.8.6: Python library for creating and updating Microsoft Word (.docx) files
+dev-python/python-poppler-qt5 9999: A python binding for libpoppler-qt5
+dev-python/python-utils 2.3.0: a collection of functions and classes which shortens common patterns
+dev-python/slixmpp 1.4.0: Python library for XMPP - asyncio fork
+dev-python/terminaltables 3.1.0-r1: Generate simple tables in terminals from a nested list of strings
+dev-python/twilio 6.23.1: Helper library for the Twilio API
+dev-python/vex 0.0.18-r1: Run commands in a virtualenv
+dev-ruby/manpages 0.6.1: Detect man pages within gems and exposes them to the man command
+dev-ruby/optimist 3.0.0: Optimist is a commandline option parser for Ruby that just gets out of your way
+dev-util/conan 0.30.2-r1: Distributed C/C++ package manager
+dev-util/ffdec 10.0.0: Decompiler and editor of Flash SWF files
+dev-util/unity-editor 2017.1.2_rc1 2017.2.0_rc3 2017.3.0_p2: Editor for the Unity game engine
+games-action/armagetronad 0.2.8.3.4 0.4-r2: A fast-paced 3D lightcycle game based on Tron
+games-action/armagetronad-dedicated 0.2.8.3.4 0.4-r1: A fast-paced 3D lightcycle game based on Tron - dedicated server
 games-arcade/nsnake 3.0.1-r1: A clone of the classic snake game on the terminal
+games-misc/git-fire 0.2.3: Save your code in an emergency
+games-misc/lolcat 99.9.20-r1: Rainbows and unicorns!
 games-misc/nyancat 1.5.2: nyancat rendered in your terminal
+games-misc/pipes 1.3.0: animated pipes terminal screensaver
+media-gfx/openscad 9999: The Programmers Solid 3D CAD Modeller
+media-gfx/sk1 2.0_rc2: an open-source illustration program
 media-libs/libshairport 1.2.1_p20121215: A library for emulating an AirPort Express
+media-libs/openvr 1.1.3b: API and runtime for accessing VR hardware from multiple vendors
+media-libs/zita-resampler 1.6.2: A C++ library for resampling audio signals
+media-plugins/calf 0.90.0-r1 9999: A set of open source instruments and effects for digital audio workstations
+media-plugins/gxplugins-lv2 0.6 9999: A set of LV2 plugins from the Guitarix project
+media-plugins/kodi-addon-signals 0.0.3: Kodi mechanism for inter-addon communication
+media-plugins/kodi-inputstream-adaptive 2.3.12: Kodi's Adaptive inputstream addon
+media-plugins/kodi-inputstreamhelper 0.3.3: Kodi module for plugins using InputStream for DRM playback
+media-plugins/kodi-netflix 0.13.21-r2: Inputstream based Netflix plugin for Kodi
+media-plugins/kodi-widevine 4.10.1224.7-r1: An adapter for playing DRM content
+media-plugins/midifilter-lv2 0.4.7: LV2 plugins to filter MIDI events
+media-plugins/plex-for-kodi 0.1.6: Plex's official Plex add-on for Kodi.
+media-plugins/plex-kodi-connect 2.4.11 2.5.20_beta: Combine the frontend media player Kodi with the multimedia backend server Plex
+media-sound/frescobaldi 9999: A LilyPond sheet music text editor
+media-sound/gxtuner 3.0 9999: A simple guitar tuner for JACK
+media-sound/libresonic 6.1 6.2: Libresonic is a free and web-based media streamer.
+media-sound/ympd 1.3.0: Standalone MPD Web GUI written in C, utilizing Websockets and Bootstrap/JS
+media-tv/airtame-bin 3.0.0: Connect wirelessly to a screen using Airtame
 media-tv/plex-home-theater 1.4.1-r1: Plex Home Theater
+media-tv/plex-media-player 2.32.0.973 2.33.1.979 2.34.0.983 2.35.1.986 2.36.0.988 2.37.1.994 2.37.2.996 2.38.0.999: Next generation Plex Desktop/Embedded Client
+media-tv/plex-media-server 1.16.2.1297 1.16.2.1321 1.16.3.1402 1.16.3.1433: A free media library that is intended for use with a plex client.
+media-tv/tautulli 2.1.26: A python based web application for monitoring your Plex Media Server.
+media-video/filebot 4.7.9-r2: Java-based tools to rename TV shows, download subtitles, and validate checksums
+media-video/v4l2loopback 0.12.0: v4l2 loopback device which output is it's own input
+net-analyzer/bro 2.5.5-r3: The Bro Network Security Monitor
+net-analyzer/bro-sources 2.5.5-r1: The Bro Network Security Monitor
+net-analyzer/splunk-bin 7.1.3: The search engine for IT data
+net-fs/pingfs 9999: 'True' cloud storage
+net-im/hangups 0.4.5-r1: Third Party IM Client for Google Hangouts
+net-im/slack-bin 3.3.4: Team collaboration tool
+net-mail/syncmaildir 1.3.0: Sync Mail Dir (smd) is a set of tools to synchronize a pair of mailboxes
+net-p2p/zget 0.11.1-r2: zeroconf based peer to peer file transfer
 net-vpn/openconnect 8.01: Free client for Cisco AnyConnect SSL VPN software
+sci-electronics/eagle 9.1.3: EAGLE schematic and printed circuit board (PCB) layout editor
+sci-electronics/freeroute 1.2.43_p20150316: popular PCB routing and autorouting program
+sci-electronics/fritzing-bin 0.9.3b: Fritzing makes electronics accessible as a creative material for anyone
+sci-physics/chipmunk 7.0.2: Chipmunk2D is a lightweight, fast, and portable 2D rigid body physics library
 sys-apps/fix-gnustack 0.1: Utility to report and remove the executable flag from an ELF object's GNU_STACK
-x11-themes/faba-icon-theme 4.3-r1: Faba is a sexy and modern icon theme with Tango influences.
-x11-themes/moka-icon-theme 5.4.0-r1: Moka is a stylized Linux desktop icon set
+sys-apps/petty 0.1: petty, short for practically enhanced tty, is a tty session starter
+sys-boot/mkusb 0.2: mkusb is an ISO multiboot USB tool with support for Legacy/EFI x86/amd64
+sys-boot/mkwin 0.1.2: mkwin is a tool for creating a bootable USB from a Windows ISO
+sys-firmware/firmware-si2168-b40 4.0.11 4.0.19 4.0.25: Firmware for Silicon Labs Si2168(b40) DVB-T/T2/C demodulator driver
+sys-firmware/firmware-si2168-d60 6.0.1: Firmware for Silicon Labs Si2168(d60) DVB-T/T2/C demodulator driver
+sys-firmware/linux-firmware-hauppauge 0.1.0: Firmware for Hauppauge and WinTV tuners
+sys-fs/exfat-nofuse 0_p20180416-r1: Non-fuse kernel driver for exFat and VFat file systems
+sys-fs/pifs 9999: The data-free filesystem
+sys-fs/udiskie 1.7.5: An automatic disk mounting service using udisks
+sys-kernel/pf-sources 4.19_p8 4.20_p2: Linux kernel fork with new features (-ck patchset (BFS), BFQ, TuxOnIce and UKSM)
+www-plugins/geckodriver 0.23.0: WebDriver <-> Marionette proxy
+www-servers/pagekite 0.5.9.0: PageKite makes local websites or SSH servers publicly accessible in mere seconds
+x11-misc/awf 1.4.0: A Widget Factory
+x11-misc/barline 0.2.9: a simple data collector and formatter for lemonbar and bspwm
+x11-misc/clipster 2.0.1: simple clipboard manager
+x11-misc/lemonbar 1.2_p20161116: a featherweight, lemon-scented, bar based on xcb
+x11-misc/rofi-pass 2.0.1: Rofi frontend for pass
+x11-themes/arc-icon-theme 99999999: Vertex icon theme
+x11-themes/arc-openbox-theme 0_p20170104: Openbox theme created to fit in nicely with the Arc GTK theme
+x11-themes/arc-theme 20180114 20180114_p20180522 20180925: A flat theme with transparent elements for GTK+3, GTK+2 and GNOME Shell
+x11-themes/bibata-xcursors 0.4.1: Material based cursor
+x11-themes/faba-icon-theme 4.3-r1 9999: Faba is a sexy and modern icon theme with Tango influences.
+x11-themes/moka-icon-theme 5.4.0-r1 9999: Moka is a stylized Linux desktop icon set
