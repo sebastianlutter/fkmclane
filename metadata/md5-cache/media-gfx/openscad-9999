@@ -8,5 +8,5 @@ LICENSE=GPL-2
 PROPERTIES=live
 RDEPEND=dev-cpp/eigen:3 dev-libs/boost:= dev-libs/glib:2 dev-libs/gmp:0= dev-libs/mpfr:0= dev-qt/qtcore:5 dev-qt/qtgui:5 dev-qt/qtopengl:5 media-gfx/opencsg media-libs/fontconfig:1.0 media-libs/freetype:2 media-libs/glew:* media-libs/harfbuzz sci-mathematics/cgal >=x11-libs/qscintilla-2.9.4:=[qt5(+)] emacs? ( virtual/emacs )
 SLOT=0
-_eclasses_=elisp-common	23f47b2e1de7abf387105eddd1318738	estack	43ddf5aaffa7a8d0482df54d25a66a1f	git-r3	562b380fc59ae6a8622171d0acb777d1	multilib	1d91b03d42ab6308b5f4f6b598ed110e	qmake-utils	bdf97e69a34b864d6d545f4ec3143ff7	toolchain-funcs	a3a237ef6c0c58546bf23b2c382f9e56	xdg-utils	92c60e3d7f481da372979bdcd33e5109
+_eclasses_=elisp-common	23f47b2e1de7abf387105eddd1318738	estack	43ddf5aaffa7a8d0482df54d25a66a1f	git-r3	562b380fc59ae6a8622171d0acb777d1	multilib	1d91b03d42ab6308b5f4f6b598ed110e	qmake-utils	bdf97e69a34b864d6d545f4ec3143ff7	toolchain-funcs	a3a237ef6c0c58546bf23b2c382f9e56	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
 _md5_=1fd5d3960c6fd4ec963e06514b9b0064
