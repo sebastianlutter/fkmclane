@@ -67,7 +67,7 @@ media-sound/libresonic 6.1 6.2: Libresonic is a free and web-based media streame
 media-sound/ympd 1.3.0: Standalone MPD Web GUI written in C, utilizing Websockets and Bootstrap/JS
 media-tv/airtame-bin 3.0.0: Connect wirelessly to a screen using Airtame
 media-tv/plex-home-theater 1.4.1-r1: Plex Home Theater
-media-tv/plex-media-player 2.39.0.1005: Next generation Plex Desktop/Embedded Client
+media-tv/plex-media-player 2.39.0.1005 2.40.0.1007: Next generation Plex Desktop/Embedded Client
 media-tv/plex-media-server 1.16.5.1488: A free media library that is intended for use with a plex client.
 media-tv/tautulli 2.1.26: A python based web application for monitoring your Plex Media Server.
 media-video/filebot 4.7.9-r2: Java-based tools to rename TV shows, download subtitles, and validate checksums
