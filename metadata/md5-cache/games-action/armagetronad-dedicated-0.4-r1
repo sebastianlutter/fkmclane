@@ -9,5 +9,5 @@ LICENSE=GPL-2
 PROPERTIES=live
 RDEPEND=dev-libs/boost[threads] dev-libs/libxml2 dev-libs/protobuf
 SLOT=0
-_eclasses_=bzr	f97eb9136cdd4b8cfccb3e033fd36db5
+_eclasses_=bzr	d53abbffb0f23594f6ead511cf15f811
 _md5_=a6d4c9bc755a1bd1f5e2dc4e3c4d73f9
