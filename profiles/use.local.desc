@@ -22,11 +22,6 @@ media-plugins/calf:experimental - Add experimental plugins
 media-plugins/calf:lv2 - Add support for Ladspa V2
 media-sound/frescobaldi:portmidi - Enable media-libs/portmidi support
 media-sound/ympd:hostchange - allow users of the web frontend to change the MPD host
-media-tv/plex-media-player:cec - Enable support for HDMI-CEC devices via dev-libs/libcec
-media-tv/plex-media-player:desktop - Enable support for the desktop web-client
-media-tv/plex-media-player:download - Download the web frontends at compile time
-media-tv/plex-media-server:pax_kernel - Add PaX markings to executables
-media-tv/plex-media-server:system-openssl - Add PaX markings to executables
 net-analyzer/bro:broccoli - Enable the Bro Client Communication Library
 net-analyzer/bro:broctl - An interactive shell for managing Bro installations
 net-analyzer/bro:broker - Bro's new Messaging Library (experimental)
