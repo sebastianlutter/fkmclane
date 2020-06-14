@@ -7,5 +7,5 @@ LICENSE=MIT
 RDEPEND==media-tv/kodi-18* =media-plugins/kodi-inputstream-adaptive-2* >=media-plugins/kodi-widevine-1.4.8.970 media-plugins/kodi-addon-signals media-plugins/kodi-inputstreamhelper <dev-python/pycparser-2.18 dev-python/pycryptodomex[python_targets_python2_7]
 SLOT=0
 SRC_URI=https://github.com/asciidisco/plugin.video.netflix/archive/0.13.21.tar.gz -> plugin.video.netflix-0.13.21.tar.gz
-_eclasses_=multilib	ba693a7065ee4edc78b3ea02a015bcad	toolchain-funcs	d3e75048a89c0445838d2f44e5c65d97
+_eclasses_=multilib	2477ebe553d3e4d2c606191fe6c33602	toolchain-funcs	605c126bed8d87e4378d5ff1645330cb
 _md5_=49238f0278e69d637d4c2c1976f52614
