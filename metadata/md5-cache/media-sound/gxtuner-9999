@@ -7,5 +7,5 @@ LICENSE=GPL-2
 PROPERTIES=live
 RDEPEND=x11-libs/cairo sci-libs/fftw:3.0/3 dev-libs/glib x11-libs/gtk+:3 media-libs/zita-resampler media-sound/jack-audio-connection-kit
 SLOT=0
-_eclasses_=git-r3	8ec5b53812bce105ae7943930e4660f8
+_eclasses_=git-r3	3e7ec3d6619213460c85e2aa48398441
 _md5_=69d2109947a0b88a060672dcc65f2508
